@@ -6,7 +6,6 @@
 This project provides an overview of rental prices in Brussels and its surroundings in early 2023.
 
   <br>
-  <hr> 
 
 </details>
 
