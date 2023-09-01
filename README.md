@@ -3,11 +3,6 @@
 
 # MBP | Rental Prices in Brussels
 
-<details>
-  <summary>
-   <h2>Overview</h2>
-  </summary>
-
 This project provides an overview of rental prices in Brussels and its surroundings in early 2023.
 
   <br>
