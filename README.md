@@ -20,7 +20,9 @@ This project provides an overview of rental prices in Brussels and its surroundi
    <h2>Description</h2>
   </summary>
 
-Text.
+This data has been extracted from: https://www.kaggle.com/datasets/mathiassteilen/monthly-rent-of-rented-flats-in-brussels.
+
+During the cleaning process, we focused on the center of the map and excluded areas in Belgium with limited information..
  
   <br>
   
@@ -28,7 +30,7 @@ Text.
 
   <br>
 
-text.
+The dataset included numerous features, which we processed to generate the final ones..
 
 
 
