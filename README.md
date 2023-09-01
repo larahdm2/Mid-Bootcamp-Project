@@ -1,5 +1,5 @@
 
-![lroom2](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/81f0c7fa-a3d9-4f83-9465-b1e178132fcb)
+![Captura de pantalla 2023-09-01 123126](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/3688e5ae-97ad-495f-9396-96fd553a6230)
 
 # MBP | Rental Prices in Brussels
 
@@ -19,7 +19,7 @@ During the cleaning process, we focused on the center of the map and excluded ar
  
   <br>
   
- ![map](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/50a5cd1d-fa8f-4fb6-a1d2-027c15dfe359)
+![Captura de pantalla 2023-09-01 123251](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/82bae658-9d96-429d-bed9-c60fba72a4e9)
 
   <br>
 
