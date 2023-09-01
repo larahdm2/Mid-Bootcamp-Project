@@ -1,5 +1,5 @@
 
-![lroom2](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/b5c07b04-0f87-4966-b3c6-7adc99e0609a)
+![lroom2](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/81f0c7fa-a3d9-4f83-9465-b1e178132fcb)
 
 # MBP | Rental Prices in Brussels
 
