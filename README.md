@@ -2,7 +2,6 @@
 ![Captura de pantalla 2023-09-01 123126](https://github.com/larahdm2/Mid-Bootcamp-Project/assets/138598135/3688e5ae-97ad-495f-9396-96fd553a6230)
 
 # MBP | Rental Prices in Brussels
-# Work in Progress till Monday 4/9/2023
 
 This project provides an overview of rental prices in Brussels and its surroundings in early 2023.
 
@@ -38,6 +37,7 @@ The dataset included numerous features, which we processed to generate the final
    <h2>Files you´ll find</h2>
   </summary>
 
-  Need to upload the files. 
   The work is divided in 3 notebooks: cleaning, EDA and modelling.
-  There is also a copy of the presentation, the dataset in csv, and a link to the tableau work.
+  There is also a copy of the presentation, and the dataset in csv.
+  This is the link to the Tableau work:
+  https://public.tableau.com/views/Mid-Bootcamp-Project_16938119255840/location?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
