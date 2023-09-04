@@ -39,5 +39,5 @@ The dataset included numerous features, which we processed to generate the final
   </summary>
 
   Need to upload the files. 
-  The work is divided in 3 notebooks: cleaning, EDA and modelling. You could find the initial cleaning, exploration and modelling, and the alternative cleaning and modelling that aim to improve the model.
-  there is also a copy of the presentation, the dataset in csv and sql format, and a link to the tableau work.
+  The work is divided in 3 notebooks: cleaning, EDA and modelling.
+  There is also a copy of the presentation, the dataset in csv, and a link to the tableau work.
