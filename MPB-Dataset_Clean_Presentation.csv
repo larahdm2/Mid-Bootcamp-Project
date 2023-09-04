@@ -1,0 +1,2895 @@
+target,kitchen_type,building_condition,postcode,tenement_building,double_glazing,furnished,bathroom,m2,bedrooms,number_bedrooms,Municipality
+780,Installed,Good,1190,No,Yes,Unknown,1,128,10,1,Forest
+1350,Installed,Good,1180,No,No,No,1,90,16,2,Uccle
+1280,Hyper equipped,Good,1040,No,Yes,Unknown,1,90,16,2,Etterbeek
+1040,Hyper equipped,Good,1060,No,No,Yes,1,70,14,1,Saint-Gilles
+2700,Not installed,Renovated,1050,No,Yes,Yes,3,270,10,3,Ixelles
+1200,Hyper equipped,Renovated,1040,No,Yes,Yes,1,50,10,1,Etterbeek
+1450,Hyper equipped,Renovated,1040,No,Yes,Yes,1,60,10,2,Etterbeek
+1030,Installed,Renovated,1030,No,Yes,No,1,60,14,1,Schaerbeek
+730,Installed,Good,1070,No,Yes,No,1,40,15,1,Anderlecht
+1475,Hyper equipped,Renovated,1050,No,Yes,No,2,90,10,2,Ixelles
+1250,Hyper equipped,Renovated,1000,No,Yes,No,1,90,10,1,Brussels City
+980,Not installed,Renovated,1000,No,Yes,No,1,70,10,1,Brussels City
+950,Installed,Renovated,1190,No,Yes,Yes,1,45,20,1,Forest
+1950,Hyper equipped,Renovated,1190,No,Yes,Yes,1,110,16,2,Forest
+750,Installed,Renovated,1190,No,Yes,Unknown,1,54,14,1,Forest
+1550,Installed,Good,1200,No,No,Yes,2,120,10,2,Woluwe-Saint-Lambert
+3300,Hyper equipped,Renovated,1170,No,Yes,No,3,160,16,3,Watermael-Boitsfort
+1400,Installed,Good,1060,No,No,Yes,1,80,10,1,Saint-Gilles
+1040,Installed,Renovated,1200,No,No,Unknown,1,67,10,1,Woluwe-Saint-Lambert
+830,Hyper equipped,Renovated,1060,No,Yes,Unknown,1,50,10,1,Saint-Gilles
+2650,Hyper equipped,Good,1180,No,Yes,Yes,2,140,20,3,Uccle
+1650,Hyper equipped,Renovated,1140,No,Yes,Yes,1,80,14,2,Evere
+815,Installed,Good,1000,No,Yes,Yes,1,45,10,1,Brussels City
+1030,Hyper equipped,Renovated,1050,No,Yes,No,1,70,12,2,Ixelles
+1150,Hyper equipped,Good,1000,No,Yes,Unknown,1,65,20,1,Brussels City
+1195,Installed,Good,1180,No,No,No,1,100,10,2,Uccle
+660,Installed,Good,1140,No,No,No,1,45,10,1,Evere
+1100,Installed,Good,1000,No,Yes,Yes,1,70,15,1,Brussels City
+2100,Not installed,Good,1000,No,Yes,Unknown,1,129,19,2,Brussels City
+3200,Hyper equipped,Renovated,1000,No,Yes,Yes,2,166,10,3,Brussels City
+3200,Hyper equipped,Renovated,1000,No,Yes,Yes,2,166,10,3,Brussels City
+650,Not installed,Good,1083,No,No,Unknown,0,128,10,1,Ganshoren
+880,Installed,Good,1070,No,Yes,No,1,68,15,1,Anderlecht
+1430,Installed,Good,1050,No,No,No,1,70,15,2,Ixelles
+2630,Hyper equipped,Good,1180,No,Yes,Unknown,2,145,10,2,Uccle
+975,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,75,13,2,Woluwe-Saint-Lambert
+970,Semi equipped,Renovated,1000,No,Yes,Unknown,2,80,20,2,Brussels City
+1540,Hyper equipped,Renovated,1200,No,Yes,No,1,115,10,2,Woluwe-Saint-Lambert
+935,Hyper equipped,Good,1140,No,Yes,No,1,71,10,1,Evere
+1740,Not installed,Renovated,1040,No,Yes,Yes,1,130,15,2,Etterbeek
+570,Not installed,Good,1210,No,Yes,Unknown,1,65,10,2,Saint-Josse-ten-Noode
+1345,Installed,Renovated,1050,No,Yes,No,1,100,17,2,Ixelles
+1380,Installed,Good,1040,No,Yes,Yes,2,64,10,1,Etterbeek
+835,Hyper equipped,Renovated,1190,No,Yes,Yes,1,80,10,2,Forest
+930,Installed,Good,1050,No,Yes,Unknown,1,128,10,1,Ixelles
+925,Not installed,Good,1180,No,Yes,No,1,60,10,1,Uccle
+1540,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,90,10,2,Ixelles
+992,Not installed,Renovated,1070,No,No,Unknown,1,70,10,1,Anderlecht
+2225,Not installed,Renovated,1050,No,Yes,No,2,150,25,2,Ixelles
+870,Installed,Renovated,1070,No,Yes,Unknown,1,80,10,1,Anderlecht
+1250,Installed,Good,1060,No,Yes,No,1,89,14,2,Saint-Gilles
+850,Not installed,Good,1090,No,No,Unknown,1,128,10,1,Jette
+830,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,59,13,1,Woluwe-Saint-Lambert
+2250,Hyper equipped,Renovated,1050,No,Yes,Yes,2,76,14,3,Ixelles
+1735,Hyper equipped,Good,1050,No,Yes,Unknown,1,100,10,2,Ixelles
+2425,Installed,Good,1180,No,Yes,No,2,110,10,2,Uccle
+1035,Installed,Renovated,1050,No,Yes,No,1,60,12,2,Ixelles
+1675,Not installed,Good,1050,No,Yes,No,1,155,10,2,Ixelles
+1490,Installed,Renovated,1050,No,Yes,No,2,120,10,2,Ixelles
+2510,Hyper equipped,Renovated,1000,No,Yes,No,2,140,19,2,Brussels City
+1550,Semi equipped,Renovated,1070,No,Yes,No,2,127,15,3,Anderlecht
+1280,Hyper equipped,Renovated,1060,No,Yes,No,1,95,13,2,Saint-Gilles
+1385,Installed,Good,1000,No,Yes,No,1,95,16,2,Brussels City
+1251,Hyper equipped,Renovated,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+1251,Hyper equipped,Renovated,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+865,Installed,Good,1000,No,Yes,No,1,40,12,1,Brussels City
+2175,Installed,Good,1150,No,Yes,No,2,162,14,4,Woluwe-St-Pierre
+690,Installed,Good,1050,No,No,Unknown,1,60,10,1,Ixelles
+860,Installed,Renovated,1060,No,Yes,Unknown,1,65,10,1,Saint-Gilles
+870,Not installed,Good,1030,No,Yes,No,1,115,10,1,Schaerbeek
+1760,Hyper equipped,Renovated,1050,No,Yes,No,1,124,20,2,Ixelles
+1625,Semi equipped,Renovated,1180,No,Yes,No,1,97,15,2,Uccle
+950,Hyper equipped,Good,1000,No,Yes,Unknown,1,55,10,1,Brussels City
+760,Installed,Renovated,1160,No,Yes,Unknown,1,60,14,1,Auderghem
+925,Hyper equipped,Renovated,1070,No,Yes,No,1,58,14,1,Anderlecht
+650,Installed,Good,1090,No,Yes,Unknown,1,38,10,1,Jette
+985,Not installed,No renovated,1080,No,Yes,Unknown,1,83,16,1,Molenbeek-Saint-Jean
+1750,Hyper equipped,Good,1050,No,Yes,Unknown,1,85,11,2,Ixelles
+800,Installed,Good,1180,No,Yes,Unknown,1,63,16,1,Uccle
+1820,Hyper equipped,Renovated,1150,No,Yes,No,2,130,20,3,Woluwe-St-Pierre
+1150,Hyper equipped,Good,1081,No,Yes,Yes,1,55,19,1,Koekelberg
+935,Not installed,Good,1190,No,Yes,Unknown,1,128,10,2,Forest
+1650,Hyper equipped,Renovated,1210,No,Yes,No,2,110,15,3,Saint-Josse-ten-Noode
+790,Semi equipped,Good,1050,No,Yes,Yes,1,50,10,1,Ixelles
+1340,Hyper equipped,Renovated,1050,No,Yes,No,1,120,10,1,Ixelles
+930,Installed,Good,1040,No,No,Unknown,1,128,10,1,Etterbeek
+1180,Hyper equipped,Renovated,1180,No,Yes,Unknown,1,90,14,1,Uccle
+1180,Not installed,Good,1050,No,No,No,1,101,10,2,Ixelles
+1390,Not installed,Renovated,1050,No,No,Unknown,2,90,10,2,Ixelles
+1650,Hyper equipped,Renovated,1050,No,Yes,No,2,128,12,3,Ixelles
+1900,Installed,Renovated,1150,No,Yes,Unknown,2,136,15,2,Woluwe-St-Pierre
+2425,Hyper equipped,Renovated,1050,No,Yes,No,2,105,19,2,Ixelles
+1510,Hyper equipped,Renovated,1050,No,Yes,No,1,116,15,2,Ixelles
+1400,Installed,Good,1030,No,Yes,Yes,2,128,13,2,Schaerbeek
+1000,Not installed,Renovated,1060,No,No,Unknown,1,70,20,1,Saint-Gilles
+1650,Hyper equipped,Renovated,1050,No,Yes,No,2,110,15,3,Ixelles
+2800,Not installed,Good,1180,No,No,Unknown,2,128,10,3,Uccle
+1000,Installed,Renovated,1060,No,Yes,Unknown,1,57,9,1,Saint-Gilles
+2329,Hyper equipped,Renovated,1150,No,Yes,Unknown,3,180,17,3,Woluwe-St-Pierre
+470,Not installed,Good,1180,No,No,Yes,0,128,10,1,Uccle
+1100,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,114,15,1,Ixelles
+1850,Hyper equipped,Renovated,1050,No,Yes,No,1,145,16,2,Ixelles
+1950,Hyper equipped,Renovated,1050,No,Yes,No,3,151,15,2,Ixelles
+1025,Not installed,Renovated,1070,No,Yes,Unknown,2,57,14,1,Anderlecht
+1380,Installed,Renovated,1030,No,Yes,No,1,120,10,2,Schaerbeek
+1050,Semi equipped,Renovated,1120,No,Yes,Unknown,1,100,16,2,Neder-over-Heembeek
+1400,Installed,Good,1150,No,Yes,No,2,120,14,3,Woluwe-St-Pierre
+2650,Not installed,Renovated,1180,No,Yes,No,2,140,10,3,Uccle
+1290,Not installed,Good,1000,No,Yes,No,1,80,10,2,Brussels City
+890,Not installed,Renovated,1050,No,Yes,No,1,48,10,1,Ixelles
+1260,Installed,Renovated,1030,No,No,Unknown,1,95,10,2,Schaerbeek
+1750,Hyper equipped,Renovated,1050,No,Yes,No,2,96,14,2,Ixelles
+1550,Not installed,Good,1060,No,No,Unknown,0,130,10,1,Saint-Gilles
+790,Installed,Good,1050,No,Yes,Yes,1,35,10,1,Ixelles
+1430,Not installed,Renovated,1050,No,Yes,Unknown,1,98,13,2,Ixelles
+1050,Semi equipped,Renovated,1200,No,Yes,Unknown,1,80,13,2,Woluwe-Saint-Lambert
+770,Installed,Renovated,1140,No,Yes,No,1,37,10,1,Evere
+1780,Installed,Good,1050,No,Yes,No,1,167,14,2,Ixelles
+1750,Installed,Good,1050,No,Yes,No,1,89,10,2,Ixelles
+3300,Hyper equipped,Renovated,1000,No,Yes,No,2,128,16,2,Brussels City
+2600,Hyper equipped,Renovated,1000,No,Yes,No,3,128,12,3,Brussels City
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,3,150,15,3,Ixelles
+1065,Hyper equipped,Renovated,1083,No,Yes,No,1,71,13,1,Ganshoren
+990,Semi equipped,Renovated,1050,No,Yes,No,1,80,12,1,Ixelles
+805,Installed,Renovated,1083,No,Yes,No,1,65,12,1,Ganshoren
+1185,Installed,Renovated,1082,No,Yes,No,1,95,14,2,Berchem-Sainte-Agathe
+4350,Hyper equipped,Renovated,1050,No,Yes,No,3,220,20,3,Ixelles
+1120,Hyper equipped,Renovated,1083,No,Yes,Unknown,1,65,12,1,Ganshoren
+1205,Hyper equipped,Renovated,1083,No,Yes,Unknown,1,70,12,1,Ganshoren
+920,Hyper equipped,Renovated,1083,No,Yes,Unknown,1,42,10,1,Ganshoren
+2200,Hyper equipped,Renovated,1150,No,Yes,No,3,173,18,5,Woluwe-St-Pierre
+1380,Semi equipped,Renovated,1150,No,Yes,No,1,100,15,2,Woluwe-St-Pierre
+850,Hyper equipped,Good,1190,No,Yes,No,1,60,12,2,Forest
+1100,Installed,Good,1000,No,Yes,No,1,74,16,1,Brussels City
+1400,Not installed,Renovated,1160,No,Yes,Unknown,1,100,12,3,Auderghem
+905,Hyper equipped,Renovated,1180,No,Yes,No,1,47,10,1,Uccle
+1100,Hyper equipped,Renovated,1040,No,Yes,Yes,1,38,10,1,Etterbeek
+1750,Installed,Renovated,1160,No,Yes,Yes,1,72,14,1,Auderghem
+1200,Hyper equipped,Renovated,1000,No,No,Yes,1,60,12,1,Brussels City
+1340,Installed,Renovated,1150,No,Yes,No,1,80,13,1,Woluwe-St-Pierre
+1330,Hyper equipped,Renovated,1160,No,Yes,No,1,90,14,2,Auderghem
+2100,Hyper equipped,Renovated,1000,No,Yes,No,2,139,14,2,Brussels City
+1180,Not installed,Renovated,1080,No,Yes,Unknown,1,100,20,2,Molenbeek-Saint-Jean
+1250,Hyper equipped,Good,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+1250,Hyper equipped,Good,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+900,Not installed,Renovated,1080,No,Yes,No,1,98,15,2,Molenbeek-Saint-Jean
+1650,Hyper equipped,Renovated,1040,No,Yes,No,2,135,22,3,Etterbeek
+4100,Hyper equipped,Renovated,1000,No,Yes,Yes,3,220,26,2,Brussels City
+1850,Not installed,Good,1160,No,No,Unknown,2,128,10,3,Auderghem
+1480,Hyper equipped,Renovated,1050,No,Yes,No,1,120,14,2,Ixelles
+2050,Hyper equipped,Renovated,1050,No,Yes,No,3,133,21,3,Ixelles
+1500,Hyper equipped,Renovated,1200,No,Yes,No,1,100,16,2,Woluwe-Saint-Lambert
+2030,Hyper equipped,Renovated,1000,No,No,Yes,1,128,10,2,Brussels City
+1390,Not installed,Good,1050,No,Yes,No,1,120,10,2,Ixelles
+1700,Hyper equipped,Renovated,1050,No,Yes,No,2,131,14,2,Ixelles
+1230,Installed,Good,1170,No,Yes,No,1,66,10,2,Watermael-Boitsfort
+1590,Installed,Renovated,1000,No,Yes,Yes,1,82,14,2,Brussels City
+1590,Installed,Renovated,1050,No,Yes,Yes,1,82,14,2,Ixelles
+1170,Installed,Renovated,1000,No,Yes,No,1,57,14,1,Brussels City
+1450,Installed,Renovated,1190,No,Yes,No,1,100,18,2,Forest
+1290,Not installed,Good,1000,No,Yes,No,1,110,10,2,Brussels City
+1375,Hyper equipped,Renovated,1000,No,Yes,No,1,95,17,3,Brussels City
+1660,Hyper equipped,Good,1000,No,Yes,No,1,115,14,2,Brussels City
+1000,Hyper equipped,Good,1180,No,Yes,No,1,75,15,1,Uccle
+750,Hyper equipped,Renovated,1050,No,Yes,Yes,1,40,10,1,Ixelles
+750,Installed,Renovated,1050,No,Yes,Unknown,1,128,10,1,Ixelles
+4930,Hyper equipped,Good,1180,No,No,Yes,3,180,10,3,Uccle
+950,Hyper equipped,Renovated,1000,No,Yes,Yes,1,56,10,1,Brussels City
+1085,Hyper equipped,Renovated,1070,No,Yes,Yes,1,44,8,1,Anderlecht
+900,Not installed,Good,1050,No,No,Unknown,1,128,10,2,Ixelles
+1705,Not installed,Renovated,1000,No,Yes,No,1,85,11,2,Brussels City
+2025,Not installed,Renovated,1000,No,Yes,No,1,120,15,3,Brussels City
+1580,Installed,Renovated,1050,No,Yes,No,2,100,18,2,Ixelles
+2650,Hyper equipped,Renovated,1180,No,Yes,No,3,145,10,3,Uccle
+1430,Installed,Good,1180,No,Yes,No,1,80,15,2,Uccle
+1650,Installed,Good,1180,No,Yes,No,1,125,16,2,Uccle
+900,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,50,8,1,Woluwe-Saint-Lambert
+1225,Hyper equipped,Renovated,1050,No,Yes,No,1,95,17,2,Ixelles
+2000,Hyper equipped,Good,1000,No,Yes,No,2,115,27,2,Brussels City
+3200,Hyper equipped,Renovated,1050,No,Yes,Yes,3,180,20,2,Ixelles
+1175,Installed,Renovated,1050,No,Yes,No,1,70,10,1,Ixelles
+860,Installed,Good,1050,No,No,Unknown,1,128,10,1,Ixelles
+910,Installed,Renovated,1090,No,Yes,Unknown,1,68,16,1,Jette
+1100,Hyper equipped,Renovated,1040,No,Yes,Yes,1,55,12,1,Etterbeek
+950,Installed,Renovated,1050,No,Yes,No,2,72,11,1,Ixelles
+1100,Hyper equipped,Renovated,1060,No,Yes,Yes,1,50,15,1,Saint-Gilles
+1100,Hyper equipped,Good,1050,No,Yes,Yes,1,50,10,1,Ixelles
+1080,Hyper equipped,Good,1000,No,Yes,No,1,70,10,2,Brussels City
+1100,Installed,Good,1030,No,No,Yes,1,90,16,2,Schaerbeek
+2400,Hyper equipped,Good,1180,No,Yes,No,4,132,17,4,Uccle
+890,Semi equipped,Good,1050,No,No,Unknown,1,50,18,1,Ixelles
+1610,Not installed,Renovated,1180,No,Yes,Unknown,2,124,60,2,Uccle
+950,Not installed,Good,1030,No,Yes,No,2,95,10,2,Schaerbeek
+1900,Hyper equipped,Renovated,1200,No,Yes,No,2,137,10,3,Woluwe-Saint-Lambert
+2100,Hyper equipped,Renovated,1200,No,Yes,No,3,160,17,4,Woluwe-Saint-Lambert
+1750,Hyper equipped,Good,1000,No,Yes,Yes,1,95,17,2,Brussels City
+1150,Hyper equipped,Good,1150,No,Yes,No,1,75,16,2,Woluwe-St-Pierre
+1640,Installed,Good,1050,No,Yes,Yes,1,75,10,2,Ixelles
+1220,Installed,Good,1040,No,Yes,No,1,67,10,2,Etterbeek
+3050,Hyper equipped,Renovated,1040,No,Yes,Yes,2,300,20,4,Etterbeek
+1100,Not installed,Good,1140,No,Yes,No,1,100,10,2,Evere
+1275,Not installed,Good,1040,No,Yes,Yes,1,65,10,1,Etterbeek
+715,Installed,Renovated,1050,No,Yes,Unknown,1,60,10,1,Ixelles
+816,Installed,Good,1030,No,Yes,No,1,48,10,1,Schaerbeek
+1100,Installed,Good,1060,No,Yes,Yes,1,50,10,1,Saint-Gilles
+1800,Hyper equipped,Renovated,1040,No,Yes,No,1,109,16,2,Etterbeek
+970,Installed,Good,1180,No,Yes,No,1,74,14,2,Uccle
+920,Not installed,Good,1040,No,Yes,No,1,42,10,1,Etterbeek
+1380,Hyper equipped,Renovated,1070,No,Yes,No,1,128,18,2,Anderlecht
+1205,Hyper equipped,Good,1040,No,Yes,No,1,70,10,1,Etterbeek
+921,Not installed,Good,1040,No,Yes,No,1,63,10,1,Etterbeek
+1355,Hyper equipped,Good,1040,No,Yes,Yes,1,70,10,1,Etterbeek
+1050,Installed,Renovated,1000,No,Yes,Yes,1,128,10,1,Brussels City
+860,Installed,Good,1030,No,Yes,Unknown,1,128,10,1,Schaerbeek
+1315,Not installed,Good,1040,No,Yes,No,1,75,10,1,Etterbeek
+1800,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,120,20,3,Ixelles
+1555,Not installed,Good,1180,No,No,Yes,2,100,15,1,Uccle
+1000,Not installed,Renovated,1083,No,No,Unknown,1,128,16,2,Ganshoren
+2150,Installed,Renovated,1180,No,Yes,Unknown,2,137,13,3,Uccle
+2300,Hyper equipped,Renovated,1000,No,Yes,No,2,128,16,2,Brussels City
+4400,Hyper equipped,Renovated,1050,No,Yes,Yes,2,155,20,2,Ixelles
+4000,Hyper equipped,Renovated,1050,No,Yes,No,3,210,20,3,Ixelles
+1950,Not installed,Renovated,1180,No,Yes,Unknown,2,130,10,2,Uccle
+1150,Semi equipped,Renovated,1200,No,Yes,No,1,102,15,2,Woluwe-Saint-Lambert
+900,Installed,Renovated,1070,No,Yes,No,1,90,10,3,Anderlecht
+1700,Hyper equipped,Renovated,1050,No,Yes,No,1,96,11,2,Ixelles
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,3,150,21,3,Ixelles
+1345,Hyper equipped,Renovated,1180,No,Yes,No,1,72,15,2,Uccle
+1349,Hyper equipped,Renovated,1000,No,Yes,No,1,73,15,1,Brussels City
+2770,Hyper equipped,Renovated,1050,No,Yes,Yes,3,130,14,3,Ixelles
+1380,Hyper equipped,Renovated,1200,No,Yes,No,1,98,18,1,Woluwe-Saint-Lambert
+1150,Hyper equipped,Good,1200,No,Yes,No,1,64,14,1,Woluwe-Saint-Lambert
+2650,Hyper equipped,Renovated,1200,No,Yes,No,2,180,26,5,Woluwe-Saint-Lambert
+2601,Hyper equipped,Renovated,1200,No,Yes,No,3,300,25,5,Woluwe-Saint-Lambert
+1500,Hyper equipped,Renovated,1050,No,Yes,Yes,1,51,13,1,Ixelles
+4400,Hyper equipped,Renovated,1050,No,Yes,No,3,249,20,3,Ixelles
+1230,Hyper equipped,Renovated,1000,No,Yes,Yes,1,43,12,1,Brussels City
+855,Not installed,Renovated,1060,No,Yes,No,1,38,10,1,Saint-Gilles
+2450,Hyper equipped,Renovated,1200,No,Yes,No,2,140,19,2,Woluwe-Saint-Lambert
+1480,Hyper equipped,Good,1180,No,Yes,No,2,100,14,2,Uccle
+1300,Hyper equipped,Renovated,1180,No,Yes,No,1,100,14,2,Uccle
+1300,Hyper equipped,Renovated,1180,No,Yes,No,1,100,14,2,Uccle
+3550,Hyper equipped,Renovated,1180,No,Yes,No,3,300,10,3,Uccle
+2600,Installed,Good,1000,No,Yes,No,2,170,17,3,Brussels City
+2100,Hyper equipped,Renovated,1000,No,Yes,Yes,2,160,10,2,Brussels City
+720,Not installed,Good,1040,No,No,Unknown,0,128,10,1,Etterbeek
+2450,Hyper equipped,Good,1000,No,Yes,Yes,1,79,18,1,Brussels City
+1400,Hyper equipped,Good,1000,No,Yes,Yes,1,80,13,2,Brussels City
+1400,Installed,Renovated,1060,No,Yes,Yes,1,109,11,1,Saint-Gilles
+1200,Installed,Good,1040,No,Yes,Unknown,1,128,20,1,Etterbeek
+1280,Installed,Good,1180,No,No,Unknown,2,128,16,2,Uccle
+1750,Installed,Renovated,1050,No,Yes,No,2,100,20,2,Ixelles
+1180,Hyper equipped,Renovated,1050,No,Yes,Yes,1,90,13,1,Ixelles
+900,Not installed,Renovated,1020,No,No,Yes,0,52,10,1,Laeken
+1850,Installed,Good,1150,No,Yes,No,2,130,10,3,Woluwe-St-Pierre
+1370,Hyper equipped,Good,1040,No,Yes,No,2,154,10,3,Etterbeek
+1300,Hyper equipped,Good,1000,No,No,No,1,112,33,1,Brussels City
+1180,Installed,Good,1000,No,Yes,No,1,70,13,2,Brussels City
+1200,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,95,17,2,Brussels City
+1050,Hyper equipped,Renovated,1200,No,Yes,No,1,60,15,1,Woluwe-Saint-Lambert
+1290,Not installed,Good,1050,No,Yes,No,2,70,10,2,Ixelles
+1145,Not installed,Renovated,1030,No,No,Unknown,1,90,10,2,Schaerbeek
+1275,Hyper equipped,Renovated,1200,No,Yes,No,1,70,15,1,Woluwe-Saint-Lambert
+1350,Hyper equipped,Renovated,1050,No,Yes,No,2,77,14,1,Ixelles
+3400,Hyper equipped,Good,1050,No,Yes,No,4,280,23,4,Ixelles
+1450,Installed,Renovated,1180,No,Yes,Unknown,1,100,15,2,Uccle
+1250,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,80,16,2,Schaerbeek
+1100,Installed,Renovated,1040,No,Yes,Yes,1,40,10,1,Etterbeek
+1175,Installed,Good,1030,No,Yes,No,1,70,10,1,Schaerbeek
+1175,Installed,Good,1140,No,Yes,No,1,70,10,1,Evere
+1175,Installed,Good,1030,No,Yes,No,1,70,10,1,Schaerbeek
+1175,Installed,Good,1140,No,Yes,No,1,70,10,1,Evere
+590,Installed,Good,1040,No,Yes,Unknown,1,35,10,1,Etterbeek
+1500,Hyper equipped,Renovated,1050,No,Yes,No,2,100,19,2,Ixelles
+1500,Installed,Good,1000,No,Yes,No,1,128,24,2,Brussels City
+1400,Installed,Renovated,1170,No,Yes,No,1,92,14,3,Watermael-Boitsfort
+1380,Semi equipped,Renovated,1200,No,Yes,No,1,100,15,2,Woluwe-Saint-Lambert
+1500,Hyper equipped,Renovated,1050,No,Yes,No,1,75,10,1,Ixelles
+1850,Hyper equipped,Renovated,1000,No,Yes,No,2,149,10,2,Brussels City
+1125,Hyper equipped,Good,1040,No,Yes,No,1,78,9,2,Etterbeek
+1070,Hyper equipped,Renovated,1030,No,Yes,Yes,1,55,14,1,Schaerbeek
+1680,Not installed,Renovated,1160,No,Yes,Unknown,2,90,14,2,Auderghem
+1380,Hyper equipped,Renovated,1050,No,Yes,Yes,1,75,10,1,Ixelles
+3200,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,230,30,3,Ixelles
+1100,Hyper equipped,Renovated,1200,No,Yes,No,1,78,10,2,Woluwe-Saint-Lambert
+960,Not installed,Good,1000,No,Yes,Unknown,1,85,10,1,Brussels City
+950,Not installed,Good,1000,No,Yes,No,1,50,10,1,Brussels City
+1225,Installed,Good,1050,No,Yes,No,1,80,15,2,Ixelles
+885,Installed,Good,1180,No,Yes,Unknown,0,128,10,1,Uccle
+1795,Hyper equipped,Good,1210,No,Yes,Yes,2,120,10,3,Saint-Josse-ten-Noode
+4200,Installed,Renovated,1050,No,No,Yes,3,150,10,3,Ixelles
+1575,Hyper equipped,Renovated,1050,No,Yes,Yes,1,70,15,1,Ixelles
+1425,Hyper equipped,Good,1150,No,Yes,Unknown,1,136,10,2,Woluwe-St-Pierre
+800,Installed,Good,1180,No,Yes,Unknown,1,47,10,1,Uccle
+2150,Installed,Good,1050,No,No,Yes,2,110,17,3,Ixelles
+1365,Installed,Renovated,1040,No,Yes,Unknown,1,124,20,2,Etterbeek
+1400,Hyper equipped,Renovated,1180,No,Yes,No,2,98,18,2,Uccle
+1250,Installed,Good,1180,No,Yes,No,2,90,10,2,Uccle
+710,Installed,Good,1190,No,No,Unknown,1,44,10,1,Forest
+2300,Hyper equipped,Renovated,1050,No,Yes,No,2,140,10,3,Ixelles
+800,Semi equipped,Good,1040,No,Yes,No,1,67,10,1,Etterbeek
+1700,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,140,15,2,Ixelles
+1450,Hyper equipped,Renovated,1180,No,Yes,No,1,128,10,2,Uccle
+4600,Hyper equipped,Renovated,1180,No,Yes,No,3,218,12,3,Uccle
+1000,Installed,Good,1030,No,Yes,No,1,73,10,2,Schaerbeek
+1100,Not installed,Good,1030,No,Yes,Unknown,1,128,10,2,Schaerbeek
+1215,Not installed,Good,1180,No,No,Unknown,2,128,25,1,Uccle
+1160,Hyper equipped,Good,1180,No,Yes,Unknown,2,90,20,2,Uccle
+1950,Hyper equipped,Good,1180,No,No,No,1,167,10,3,Uccle
+1950,Hyper equipped,Good,1180,No,No,No,1,167,10,3,Uccle
+1725,Hyper equipped,Renovated,1160,No,Yes,No,2,102,18,2,Auderghem
+1100,Not installed,Good,1160,No,Yes,No,1,95,14,2,Auderghem
+940,Not installed,Good,1040,No,Yes,No,1,70,10,1,Etterbeek
+1050,Installed,Good,1000,No,No,Yes,1,71,10,1,Brussels City
+1375,Hyper equipped,Renovated,1050,No,Yes,Yes,1,73,12,1,Ixelles
+800,Not installed,Good,1050,No,No,Unknown,0,60,10,1,Ixelles
+930,Hyper equipped,Renovated,1200,No,Yes,No,1,55,12,1,Woluwe-Saint-Lambert
+1850,Hyper equipped,Renovated,1180,No,Yes,No,2,100,17,2,Uccle
+1585,Hyper equipped,Renovated,1040,No,Yes,Unknown,1,105,20,2,Etterbeek
+1800,Hyper equipped,Renovated,1200,No,Yes,Unknown,2,120,11,3,Woluwe-Saint-Lambert
+800,Not installed,Renovated,1070,No,No,Unknown,1,80,9,2,Anderlecht
+1870,Hyper equipped,Renovated,1000,No,Yes,Yes,1,115,10,2,Brussels City
+1030,Hyper equipped,Renovated,1140,No,Yes,Unknown,1,60,10,1,Evere
+1050,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,45,10,1,Ixelles
+3770,Hyper equipped,Renovated,1050,No,Yes,Yes,2,226,15,4,Ixelles
+1600,Hyper equipped,Renovated,1050,No,Yes,Yes,1,70,10,2,Ixelles
+2000,Installed,Renovated,1050,No,Yes,No,2,135,10,2,Ixelles
+3000,Hyper equipped,Renovated,1050,No,Yes,No,2,136,20,2,Ixelles
+3000,Hyper equipped,Renovated,1050,No,Yes,Yes,2,136,20,2,Ixelles
+1200,Hyper equipped,Good,1050,No,Yes,No,1,86,12,2,Ixelles
+1600,Hyper equipped,Renovated,1050,No,Yes,No,1,103,14,2,Ixelles
+1600,Hyper equipped,Renovated,1050,No,Yes,No,1,103,14,2,Ixelles
+2850,Hyper equipped,Renovated,1180,No,Yes,Yes,2,180,12,3,Uccle
+1300,Not installed,Renovated,1050,No,Yes,Unknown,1,75,10,2,Ixelles
+1305,Hyper equipped,Renovated,1150,No,Yes,No,1,92,12,2,Woluwe-St-Pierre
+2075,Hyper equipped,Renovated,1160,No,Yes,No,2,120,21,3,Auderghem
+1530,Installed,Renovated,1140,No,Yes,No,2,116,14,3,Evere
+1900,Hyper equipped,Renovated,1040,No,Yes,Yes,3,165,20,3,Etterbeek
+1510,Hyper equipped,Renovated,1180,No,Yes,Yes,1,60,15,1,Uccle
+1080,Hyper equipped,Renovated,1180,No,Yes,Yes,1,40,10,1,Uccle
+1050,Hyper equipped,Renovated,1180,No,Yes,Yes,1,40,10,1,Uccle
+985,Not installed,Renovated,1000,No,Yes,No,1,57,10,1,Brussels City
+1600,Hyper equipped,Renovated,1040,No,Yes,No,2,90,17,2,Etterbeek
+950,Installed,Good,1170,No,Yes,No,1,65,20,1,Watermael-Boitsfort
+1600,Hyper equipped,Renovated,1030,No,Yes,No,1,91,14,2,Schaerbeek
+940,Not installed,Good,1050,No,Yes,No,1,128,10,1,Ixelles
+4500,Hyper equipped,Renovated,1050,No,Yes,Yes,2,152,16,2,Ixelles
+4400,Hyper equipped,Renovated,1050,No,Yes,No,4,215,23,3,Ixelles
+1265,Hyper equipped,Renovated,1160,No,Yes,No,1,65,16,1,Auderghem
+1100,Hyper equipped,Renovated,1170,No,Yes,Unknown,1,75,16,2,Watermael-Boitsfort
+1800,Hyper equipped,Renovated,1050,No,No,Unknown,2,110,10,3,Ixelles
+1250,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,128,10,2,Brussels City
+2250,Not installed,Renovated,1160,No,Yes,Unknown,2,175,24,3,Auderghem
+1100,Not installed,Renovated,1190,No,Yes,No,1,85,15,2,Forest
+850,Installed,Good,1060,No,Yes,No,1,60,10,1,Saint-Gilles
+820,Installed,Renovated,1040,No,Yes,No,1,50,10,1,Etterbeek
+3080,Hyper equipped,Renovated,1000,No,Yes,No,2,182,20,3,Brussels City
+800,Not installed,Good,1000,No,Yes,No,1,42,10,1,Brussels City
+900,Not installed,Good,1000,No,Yes,No,1,53,10,1,Brussels City
+1265,Hyper equipped,Renovated,1160,No,Yes,No,1,65,14,1,Auderghem
+735,Installed,Renovated,1200,No,Yes,Unknown,1,45,12,1,Woluwe-Saint-Lambert
+1250,Not installed,Good,1030,No,Yes,No,2,90,10,1,Schaerbeek
+1250,Not installed,Good,1030,No,Yes,No,2,90,10,1,Schaerbeek
+790,Installed,Renovated,1210,No,Yes,No,1,75,12,1,Saint-Josse-ten-Noode
+1350,Hyper equipped,Renovated,1030,No,Yes,Yes,1,85,14,2,Schaerbeek
+1575,Hyper equipped,Good,1040,No,Yes,Yes,1,65,15,2,Etterbeek
+1250,Hyper equipped,Renovated,1210,No,Yes,Yes,1,49,10,1,Saint-Josse-ten-Noode
+1125,Hyper equipped,Good,1000,No,Yes,No,1,65,10,1,Brussels City
+840,Installed,Good,1180,No,Yes,No,1,80,11,1,Uccle
+1360,Installed,Renovated,1180,No,Yes,No,2,114,14,3,Uccle
+1260,Not installed,Good,1150,No,Yes,No,2,95,10,2,Woluwe-St-Pierre
+1800,Installed,Good,1040,No,No,No,1,95,14,2,Etterbeek
+1475,Installed,Good,1030,No,No,No,1,95,16,2,Schaerbeek
+1250,Installed,Good,1150,No,No,Yes,1,70,10,1,Woluwe-St-Pierre
+1600,Not installed,Renovated,1000,No,Yes,No,2,125,10,2,Brussels City
+1870,Hyper equipped,Renovated,1040,No,Yes,Yes,2,140,14,2,Etterbeek
+890,Installed,Good,1180,No,No,No,1,50,15,1,Uccle
+960,Installed,Good,1180,No,No,Yes,1,60,10,1,Uccle
+1065,Hyper equipped,Renovated,1150,No,Yes,Yes,2,68,14,1,Woluwe-St-Pierre
+760,Not installed,Good,1180,No,Yes,Yes,1,45,10,1,Uccle
+825,Not installed,Good,1050,No,Yes,Unknown,1,62,14,1,Ixelles
+830,Not installed,Good,1200,No,Yes,Unknown,1,128,10,1,Woluwe-Saint-Lambert
+1430,Hyper equipped,Renovated,1050,No,Yes,No,2,153,10,2,Ixelles
+950,Hyper equipped,Good,1000,No,Yes,No,1,61,10,1,Brussels City
+1090,Installed,Renovated,1040,No,Yes,Yes,1,60,16,1,Etterbeek
+1650,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,90,15,2,Auderghem
+1495,Hyper equipped,Renovated,1180,No,No,Unknown,1,75,10,1,Uccle
+2680,Hyper equipped,Renovated,1180,No,Yes,Yes,2,165,18,3,Uccle
+3350,Hyper equipped,Renovated,1050,No,Yes,No,2,195,25,3,Ixelles
+1290,Hyper equipped,Good,1040,No,Yes,Yes,1,80,16,2,Etterbeek
+1140,Hyper equipped,Good,1000,No,Yes,Yes,1,70,10,1,Brussels City
+1025,Hyper equipped,Renovated,1040,No,Yes,Yes,1,50,10,1,Etterbeek
+1245,Hyper equipped,Good,1150,No,Yes,Unknown,1,128,10,1,Woluwe-St-Pierre
+3250,Installed,Renovated,1050,No,Yes,Unknown,3,128,220,4,Ixelles
+2200,Not installed,Good,1150,No,Yes,No,1,150,10,4,Woluwe-St-Pierre
+1400,Hyper equipped,Renovated,1040,No,Yes,No,1,83,14,2,Etterbeek
+1790,Not installed,Good,1050,No,Yes,No,1,135,17,2,Ixelles
+1550,Installed,Good,1200,No,Yes,No,1,120,17,3,Woluwe-Saint-Lambert
+2800,Hyper equipped,Good,1000,No,Yes,No,2,192,10,3,Brussels City
+675,Installed,Good,1150,No,Yes,Unknown,1,42,10,1,Woluwe-St-Pierre
+910,Hyper equipped,Renovated,1060,No,Yes,Yes,1,50,10,1,Saint-Gilles
+1350,Hyper equipped,Renovated,1150,No,Yes,No,1,109,14,2,Woluwe-St-Pierre
+800,Installed,Good,1050,No,Yes,No,1,45,16,1,Ixelles
+1195,Installed,Renovated,1180,No,No,No,1,100,16,1,Uccle
+2700,Semi equipped,Renovated,1180,No,Yes,Unknown,2,145,20,3,Uccle
+1380,Installed,Good,1160,No,Yes,Unknown,2,100,12,2,Auderghem
+1400,Not installed,Good,1000,No,Yes,Unknown,1,119,14,3,Brussels City
+1015,Installed,Renovated,1082,No,Yes,Unknown,1,65,15,1,Berchem-Sainte-Agathe
+960,Installed,Good,1070,No,Yes,No,1,86,15,2,Anderlecht
+735,Semi equipped,Renovated,1020,No,Yes,Yes,1,60,12,1,Laeken
+800,Installed,Good,1070,No,Yes,No,1,50,10,1,Anderlecht
+1025,Installed,Good,1060,No,Yes,No,0,45,10,1,Saint-Gilles
+975,Semi equipped,Good,1190,No,Yes,No,1,90,18,1,Forest
+4350,Hyper equipped,Renovated,1050,No,Yes,Yes,2,155,20,2,Ixelles
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,2,170,26,2,Ixelles
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,2,170,26,2,Ixelles
+3350,Installed,Renovated,1050,No,Yes,Yes,2,100,19,2,Ixelles
+750,Installed,Renovated,1070,No,Yes,Unknown,1,70,9,2,Anderlecht
+2200,Hyper equipped,Renovated,1000,No,Yes,No,1,217,10,1,Brussels City
+1150,Hyper equipped,Renovated,1000,No,Yes,No,1,60,17,1,Brussels City
+1350,Hyper equipped,Renovated,1000,No,Yes,No,1,72,15,2,Brussels City
+820,Installed,Good,1000,No,Yes,Yes,1,35,10,1,Brussels City
+1475,Installed,Good,1200,No,Yes,Unknown,2,113,15,2,Woluwe-Saint-Lambert
+1350,Hyper equipped,Renovated,1050,No,Yes,No,1,100,14,2,Ixelles
+2095,Not installed,Good,1160,No,Yes,No,2,135,13,3,Auderghem
+1305,Hyper equipped,Renovated,1150,No,Yes,No,1,90,14,2,Woluwe-St-Pierre
+2175,Hyper equipped,Renovated,1150,No,Yes,No,2,151,14,3,Woluwe-St-Pierre
+1075,Semi equipped,Good,1150,No,Yes,No,1,75,9,2,Woluwe-St-Pierre
+1550,Installed,Renovated,1050,No,Yes,No,2,80,16,1,Ixelles
+1750,Hyper equipped,Renovated,1200,No,Yes,No,1,100,16,2,Woluwe-Saint-Lambert
+1475,Hyper equipped,Renovated,1150,No,Yes,No,1,105,14,2,Woluwe-St-Pierre
+1375,Not installed,Renovated,1050,No,Yes,Unknown,1,85,14,1,Ixelles
+1050,Not installed,Good,1000,No,Yes,No,1,50,12,1,Brussels City
+1100,Hyper equipped,Good,1060,No,Yes,Unknown,1,78,14,1,Saint-Gilles
+1270,Hyper equipped,Good,1000,No,Yes,Unknown,1,95,17,2,Brussels City
+1100,Semi equipped,Good,1190,No,Yes,Unknown,1,65,10,3,Forest
+1150,Hyper equipped,Renovated,1020,No,No,Unknown,1,100,20,2,Laeken
+1770,Hyper equipped,Good,1050,No,Yes,Yes,1,80,10,1,Ixelles
+1525,Hyper equipped,Renovated,1050,No,Yes,No,2,120,16,2,Ixelles
+1450,Hyper equipped,Renovated,1170,No,Yes,Unknown,1,90,10,2,Watermael-Boitsfort
+1470,Hyper equipped,Renovated,1000,No,Yes,No,2,102,10,2,Brussels City
+910,Installed,Renovated,1040,No,Yes,No,1,55,14,1,Etterbeek
+1150,Installed,Good,1150,No,No,No,1,92,18,2,Woluwe-St-Pierre
+1310,Semi equipped,Good,1040,No,Yes,No,1,68,10,1,Etterbeek
+785,Semi equipped,No renovated,1040,No,Yes,Yes,1,58,10,1,Etterbeek
+1195,Hyper equipped,Good,1040,No,Yes,No,1,98,10,2,Etterbeek
+785,Semi equipped,No renovated,1040,No,Yes,Yes,1,58,10,1,Etterbeek
+895,Semi equipped,Good,1040,No,Yes,No,1,53,10,1,Etterbeek
+1500,Installed,Good,1040,No,Yes,No,2,130,10,2,Etterbeek
+1400,Installed,Good,1060,No,Yes,No,2,85,14,2,Saint-Gilles
+1030,Hyper equipped,Good,1000,No,Yes,Unknown,1,70,10,1,Brussels City
+1400,Not installed,Good,1050,No,Yes,No,1,80,10,1,Ixelles
+860,Semi equipped,Good,1060,No,Yes,Unknown,1,50,12,1,Saint-Gilles
+1200,Hyper equipped,Renovated,1180,No,Yes,Unknown,1,128,10,2,Uccle
+870,Not installed,Good,1050,No,No,Unknown,2,60,10,1,Ixelles
+830,Installed,Good,1090,No,Yes,No,1,60,10,1,Jette
+990,Not installed,Good,1140,No,Yes,No,1,64,10,1,Evere
+1700,Not installed,Renovated,1050,No,Yes,No,2,96,15,2,Ixelles
+895,Installed,Good,1060,No,Yes,Unknown,1,62,16,1,Saint-Gilles
+950,Installed,Good,1050,No,No,Yes,1,60,10,1,Ixelles
+865,Not installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+1075,Not installed,Renovated,1030,No,Yes,No,1,75,10,1,Schaerbeek
+760,Semi equipped,Good,1050,No,Yes,No,1,53,10,1,Ixelles
+1540,Hyper equipped,Good,1200,No,Yes,Unknown,1,108,16,2,Woluwe-Saint-Lambert
+1520,Not installed,Good,1000,No,Yes,No,1,70,10,1,Brussels City
+970,Installed,Good,1070,No,Yes,No,1,50,11,1,Anderlecht
+1545,Not installed,Good,1000,No,Yes,No,1,114,10,2,Brussels City
+2040,Not installed,Renovated,1160,No,Yes,No,1,113,13,3,Auderghem
+2200,Not installed,Renovated,1050,No,Yes,Yes,2,135,18,2,Ixelles
+1700,Hyper equipped,Good,1050,No,Yes,No,2,128,14,2,Ixelles
+900,Hyper equipped,Good,1000,No,Yes,No,1,50,10,1,Brussels City
+830,Installed,Good,1000,No,Yes,No,1,55,10,1,Brussels City
+1200,Hyper equipped,Good,1030,No,Yes,No,1,70,10,1,Schaerbeek
+1300,Hyper equipped,Good,1030,No,Yes,No,1,80,10,2,Schaerbeek
+1200,Hyper equipped,Good,1030,No,Yes,No,1,70,10,1,Schaerbeek
+1300,Hyper equipped,Good,1030,No,Yes,No,1,80,10,2,Schaerbeek
+1150,Hyper equipped,Good,1030,No,Yes,No,1,60,10,1,Schaerbeek
+1340,Hyper equipped,Good,1030,No,Yes,No,1,85,10,2,Schaerbeek
+1150,Hyper equipped,Good,1030,No,Yes,No,1,60,10,1,Schaerbeek
+1300,Hyper equipped,Good,1030,No,Yes,No,1,80,10,2,Schaerbeek
+800,Installed,Good,1190,No,Yes,No,1,50,15,1,Forest
+650,Not installed,Good,1180,No,Yes,Unknown,1,128,10,1,Uccle
+1250,Installed,Good,1150,No,No,Unknown,1,116,10,2,Woluwe-St-Pierre
+4650,Hyper equipped,Renovated,1050,No,Yes,No,3,260,19,4,Ixelles
+1400,Hyper equipped,Renovated,1000,No,Yes,No,1,127,10,1,Brussels City
+1420,Hyper equipped,Renovated,1000,No,Yes,No,1,90,20,2,Brussels City
+1050,Installed,Good,1000,No,Yes,Unknown,2,98,10,2,Brussels City
+1280,Not installed,Good,1000,No,Yes,Yes,1,55,10,1,Brussels City
+910,Not installed,Good,1030,No,No,Unknown,1,128,10,1,Schaerbeek
+1380,Hyper equipped,Renovated,1040,No,Yes,Yes,2,64,14,1,Etterbeek
+1000,Semi equipped,Good,1030,No,Yes,No,1,70,14,1,Schaerbeek
+940,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,64,16,1,Ixelles
+895,Hyper equipped,Good,1050,No,Yes,No,1,85,10,1,Ixelles
+800,Not installed,Good,1050,No,No,Unknown,1,40,10,1,Ixelles
+2000,Not installed,Good,1050,No,No,No,1,135,20,2,Ixelles
+2650,Hyper equipped,Renovated,1150,No,Yes,No,3,130,14,3,Woluwe-St-Pierre
+2175,Hyper equipped,Renovated,1160,No,Yes,No,2,123,16,3,Auderghem
+3630,Hyper equipped,Renovated,1150,No,Yes,No,3,190,14,2,Woluwe-St-Pierre
+1400,Hyper equipped,Renovated,1160,No,Yes,Yes,1,51,12,1,Auderghem
+1625,Hyper equipped,Good,1200,No,Yes,Unknown,2,113,14,3,Woluwe-Saint-Lambert
+1075,Hyper equipped,Renovated,1090,No,No,No,1,80,12,2,Jette
+2350,Hyper equipped,Renovated,1000,No,Yes,No,2,130,17,2,Brussels City
+865,Not installed,Good,1000,No,Yes,Yes,1,60,10,1,Brussels City
+1650,Installed,Good,1180,No,No,No,1,100,10,2,Uccle
+1725,Installed,Renovated,1180,No,Yes,Yes,2,88,10,2,Uccle
+1650,Hyper equipped,Renovated,1160,No,Yes,Yes,1,66,8,1,Auderghem
+1850,Hyper equipped,Renovated,1140,No,Yes,Yes,1,97,15,2,Evere
+985,Not installed,Good,1030,No,No,Unknown,1,128,10,2,Schaerbeek
+2100,Installed,Renovated,1200,No,Yes,No,3,180,16,3,Woluwe-Saint-Lambert
+1300,Hyper equipped,Renovated,1160,No,Yes,Yes,1,56,12,1,Auderghem
+875,Installed,Good,1000,No,Yes,No,1,50,16,1,Brussels City
+1200,Installed,Good,1050,No,Yes,Yes,1,35,10,1,Ixelles
+1530,Installed,Good,1180,No,No,No,1,70,10,2,Uccle
+1800,Hyper equipped,Renovated,1160,No,Yes,No,2,110,10,2,Auderghem
+1000,Installed,Good,1180,No,Yes,No,1,70,14,2,Uccle
+1850,Not installed,Good,1000,No,Yes,No,3,130,10,2,Brussels City
+950,Not installed,Good,1150,No,Yes,No,2,105,10,2,Woluwe-St-Pierre
+5750,Not installed,Good,1000,No,Yes,No,3,185,10,3,Brussels City
+2750,Hyper equipped,Renovated,1150,No,Yes,No,2,160,18,3,Woluwe-St-Pierre
+1400,Installed,Renovated,1050,No,Yes,No,1,100,14,2,Ixelles
+2000,Hyper equipped,Renovated,1000,No,Yes,Yes,1,120,10,2,Brussels City
+2920,Semi equipped,Renovated,1050,No,Yes,No,2,118,23,3,Ixelles
+6600,Hyper equipped,Renovated,1050,No,Yes,No,5,240,28,3,Ixelles
+3200,Semi equipped,Renovated,1050,No,Yes,No,2,185,12,3,Ixelles
+3350,Installed,Renovated,1050,No,Yes,No,3,166,12,3,Ixelles
+3350,Hyper equipped,Renovated,1050,No,Yes,Yes,2,100,19,2,Ixelles
+800,Semi equipped,Good,1082,No,Yes,Unknown,1,50,16,1,Berchem-Sainte-Agathe
+995,Hyper equipped,Renovated,1030,No,Yes,No,1,90,20,2,Schaerbeek
+985,Not installed,Renovated,1200,No,Yes,No,1,45,10,1,Woluwe-Saint-Lambert
+995,Not installed,Renovated,1050,No,Yes,Unknown,2,60,10,1,Ixelles
+1400,Not installed,Renovated,1050,No,Yes,Yes,1,55,10,1,Ixelles
+800,Installed,Good,1020,No,Yes,Yes,1,65,11,1,Laeken
+1450,Hyper equipped,Good,1050,No,Yes,No,2,93,16,2,Ixelles
+1690,Hyper equipped,Renovated,1050,No,Yes,No,1,90,16,2,Ixelles
+910,Semi equipped,Good,1050,No,Yes,No,1,60,14,1,Ixelles
+2500,Hyper equipped,Renovated,1050,No,Yes,Yes,1,89,14,1,Ixelles
+1200,Hyper equipped,Renovated,1050,No,Yes,No,1,91,10,2,Ixelles
+1090,Not installed,Renovated,1180,No,Yes,No,1,95,13,2,Uccle
+4930,Hyper equipped,Renovated,1000,No,Yes,Yes,2,180,20,3,Brussels City
+3000,Hyper equipped,Renovated,1000,No,Yes,No,3,195,18,5,Brussels City
+1027,Semi equipped,Good,1040,No,Yes,No,1,56,11,1,Etterbeek
+790,Installed,Good,1170,No,Yes,No,1,55,16,1,Watermael-Boitsfort
+950,Hyper equipped,Renovated,1200,No,Yes,Yes,1,35,10,1,Woluwe-Saint-Lambert
+2620,Hyper equipped,Renovated,1050,No,Yes,No,2,123,20,2,Ixelles
+2730,Hyper equipped,Renovated,1050,No,Yes,No,2,122,20,2,Ixelles
+1830,Hyper equipped,Renovated,1050,No,Yes,Yes,1,85,15,2,Ixelles
+1575,Not installed,Good,1160,No,Yes,No,1,110,12,2,Auderghem
+1530,Hyper equipped,Renovated,1200,No,Yes,No,2,120,14,2,Woluwe-Saint-Lambert
+850,Not installed,Good,1180,No,Yes,Unknown,2,80,19,1,Uccle
+1850,Hyper equipped,Renovated,1180,No,Yes,Yes,1,90,18,2,Uccle
+1850,Hyper equipped,Renovated,1180,No,Yes,Yes,1,90,18,2,Uccle
+5250,Hyper equipped,Renovated,1180,No,Yes,No,3,272,24,3,Uccle
+1550,Hyper equipped,Renovated,1180,No,Yes,Yes,1,70,15,1,Uccle
+2476,Hyper equipped,Renovated,1180,No,Yes,No,2,239,16,4,Uccle
+2170,Hyper equipped,Renovated,1160,No,Yes,No,2,146,14,3,Auderghem
+1200,Installed,Good,1020,No,Yes,No,1,100,11,2,Laeken
+850,Installed,Good,1140,No,Yes,No,1,60,17,1,Evere
+1395,Hyper equipped,Renovated,1000,No,Yes,No,1,66,15,1,Brussels City
+1425,Hyper equipped,Renovated,1000,No,Yes,No,1,120,16,2,Brussels City
+970,Hyper equipped,Renovated,1000,No,Yes,Yes,1,45,10,1,Brussels City
+1920,Hyper equipped,Good,1050,No,Yes,Yes,1,125,15,2,Ixelles
+1150,Installed,Renovated,1050,No,Yes,Yes,0,60,16,1,Ixelles
+945,Installed,Renovated,1030,No,No,Unknown,1,124,12,1,Schaerbeek
+2500,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,120,18,3,Ixelles
+2500,Hyper equipped,Renovated,1060,No,Yes,Unknown,2,120,18,3,Saint-Gilles
+950,Not installed,Good,1060,No,Yes,No,1,60,10,1,Saint-Gilles
+1150,Not installed,Renovated,1050,No,No,No,1,70,13,1,Ixelles
+2300,Not installed,Good,1150,No,No,Unknown,3,220,18,4,Woluwe-St-Pierre
+1950,Hyper equipped,Renovated,1060,No,Yes,Yes,2,145,10,2,Saint-Gilles
+1450,Not installed,Good,1200,No,Yes,Unknown,2,110,10,3,Woluwe-Saint-Lambert
+805,Not installed,Renovated,1000,No,Yes,Yes,1,50,10,1,Brussels City
+990,Not installed,Good,1050,No,Yes,Yes,1,70,10,1,Ixelles
+1440,Hyper equipped,Good,1030,No,Yes,No,1,85,10,2,Schaerbeek
+1440,Hyper equipped,Good,1030,No,Yes,No,1,85,10,2,Schaerbeek
+1025,Hyper equipped,Good,1000,No,Yes,No,1,57,10,1,Brussels City
+1850,Installed,Renovated,1150,No,Yes,Yes,1,90,15,2,Woluwe-St-Pierre
+1200,Installed,Renovated,1030,No,Yes,Yes,1,75,12,1,Schaerbeek
+1035,Installed,Renovated,1050,No,Yes,No,1,75,12,2,Ixelles
+1110,Hyper equipped,Good,1050,No,Yes,Yes,1,60,10,1,Ixelles
+1390,Hyper equipped,Good,1060,No,No,Yes,1,90,10,2,Saint-Gilles
+2550,Hyper equipped,Good,1180,No,Yes,No,2,135,20,2,Uccle
+1885,Installed,Good,1000,No,Yes,No,2,117,12,2,Brussels City
+1730,Hyper equipped,Good,1060,No,Yes,No,1,107,10,2,Saint-Gilles
+2050,Hyper equipped,Good,1050,No,Yes,Yes,2,90,10,2,Ixelles
+2000,Installed,Good,1050,No,Yes,No,3,166,10,3,Ixelles
+1200,Hyper equipped,Renovated,1020,No,Yes,No,1,80,15,2,Laeken
+775,Not installed,Good,1050,No,No,Yes,1,128,10,1,Ixelles
+1050,Semi equipped,Good,1040,No,No,No,1,42,5,1,Etterbeek
+1200,Not installed,Good,1050,No,No,Yes,1,128,12,2,Ixelles
+1520,Installed,Renovated,1040,No,Yes,Unknown,1,116,16,2,Etterbeek
+1500,Hyper equipped,Good,1180,No,Yes,No,2,115,16,2,Uccle
+2490,Hyper equipped,Renovated,1050,No,Yes,No,3,139,12,3,Ixelles
+1900,Hyper equipped,Renovated,1050,No,Yes,No,3,148,23,2,Ixelles
+1700,Hyper equipped,Good,1050,No,No,Yes,2,156,10,3,Ixelles
+1480,Installed,Renovated,1180,No,Yes,No,1,155,16,2,Uccle
+1400,Hyper equipped,Good,1180,No,Yes,Yes,1,80,13,2,Uccle
+1800,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,124,10,3,Uccle
+1550,Not installed,Good,1180,No,Yes,Unknown,2,135,10,3,Uccle
+1855,Hyper equipped,Renovated,1190,No,Yes,Yes,2,126,15,3,Forest
+1070,Not installed,Good,1180,No,Yes,No,1,75,10,1,Uccle
+2100,Not installed,Good,1040,No,Yes,No,1,160,10,4,Etterbeek
+1500,Not installed,Good,1040,No,Yes,No,2,135,10,3,Etterbeek
+900,Installed,Renovated,1090,No,Yes,Unknown,1,70,10,1,Jette
+2400,Hyper equipped,Renovated,1180,No,Yes,No,3,160,10,4,Uccle
+2600,Hyper equipped,Renovated,1050,No,Yes,No,3,167,29,3,Ixelles
+2650,Hyper equipped,Renovated,1050,No,Yes,No,3,145,13,3,Ixelles
+1535,Hyper equipped,Renovated,1200,No,Yes,No,1,95,13,2,Woluwe-Saint-Lambert
+870,Semi equipped,Good,1030,No,Yes,No,1,65,13,1,Schaerbeek
+1050,Installed,Good,1050,No,Yes,No,1,99,12,2,Ixelles
+1185,Hyper equipped,Renovated,1200,No,Yes,No,1,74,11,1,Woluwe-Saint-Lambert
+1200,Hyper equipped,Good,1150,No,Yes,Unknown,1,90,10,2,Woluwe-St-Pierre
+1965,Hyper equipped,Renovated,1000,No,Yes,No,1,111,14,3,Brussels City
+1075,Installed,Renovated,1060,No,Yes,No,1,70,70,1,Saint-Gilles
+1775,Hyper equipped,Renovated,1050,No,Yes,No,1,102,16,2,Ixelles
+1630,Hyper equipped,Good,1000,No,Yes,No,1,95,17,2,Brussels City
+1630,Hyper equipped,Good,1000,No,Yes,No,1,95,17,2,Brussels City
+775,Not installed,Good,1190,No,Yes,Unknown,0,128,10,1,Forest
+1010,Not installed,Good,1040,No,Yes,No,1,70,13,1,Etterbeek
+770,Installed,Renovated,1000,No,Yes,No,1,37,10,1,Brussels City
+2690,Hyper equipped,Renovated,1020,No,Yes,Yes,1,162,16,4,Laeken
+1550,Semi equipped,Good,1040,No,Yes,No,2,133,15,3,Etterbeek
+1100,Not installed,Good,1050,No,Yes,No,1,65,10,1,Ixelles
+1450,Installed,Good,1150,No,Yes,No,1,93,15,2,Woluwe-St-Pierre
+870,Installed,Good,1140,No,Yes,No,1,52,10,1,Evere
+1500,Not installed,Good,1060,No,No,No,2,169,20,3,Saint-Gilles
+1500,Not installed,Good,1050,No,No,No,2,169,20,3,Ixelles
+1540,Installed,Good,1050,No,No,No,1,115,10,2,Ixelles
+1220,Installed,Good,1180,No,No,Unknown,1,100,20,2,Uccle
+2690,Hyper equipped,Renovated,1020,No,Yes,Yes,2,161,17,3,Laeken
+1500,Installed,Good,1070,No,Yes,No,2,90,10,2,Anderlecht
+1100,Installed,Good,1150,No,Yes,No,1,77,13,2,Woluwe-St-Pierre
+1200,Hyper equipped,Renovated,1000,No,Yes,Yes,2,84,10,1,Brussels City
+1260,Hyper equipped,Renovated,1000,No,Yes,No,1,70,14,2,Brussels City
+1350,Installed,Renovated,1050,No,Yes,Unknown,0,100,10,1,Ixelles
+900,Installed,Good,1080,No,Yes,No,1,50,10,1,Molenbeek-Saint-Jean
+1195,Hyper equipped,Good,1050,No,Yes,No,1,70,10,1,Ixelles
+2100,Hyper equipped,Renovated,1150,No,Yes,Yes,3,134,14,3,Woluwe-St-Pierre
+900,Installed,Renovated,1180,No,Yes,No,1,58,10,1,Uccle
+1400,Installed,Good,1050,No,Yes,Yes,1,50,10,1,Ixelles
+2690,Not installed,Good,1040,No,Yes,Yes,1,161,10,4,Etterbeek
+1965,Hyper equipped,Good,1040,No,Yes,Yes,1,111,10,3,Etterbeek
+2300,Not installed,Renovated,1180,No,Yes,No,3,290,10,3,Uccle
+1200,Installed,Good,1210,No,Yes,Unknown,1,84,13,2,Saint-Josse-ten-Noode
+1500,Hyper equipped,Renovated,1050,No,Yes,No,1,100,16,2,Ixelles
+900,Installed,Renovated,1040,No,Yes,Unknown,1,70,15,1,Etterbeek
+1735,Hyper equipped,Good,1050,No,Yes,Unknown,1,102,10,2,Ixelles
+1200,Not installed,Good,1040,No,Yes,No,1,50,10,1,Etterbeek
+1025,Not installed,Good,1000,No,Yes,Unknown,1,55,14,1,Brussels City
+2100,Hyper equipped,Renovated,1050,No,Yes,Yes,1,60,16,1,Ixelles
+1400,Semi equipped,Renovated,1200,No,Yes,Unknown,1,111,14,2,Woluwe-Saint-Lambert
+1450,Hyper equipped,Renovated,1050,No,Yes,No,2,96,14,2,Ixelles
+825,Installed,Renovated,1040,No,Yes,No,1,50,12,1,Etterbeek
+1690,Not installed,Good,1020,No,Yes,Unknown,1,119,12,2,Laeken
+1580,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,100,17,2,Brussels City
+1065,Not installed,Good,1080,No,No,Unknown,0,65,10,1,Molenbeek-Saint-Jean
+1475,Hyper equipped,Renovated,1040,No,Yes,Yes,1,109,16,1,Etterbeek
+900,Not installed,Renovated,1070,No,No,Unknown,1,60,16,1,Anderlecht
+1450,Hyper equipped,Good,1000,No,Yes,Unknown,1,100,22,2,Brussels City
+1035,Hyper equipped,Good,1082,No,Yes,Unknown,1,75,10,1,Berchem-Sainte-Agathe
+1395,Not installed,Good,1000,No,No,Unknown,0,128,10,1,Brussels City
+935,Not installed,Good,1000,No,No,Unknown,1,128,20,1,Brussels City
+1665,Hyper equipped,Renovated,1210,No,Yes,Unknown,2,124,15,3,Saint-Josse-ten-Noode
+1430,Installed,Renovated,1120,No,Yes,Unknown,2,130,15,3,Neder-over-Heembeek
+1700,Installed,Good,1050,No,Yes,Unknown,2,120,14,2,Ixelles
+990,Installed,Renovated,1050,No,Yes,Unknown,1,60,10,1,Ixelles
+1530,Installed,Good,1060,No,Yes,Unknown,1,85,10,2,Saint-Gilles
+985,Installed,Renovated,1200,No,Yes,No,1,40,10,1,Woluwe-Saint-Lambert
+1800,Hyper equipped,Renovated,1050,No,Yes,No,1,94,145,2,Ixelles
+1150,Hyper equipped,Good,1030,No,No,Unknown,1,89,16,2,Schaerbeek
+760,Not installed,Renovated,1180,No,Yes,Unknown,1,128,10,1,Uccle
+1250,Hyper equipped,Renovated,1000,No,Yes,Yes,1,73,15,1,Brussels City
+1580,Installed,Renovated,1050,No,Yes,No,2,100,18,2,Ixelles
+850,Installed,Renovated,1020,No,Yes,Unknown,1,70,10,1,Laeken
+1200,Installed,Renovated,1050,No,Yes,Unknown,1,114,16,1,Ixelles
+1390,Installed,Good,1050,No,No,Yes,2,128,10,2,Ixelles
+2750,Not installed,Renovated,1050,No,Yes,No,1,240,29,5,Ixelles
+2750,Not installed,Renovated,1050,No,Yes,No,1,240,29,5,Ixelles
+3350,Not installed,Renovated,1050,No,Yes,Yes,3,180,33,3,Ixelles
+5400,Not installed,Renovated,1050,No,Yes,No,4,244,23,3,Ixelles
+1650,Not installed,Renovated,1050,No,Yes,No,1,91,22,2,Ixelles
+520,Installed,Good,1210,No,Yes,Yes,2,128,17,1,Saint-Josse-ten-Noode
+1090,Hyper equipped,Renovated,1140,No,Yes,Unknown,1,114,16,1,Evere
+580,Installed,Good,1190,No,Yes,Yes,2,128,16,1,Forest
+1400,Hyper equipped,Good,1060,No,No,Yes,2,105,16,3,Saint-Gilles
+1540,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,108,15,2,Ixelles
+1900,Hyper equipped,Renovated,1150,No,Yes,Unknown,2,150,15,3,Woluwe-St-Pierre
+845,Installed,Renovated,1200,No,Yes,Unknown,1,41,10,1,Woluwe-Saint-Lambert
+2075,Hyper equipped,Good,1150,No,Yes,Unknown,2,125,17,3,Woluwe-St-Pierre
+935,Installed,Renovated,1030,No,No,Unknown,1,128,10,2,Schaerbeek
+450,Not installed,Good,1030,No,No,Unknown,1,128,15,1,Schaerbeek
+1680,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,110,10,2,Ixelles
+1040,Semi equipped,Renovated,1030,No,Yes,Unknown,1,85,16,2,Schaerbeek
+800,Installed,Renovated,1000,No,Yes,Unknown,1,37,10,1,Brussels City
+860,Not installed,Good,1040,No,Yes,No,1,60,10,1,Etterbeek
+750,Not installed,Good,1090,No,Yes,Unknown,1,98,12,1,Jette
+1150,Hyper equipped,Renovated,1180,No,Yes,Unknown,1,98,10,2,Uccle
+1770,Hyper equipped,Renovated,1180,No,Yes,No,2,135,18,3,Uccle
+1530,Not installed,Renovated,1050,No,Yes,No,1,76,18,2,Ixelles
+770,Not installed,Good,1040,No,No,Unknown,1,128,11,1,Etterbeek
+850,Not installed,Good,1030,No,Yes,No,1,55,14,1,Schaerbeek
+850,Hyper equipped,Good,1020,No,Yes,Unknown,1,83,10,1,Laeken
+3350,Hyper equipped,Renovated,1180,No,Yes,Unknown,3,210,25,3,Uccle
+1195,Hyper equipped,Renovated,1000,No,Yes,Unknown,2,128,16,2,Brussels City
+700,Not installed,Good,1070,No,Yes,Yes,1,128,10,1,Anderlecht
+1180,Installed,Renovated,1050,No,Yes,No,1,61,10,1,Ixelles
+2005,Hyper equipped,Renovated,1060,No,Yes,No,2,130,15,2,Saint-Gilles
+3950,Hyper equipped,Good,1050,No,Yes,No,2,155,18,2,Ixelles
+1100,Hyper equipped,Good,1050,No,Yes,Yes,1,80,10,1,Ixelles
+1600,Hyper equipped,Renovated,1050,No,Yes,No,2,93,15,2,Ixelles
+1600,Hyper equipped,Renovated,1050,No,Yes,No,2,93,15,2,Ixelles
+1400,Hyper equipped,Renovated,1050,No,Yes,Yes,1,45,12,1,Ixelles
+1575,Hyper equipped,Renovated,1150,No,Yes,No,2,120,19,2,Woluwe-St-Pierre
+1620,Hyper equipped,Renovated,1200,No,Yes,No,1,110,14,3,Woluwe-Saint-Lambert
+1900,Hyper equipped,Renovated,1050,No,Yes,No,1,140,20,3,Ixelles
+1650,Hyper equipped,Renovated,1160,No,Yes,No,3,180,16,2,Auderghem
+830,Not installed,Good,1070,No,Yes,No,1,38,11,1,Anderlecht
+1100,Semi equipped,Good,1083,No,Yes,Unknown,1,88,8,3,Ganshoren
+950,Installed,Renovated,1160,No,Yes,No,1,72,16,1,Auderghem
+2150,Hyper equipped,Renovated,1180,No,Yes,No,2,179,15,3,Uccle
+1500,Installed,Renovated,1180,No,Yes,Yes,1,91,14,2,Uccle
+1700,Hyper equipped,Renovated,1180,No,Yes,Yes,1,80,12,2,Uccle
+1975,Hyper equipped,Renovated,1180,No,Yes,No,2,100,21,2,Uccle
+1250,Hyper equipped,Good,1040,No,Yes,No,1,92,12,2,Etterbeek
+1480,Hyper equipped,Good,1000,No,Yes,No,1,85,16,2,Brussels City
+1280,Hyper equipped,Renovated,1000,No,Yes,No,1,107,15,2,Brussels City
+1380,Hyper equipped,Good,1200,No,Yes,No,1,100,14,3,Woluwe-Saint-Lambert
+1800,Hyper equipped,Renovated,1000,No,Yes,Yes,2,125,15,2,Brussels City
+1800,Hyper equipped,Renovated,1000,No,Yes,Yes,2,125,15,2,Brussels City
+1750,Hyper equipped,Renovated,1000,No,Yes,Yes,2,128,23,3,Brussels City
+2350,Hyper equipped,Renovated,1050,No,Yes,Yes,1,130,10,2,Ixelles
+1150,Not installed,Good,1160,No,Yes,No,1,85,10,1,Auderghem
+800,Installed,Renovated,1000,No,Yes,Unknown,1,60,16,2,Brussels City
+1850,Installed,Renovated,1050,No,Yes,No,2,145,25,2,Ixelles
+1995,Installed,Good,1000,No,Yes,No,2,195,10,3,Brussels City
+1395,Hyper equipped,Renovated,1040,No,Yes,No,1,85,10,2,Etterbeek
+1395,Hyper equipped,Renovated,1040,No,Yes,No,1,85,10,2,Etterbeek
+1400,Hyper equipped,Renovated,1000,No,Yes,Yes,1,90,10,2,Brussels City
+630,Semi equipped,Good,1190,No,Yes,Unknown,1,35,10,1,Forest
+1370,Installed,Good,1180,No,No,No,3,85,10,2,Uccle
+1550,Hyper equipped,Renovated,1000,No,Yes,No,2,80,10,2,Brussels City
+1340,Hyper equipped,Renovated,1030,No,Yes,No,2,95,10,2,Schaerbeek
+1520,Hyper equipped,Renovated,1030,No,Yes,Yes,2,100,10,2,Schaerbeek
+1400,Hyper equipped,Renovated,1030,No,Yes,No,2,97,10,2,Schaerbeek
+1075,Hyper equipped,Renovated,1030,No,Yes,No,1,87,10,1,Schaerbeek
+1900,Installed,Renovated,1040,No,Yes,No,2,160,21,3,Etterbeek
+735,Installed,Renovated,1050,No,Yes,No,1,40,10,1,Ixelles
+1100,Semi equipped,Good,1090,No,Yes,No,1,75,10,2,Jette
+825,Installed,Good,1000,No,No,No,1,70,20,1,Brussels City
+1470,Hyper equipped,Good,1180,No,No,No,2,103,10,2,Uccle
+2380,Hyper equipped,Renovated,1060,No,Yes,No,2,175,18,3,Saint-Gilles
+3620,Not installed,Renovated,1050,No,Yes,Yes,2,197,10,3,Ixelles
+900,Hyper equipped,Good,1020,No,Yes,Unknown,1,80,10,1,Laeken
+900,Installed,Good,1030,No,Yes,No,1,65,10,1,Schaerbeek
+1325,Hyper equipped,Good,1180,No,Yes,No,1,75,15,2,Uccle
+1210,Installed,Good,1050,No,Yes,No,1,72,10,2,Ixelles
+2250,Hyper equipped,Good,1050,No,Yes,Yes,1,160,10,3,Ixelles
+1050,Hyper equipped,Good,1000,No,Yes,Yes,1,128,10,1,Brussels City
+1535,Installed,Good,1030,No,No,No,2,81,10,3,Schaerbeek
+750,Not installed,Good,1030,No,Yes,Yes,1,50,10,1,Schaerbeek
+1825,Hyper equipped,Renovated,1160,No,Yes,No,3,110,15,3,Auderghem
+2150,Hyper equipped,Renovated,1180,No,Yes,Yes,2,120,16,3,Uccle
+975,Not installed,Renovated,1000,No,Yes,Yes,1,40,10,1,Brussels City
+1060,Not installed,Good,1050,No,No,Unknown,1,85,10,1,Ixelles
+1600,Hyper equipped,Renovated,1060,No,No,Unknown,1,128,15,2,Saint-Gilles
+1075,Hyper equipped,Renovated,1140,No,Yes,No,12,70,16,1,Evere
+1700,Installed,Good,1050,No,No,No,1,130,25,2,Ixelles
+1075,Installed,Renovated,1050,No,Yes,No,1,65,11,1,Ixelles
+1050,Installed,Good,1180,No,Yes,Yes,1,40,10,1,Uccle
+2500,Not installed,Good,1160,No,Yes,No,0,200,10,5,Auderghem
+1780,Hyper equipped,Renovated,1040,No,Yes,No,2,105,15,2,Etterbeek
+900,Installed,Renovated,1000,No,Yes,Yes,1,45,10,1,Brussels City
+850,Not installed,Good,1030,No,No,Unknown,0,128,10,1,Schaerbeek
+550,Installed,Good,1020,No,No,Unknown,1,40,10,1,Laeken
+1000,Hyper equipped,Good,1180,No,Yes,Yes,1,40,10,1,Uccle
+980,Semi equipped,Good,1050,No,Yes,No,1,74,10,1,Ixelles
+970,Hyper equipped,Good,1210,No,Yes,No,1,70,10,1,Saint-Josse-ten-Noode
+700,Hyper equipped,Good,1180,No,Yes,No,1,49,10,1,Uccle
+1550,Hyper equipped,Good,1050,No,Yes,No,2,80,10,2,Ixelles
+1300,Not installed,Good,1180,No,Yes,No,1,100,15,2,Uccle
+1750,Hyper equipped,Good,1050,No,Yes,Yes,2,93,10,2,Ixelles
+2570,Hyper equipped,Good,1050,No,Yes,No,1,135,10,3,Ixelles
+800,Semi equipped,Renovated,1000,No,Yes,Yes,1,36,10,1,Brussels City
+1750,Hyper equipped,Renovated,1000,No,Yes,Yes,1,93,10,2,Brussels City
+1480,Hyper equipped,Renovated,1040,No,Yes,Yes,1,55,15,1,Etterbeek
+2862,Hyper equipped,Renovated,1040,No,Yes,Yes,2,128,10,3,Etterbeek
+2862,Hyper equipped,Renovated,1040,No,Yes,Yes,2,128,10,3,Etterbeek
+1125,Hyper equipped,Renovated,1160,No,Yes,No,1,65,10,1,Auderghem
+1125,Hyper equipped,Renovated,1160,No,Yes,No,1,76,10,1,Auderghem
+810,Not installed,Good,1000,No,No,Unknown,1,65,22,1,Brussels City
+995,Hyper equipped,Renovated,1200,No,Yes,No,1,74,10,1,Woluwe-Saint-Lambert
+1708,Hyper equipped,Renovated,1081,No,Yes,Yes,0,112,10,3,Koekelberg
+1350,Not installed,Good,1000,No,Yes,Yes,1,50,10,1,Brussels City
+1549,Hyper equipped,Renovated,1081,No,Yes,Yes,0,110,10,2,Koekelberg
+3560,Hyper equipped,Renovated,1050,No,Yes,No,2,220,10,3,Ixelles
+1250,Not installed,Renovated,1050,No,Yes,No,1,70,10,1,Ixelles
+2265,Not installed,Renovated,1050,No,Yes,No,1,130,16,2,Ixelles
+3200,Not installed,Renovated,1050,No,Yes,No,2,164,24,2,Ixelles
+2900,Not installed,Renovated,1050,No,Yes,No,2,230,29,5,Ixelles
+1500,Not installed,Renovated,1050,No,Yes,No,1,90,18,2,Ixelles
+1175,Not installed,Renovated,1050,No,Yes,No,1,70,10,1,Ixelles
+1150,Not installed,Renovated,1050,No,Yes,No,1,60,13,1,Ixelles
+2600,Not installed,Renovated,1050,No,Yes,No,1,150,20,3,Ixelles
+1350,Not installed,Renovated,1050,No,Yes,Yes,1,65,15,1,Ixelles
+1750,Not installed,Renovated,1050,No,Yes,No,1,90,17,2,Ixelles
+4850,Not installed,Renovated,1050,No,Yes,No,2,194,17,3,Ixelles
+6000,Not installed,Renovated,1050,No,Yes,No,2,235,18,3,Ixelles
+2500,Installed,Renovated,1050,No,Yes,No,3,192,22,3,Ixelles
+3550,Installed,Renovated,1050,No,Yes,No,3,170,19,3,Ixelles
+3350,Not installed,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+3350,Not installed,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+3350,Not installed,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+3350,Not installed,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+4400,Not installed,Renovated,1050,No,Yes,No,2,200,22,2,Ixelles
+4400,Not installed,Renovated,1050,No,Yes,No,2,200,22,2,Ixelles
+4400,Not installed,Renovated,1050,No,Yes,No,2,200,22,2,Ixelles
+4400,Not installed,Renovated,1050,No,Yes,No,2,200,22,2,Ixelles
+4200,Not installed,Renovated,1050,No,Yes,No,1,200,25,2,Ixelles
+4200,Not installed,Renovated,1050,No,Yes,No,1,200,25,2,Ixelles
+4200,Not installed,Renovated,1050,No,Yes,No,1,200,25,2,Ixelles
+4200,Not installed,Renovated,1050,No,Yes,No,1,200,25,2,Ixelles
+1195,Hyper equipped,Good,1020,No,Yes,No,2,110,15,2,Laeken
+1150,Hyper equipped,Good,1050,No,No,Unknown,1,128,10,1,Ixelles
+1800,Not installed,Good,1000,No,Yes,No,3,152,10,2,Brussels City
+2875,Not installed,Good,1000,No,Yes,No,3,150,10,3,Brussels City
+2000,Not installed,Good,1000,No,Yes,No,3,152,10,2,Brussels City
+6000,Not installed,Good,1000,No,Yes,No,3,200,10,3,Brussels City
+1499,Hyper equipped,Renovated,1081,No,Yes,Yes,0,112,10,2,Koekelberg
+1550,Hyper equipped,Renovated,1000,No,Yes,No,1,79,12,2,Brussels City
+1950,Hyper equipped,Renovated,1000,No,Yes,Unknown,3,220,30,3,Brussels City
+2800,Hyper equipped,Renovated,1050,No,Yes,No,2,160,16,2,Ixelles
+735,Not installed,Good,1000,No,Yes,Yes,1,38,10,1,Brussels City
+1360,Hyper equipped,Renovated,1160,No,Yes,No,2,100,13,2,Auderghem
+1450,Hyper equipped,Renovated,1150,No,Yes,No,1,124,15,3,Woluwe-St-Pierre
+1330,Hyper equipped,Renovated,1070,No,Yes,No,1,80,14,2,Anderlecht
+2150,Hyper equipped,Renovated,1050,No,Yes,No,2,125,22,2,Ixelles
+865,Installed,Renovated,1050,No,Yes,Yes,1,50,25,1,Ixelles
+4200,Hyper equipped,Renovated,1180,No,Yes,Yes,2,170,23,2,Uccle
+3350,Hyper equipped,Renovated,1180,No,Yes,Yes,2,100,24,2,Uccle
+3350,Hyper equipped,Renovated,1180,No,Yes,Yes,2,100,12,2,Uccle
+2375,Installed,Renovated,1180,No,Yes,Yes,2,134,24,3,Uccle
+2800,Hyper equipped,Renovated,1180,No,Yes,No,2,141,10,3,Uccle
+1325,Installed,Renovated,1050,No,Yes,No,2,77,16,1,Ixelles
+1080,Installed,Good,1083,No,Yes,No,1,73,13,2,Ganshoren
+1530,Hyper equipped,Good,1050,No,Yes,No,2,102,13,2,Ixelles
+1500,Installed,Renovated,1050,No,Yes,No,1,94,15,2,Ixelles
+910,Hyper equipped,Renovated,1083,No,Yes,No,1,63,14,1,Ganshoren
+1790,Hyper equipped,Renovated,1081,No,Yes,No,2,115,16,3,Koekelberg
+2680,Hyper equipped,Renovated,1050,No,Yes,No,2,170,15,3,Ixelles
+1750,Hyper equipped,Renovated,1000,No,Yes,Yes,2,93,16,2,Brussels City
+720,Installed,Good,1190,No,No,No,1,86,10,1,Forest
+1600,Not installed,Good,1200,No,Yes,No,2,134,19,2,Woluwe-Saint-Lambert
+1395,Hyper equipped,Renovated,1190,No,Yes,No,2,80,14,2,Forest
+1050,Not installed,Renovated,1083,No,Yes,No,1,62,17,1,Ganshoren
+875,Installed,Good,1200,No,Yes,No,1,65,14,1,Woluwe-Saint-Lambert
+1270,Installed,Renovated,1000,No,Yes,No,1,78,11,2,Brussels City
+1990,Hyper equipped,Good,1180,No,Yes,No,2,112,16,3,Uccle
+1000,Installed,Renovated,1190,No,Yes,Yes,1,70,15,1,Forest
+795,Installed,Good,1040,No,Yes,No,1,66,16,1,Etterbeek
+2500,Hyper equipped,Renovated,1050,No,Yes,No,2,170,16,4,Ixelles
+1350,Semi equipped,Renovated,1190,No,Yes,Unknown,1,85,10,2,Forest
+705,Not installed,Renovated,1150,No,Yes,No,1,40,10,1,Woluwe-St-Pierre
+1700,Hyper equipped,Good,1180,No,Yes,No,2,115,18,2,Uccle
+850,Hyper equipped,Renovated,1180,No,Yes,No,1,128,60,1,Uccle
+1350,Installed,Good,1180,No,No,No,3,105,15,2,Uccle
+2050,Hyper equipped,Good,1180,No,Yes,No,2,134,20,3,Uccle
+1400,Not installed,Good,1083,No,Yes,No,2,95,15,3,Ganshoren
+3000,Installed,Good,1050,No,No,Yes,3,284,22,3,Ixelles
+980,Not installed,Good,1000,No,Yes,Unknown,1,128,10,1,Brussels City
+2210,Hyper equipped,Renovated,1160,No,Yes,No,2,115,12,3,Auderghem
+2100,Hyper equipped,Renovated,1050,No,Yes,No,2,135,16,3,Ixelles
+2250,Installed,Renovated,1180,No,Yes,Yes,2,76,14,3,Uccle
+1450,Hyper equipped,Renovated,1030,No,Yes,Unknown,2,130,15,3,Schaerbeek
+2650,Installed,Good,1050,No,Yes,No,3,184,10,3,Ixelles
+3000,Hyper equipped,Renovated,1050,No,Yes,No,2,220,27,3,Ixelles
+1310,Hyper equipped,Renovated,1160,No,Yes,Unknown,2,90,14,2,Auderghem
+1000,Hyper equipped,Good,1050,No,No,Yes,1,70,10,1,Ixelles
+1200,Installed,Good,1180,No,No,No,1,92,18,2,Uccle
+1170,Installed,Good,1050,No,Yes,No,1,87,10,1,Ixelles
+1400,Hyper equipped,Renovated,1060,No,Yes,Yes,1,65,12,2,Saint-Gilles
+2050,Installed,Renovated,1150,No,Yes,No,2,180,10,3,Woluwe-St-Pierre
+1750,Installed,Renovated,1180,No,Yes,Yes,2,85,15,2,Uccle
+975,Installed,Good,1050,No,No,No,0,70,12,1,Ixelles
+2375,Hyper equipped,Renovated,1140,No,Yes,Yes,2,134,24,3,Evere
+1725,Hyper equipped,Renovated,1160,No,Yes,Yes,1,75,16,2,Auderghem
+1725,Hyper equipped,Renovated,1050,No,Yes,Yes,1,71,11,2,Ixelles
+1500,Hyper equipped,Renovated,1000,No,Yes,Yes,1,91,14,2,Brussels City
+2500,Hyper equipped,Renovated,1140,No,Yes,Yes,2,118,14,3,Evere
+2100,Hyper equipped,Renovated,1040,No,Yes,Yes,2,93,12,3,Etterbeek
+1150,Semi equipped,Renovated,1050,No,No,Unknown,1,60,9,1,Ixelles
+1750,Hyper equipped,Renovated,1140,No,Yes,Yes,1,84,15,2,Evere
+1030,Hyper equipped,Renovated,1140,No,Yes,Yes,1,45,8,1,Evere
+2130,Hyper equipped,Renovated,1160,No,Yes,No,2,139,18,3,Auderghem
+3500,Hyper equipped,Renovated,1150,No,Yes,No,3,285,25,3,Woluwe-St-Pierre
+2130,Hyper equipped,Renovated,1170,No,Yes,No,2,139,18,3,Watermael-Boitsfort
+725,Not installed,Good,1040,No,No,Unknown,0,128,10,1,Etterbeek
+820,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+800,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+800,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+820,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+800,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+800,Installed,Renovated,1000,No,Yes,No,1,128,10,1,Brussels City
+900,Hyper equipped,Renovated,1080,No,Yes,No,1,45,6,1,Molenbeek-Saint-Jean
+715,Not installed,Good,1060,No,Yes,No,1,56,10,1,Saint-Gilles
+975,Not installed,Good,1030,No,No,Unknown,0,128,10,1,Schaerbeek
+995,Installed,Renovated,1140,No,Yes,Unknown,1,45,14,1,Evere
+2600,Hyper equipped,Renovated,1060,No,Yes,No,3,240,18,5,Saint-Gilles
+2950,Not installed,Renovated,1180,No,Yes,No,1,145,32,2,Uccle
+1800,Hyper equipped,Good,1180,No,Yes,No,2,140,17,3,Uccle
+1750,Hyper equipped,Renovated,1180,No,Yes,No,2,119,15,2,Uccle
+1600,Hyper equipped,Renovated,1150,No,Yes,No,1,100,16,2,Woluwe-St-Pierre
+1950,Hyper equipped,Renovated,1050,No,Yes,Yes,2,80,14,2,Ixelles
+1950,Hyper equipped,Renovated,1050,No,Yes,Yes,2,80,14,2,Ixelles
+1050,Hyper equipped,Renovated,1050,No,Yes,No,1,60,12,1,Ixelles
+1150,Installed,Renovated,1200,No,Yes,Unknown,1,75,12,2,Woluwe-Saint-Lambert
+900,Not installed,Good,1180,No,Yes,No,1,50,10,1,Uccle
+1150,Hyper equipped,Renovated,1000,No,Yes,No,1,70,17,1,Brussels City
+1530,Hyper equipped,Renovated,1050,No,Yes,No,1,70,15,2,Ixelles
+2100,Hyper equipped,Renovated,1180,No,Yes,No,2,160,20,3,Uccle
+1950,Installed,Renovated,1180,No,Yes,No,2,129,18,2,Uccle
+2250,Hyper equipped,Good,1180,No,Yes,No,3,180,15,4,Uccle
+1950,Hyper equipped,Renovated,1180,No,Yes,No,2,119,19,3,Uccle
+2930,Hyper equipped,Renovated,1180,No,Yes,Yes,3,200,20,2,Uccle
+1350,Hyper equipped,Good,1083,No,Yes,No,2,106,14,3,Ganshoren
+2470,Hyper equipped,Renovated,1150,No,Yes,No,2,143,19,2,Woluwe-St-Pierre
+2201,Hyper equipped,Good,1180,No,Yes,No,3,180,20,2,Uccle
+2500,Hyper equipped,Renovated,1180,No,Yes,No,2,132,15,3,Uccle
+680,Not installed,Good,1200,No,Yes,No,1,35,10,1,Woluwe-Saint-Lambert
+1200,Installed,Renovated,1200,No,Yes,No,1,100,17,2,Woluwe-Saint-Lambert
+1970,Hyper equipped,Renovated,1050,No,Yes,Yes,1,100,15,2,Ixelles
+1345,Installed,Good,1050,No,Yes,No,1,80,10,1,Ixelles
+1895,Hyper equipped,Renovated,1000,No,Yes,No,2,106,10,3,Brussels City
+1200,Installed,Good,1000,No,No,Unknown,1,80,10,2,Brussels City
+980,Installed,Good,1040,No,Yes,No,1,70,10,1,Etterbeek
+2200,Installed,Good,1180,No,No,No,2,220,10,1,Uccle
+1200,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,65,16,1,Woluwe-Saint-Lambert
+1500,Hyper equipped,Renovated,1150,No,Yes,Unknown,2,96,16,2,Woluwe-St-Pierre
+1420,Hyper equipped,Renovated,1200,No,Yes,Unknown,2,106,12,2,Woluwe-Saint-Lambert
+950,Installed,Renovated,1140,No,Yes,Unknown,1,43,10,1,Evere
+1400,Not installed,Good,1150,No,Yes,Unknown,1,85,12,2,Woluwe-St-Pierre
+1200,Installed,Good,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1170,Hyper equipped,Good,1190,No,Yes,Yes,1,55,14,1,Forest
+975,Not installed,Good,1040,No,Yes,No,1,76,16,1,Etterbeek
+1250,Hyper equipped,Renovated,1070,No,Yes,Yes,1,90,14,2,Anderlecht
+750,Installed,Renovated,1030,No,Yes,Yes,1,35,10,1,Schaerbeek
+1040,Not installed,Renovated,1170,No,Yes,No,1,75,17,1,Watermael-Boitsfort
+1300,Hyper equipped,Renovated,1000,No,Yes,Yes,1,70,10,1,Brussels City
+1500,Not installed,Good,1050,No,Yes,Yes,0,100,10,1,Ixelles
+960,Hyper equipped,Good,1030,No,Yes,No,1,60,11,1,Schaerbeek
+1025,Not installed,Good,1140,No,Yes,Unknown,1,128,10,2,Evere
+1675,Installed,Renovated,1050,No,Yes,No,2,105,15,2,Ixelles
+785,Semi equipped,Renovated,1050,No,Yes,No,1,54,10,1,Ixelles
+3930,Hyper equipped,Renovated,1050,No,Yes,No,2,155,16,2,Ixelles
+1700,Installed,Good,1180,No,Yes,No,2,100,20,2,Uccle
+1000,Installed,Renovated,1020,No,Yes,No,1,80,10,1,Laeken
+940,Semi equipped,Good,1000,No,Yes,Unknown,1,128,10,2,Brussels City
+1300,Hyper equipped,Renovated,1210,No,Yes,Yes,1,128,14,1,Saint-Josse-ten-Noode
+950,Installed,Good,1060,No,Yes,Yes,1,60,10,1,Saint-Gilles
+930,Not installed,Good,1040,No,Yes,No,2,56,10,1,Etterbeek
+1400,Hyper equipped,Good,1180,No,No,Yes,1,60,10,1,Uccle
+900,Installed,Good,1030,No,No,No,1,75,10,1,Schaerbeek
+2070,Installed,Renovated,1000,No,Yes,Unknown,2,98,14,2,Brussels City
+3000,Hyper equipped,Renovated,1050,No,Yes,Yes,2,136,20,2,Ixelles
+1300,Installed,Renovated,1050,No,Yes,No,1,80,17,1,Ixelles
+1070,Not installed,Good,1040,No,No,No,1,50,10,1,Etterbeek
+3525,Hyper equipped,Good,1180,No,No,Yes,2,100,10,2,Uccle
+1135,Installed,Good,1030,No,Yes,No,1,65,13,1,Schaerbeek
+2500,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,114,21,2,Ixelles
+1100,Installed,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1400,Hyper equipped,Renovated,1180,No,Yes,No,1,98,18,2,Uccle
+2595,Hyper equipped,Renovated,1180,No,Yes,No,3,210,28,3,Uccle
+835,Semi equipped,Good,1082,No,Yes,Unknown,1,122,18,2,Berchem-Sainte-Agathe
+1350,Hyper equipped,Renovated,1060,No,Yes,Unknown,1,80,10,1,Saint-Gilles
+1200,Semi equipped,Renovated,1000,No,Yes,No,1,130,10,3,Brussels City
+815,Not installed,Good,1030,No,No,Unknown,1,90,10,1,Schaerbeek
+2400,Not installed,Renovated,1050,No,Yes,No,2,200,10,4,Ixelles
+1700,Not installed,Renovated,1000,No,Yes,Yes,2,115,10,2,Brussels City
+2000,Hyper equipped,Renovated,1200,No,No,Yes,1,110,15,2,Woluwe-Saint-Lambert
+1000,Hyper equipped,Good,1210,No,Yes,No,1,70,10,1,Saint-Josse-ten-Noode
+1320,Installed,Renovated,1140,No,Yes,Unknown,1,70,10,1,Evere
+2680,Hyper equipped,Renovated,1050,No,Yes,No,2,143,10,3,Ixelles
+950,Not installed,Renovated,1000,No,Yes,No,1,45,10,1,Brussels City
+1750,Semi equipped,Renovated,1050,No,Yes,No,2,160,25,3,Ixelles
+1950,Installed,Renovated,1050,No,Yes,No,2,220,40,3,Ixelles
+1350,Hyper equipped,Renovated,1083,No,Yes,No,1,115,15,3,Ganshoren
+870,Installed,Good,1040,No,Yes,Unknown,1,75,19,1,Etterbeek
+2150,Hyper equipped,Renovated,1000,No,Yes,No,1,125,15,3,Brussels City
+850,Installed,Good,1160,No,Yes,No,1,51,17,1,Auderghem
+1650,Hyper equipped,Renovated,1180,No,Yes,Yes,2,100,23,1,Uccle
+4400,Hyper equipped,Renovated,1180,No,Yes,Yes,2,155,19,2,Uccle
+4400,Hyper equipped,Renovated,1180,No,Yes,Yes,2,140,14,2,Uccle
+3050,Hyper equipped,Renovated,1180,No,Yes,No,2,180,14,4,Uccle
+4200,Hyper equipped,Renovated,1180,No,Yes,No,2,170,23,2,Uccle
+4400,Hyper equipped,Renovated,1180,No,Yes,No,2,140,14,2,Uccle
+4400,Hyper equipped,Renovated,1180,No,Yes,No,2,155,19,2,Uccle
+3350,Hyper equipped,Renovated,1180,No,Yes,No,2,100,12,2,Uccle
+3350,Hyper equipped,Renovated,1180,No,Yes,No,2,100,24,2,Uccle
+1200,Hyper equipped,Renovated,1200,No,Yes,No,1,68,12,1,Woluwe-Saint-Lambert
+890,Installed,Renovated,1080,No,Yes,No,1,80,20,1,Molenbeek-Saint-Jean
+1130,Hyper equipped,Good,1070,No,Yes,Yes,1,129,13,1,Anderlecht
+910,Hyper equipped,Renovated,1000,No,Yes,No,1,60,10,1,Brussels City
+2000,Not installed,Good,1050,No,Yes,No,2,220,10,3,Ixelles
+1700,Not installed,Renovated,1050,No,Yes,No,2,160,10,3,Ixelles
+2600,Hyper equipped,Good,1000,No,Yes,No,4,200,10,3,Brussels City
+2350,Installed,Good,1060,No,Yes,No,5,250,10,5,Saint-Gilles
+961,Not installed,Good,1030,No,Yes,No,1,75,22,2,Schaerbeek
+800,Installed,Renovated,1070,No,Yes,Unknown,1,36,10,1,Anderlecht
+1525,Hyper equipped,Good,1040,No,Yes,No,1,85,10,1,Etterbeek
+1525,Hyper equipped,Good,1040,No,Yes,No,1,85,10,1,Etterbeek
+1240,Hyper equipped,Good,1000,No,Yes,No,1,100,35,1,Brussels City
+1250,Hyper equipped,Renovated,1050,No,Yes,Yes,1,70,10,1,Ixelles
+1100,Not installed,Renovated,1180,No,Yes,Yes,1,50,10,1,Uccle
+980,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,75,15,1,Auderghem
+1310,Installed,Renovated,1180,No,Yes,Yes,1,85,17,2,Uccle
+1575,Hyper equipped,Renovated,1050,No,Yes,Yes,1,70,15,1,Ixelles
+2350,Installed,Renovated,1030,No,Yes,Unknown,3,180,15,5,Schaerbeek
+1150,Not installed,Renovated,1200,No,Yes,No,1,120,10,2,Woluwe-Saint-Lambert
+4400,Not installed,Renovated,1050,No,Yes,No,4,250,23,3,Ixelles
+977,Not installed,Good,1070,No,Yes,No,1,82,15,2,Anderlecht
+1010,Hyper equipped,Good,1040,No,Yes,No,1,68,10,1,Etterbeek
+1425,Hyper equipped,Renovated,1140,No,Yes,Yes,1,60,15,1,Evere
+2600,Hyper equipped,Renovated,1000,No,Yes,Yes,2,149,10,3,Brussels City
+3700,Hyper equipped,Renovated,1000,No,Yes,Yes,2,161,24,3,Brussels City
+2800,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,200,10,3,Ixelles
+1850,Hyper equipped,Renovated,1140,No,Yes,Yes,1,89,15,2,Evere
+1640,Not installed,Good,1000,No,Yes,No,2,128,10,3,Brussels City
+3525,Hyper equipped,Good,1180,No,No,Yes,2,100,10,2,Uccle
+1090,Installed,Renovated,1200,No,Yes,Yes,1,70,10,2,Woluwe-Saint-Lambert
+1600,Hyper equipped,Renovated,1030,No,Yes,Unknown,2,94,10,3,Schaerbeek
+965,Hyper equipped,Good,1040,No,Yes,No,1,65,16,1,Etterbeek
+1730,Hyper equipped,Good,1040,No,Yes,No,2,130,10,3,Etterbeek
+900,Semi equipped,Renovated,1040,No,Yes,Yes,1,40,12,1,Etterbeek
+1200,Not installed,Renovated,1040,No,No,Yes,1,128,25,1,Etterbeek
+1100,Not installed,Good,1180,No,Yes,No,1,65,14,1,Uccle
+1100,Installed,Renovated,1030,No,Yes,No,5,105,16,2,Schaerbeek
+1065,Hyper equipped,Renovated,1140,No,Yes,No,1,86,16,2,Evere
+1295,Hyper equipped,Renovated,1000,No,Yes,Yes,1,67,10,1,Brussels City
+1915,Hyper equipped,Renovated,1200,No,Yes,No,2,125,19,3,Woluwe-Saint-Lambert
+1080,Hyper equipped,Renovated,1000,No,Yes,No,2,75,12,1,Brussels City
+2500,Not installed,Good,1170,No,Yes,No,1,145,10,3,Watermael-Boitsfort
+1500,Not installed,Renovated,1180,No,Yes,No,2,118,10,2,Uccle
+650,Installed,Good,1200,No,No,Unknown,1,109,10,1,Woluwe-Saint-Lambert
+1280,Hyper equipped,Renovated,1050,No,Yes,No,1,80,10,2,Ixelles
+1210,Installed,Good,1080,No,Yes,Unknown,2,120,18,2,Molenbeek-Saint-Jean
+1085,Not installed,Good,1000,No,Yes,Yes,1,70,12,2,Brussels City
+1500,Hyper equipped,Renovated,1050,No,Yes,No,1,100,10,2,Ixelles
+5630,Hyper equipped,Renovated,1050,No,Yes,Yes,2,191,13,2,Ixelles
+1500,Hyper equipped,Renovated,1030,No,Yes,No,1,95,16,2,Schaerbeek
+1300,Installed,Good,1040,No,Yes,No,2,150,10,2,Etterbeek
+1730,Installed,Good,1150,No,Yes,No,2,128,16,3,Woluwe-St-Pierre
+1900,Not installed,Good,1180,No,Yes,No,2,110,10,2,Uccle
+1100,Hyper equipped,Renovated,1140,No,Yes,No,1,69,14,1,Evere
+1070,Installed,Good,1170,No,Yes,Unknown,1,90,10,2,Watermael-Boitsfort
+1655,Hyper equipped,Renovated,1180,No,Yes,Unknown,1,98,16,2,Uccle
+2500,Not installed,Renovated,1000,No,Yes,No,3,270,10,3,Brussels City
+1200,Hyper equipped,Good,1070,No,Yes,Unknown,1,140,16,2,Anderlecht
+930,Hyper equipped,Renovated,1050,No,Yes,No,1,119,10,1,Ixelles
+1750,Hyper equipped,Renovated,1050,No,Yes,No,2,160,20,3,Ixelles
+6000,Hyper equipped,Renovated,1050,No,Yes,No,3,187,25,3,Ixelles
+3075,Hyper equipped,Renovated,1050,No,Yes,No,3,187,23,3,Ixelles
+4410,Hyper equipped,Renovated,1050,No,Yes,Yes,3,210,17,3,Ixelles
+1380,Not installed,Renovated,1050,No,Yes,No,1,100,10,2,Ixelles
+1400,Semi equipped,Renovated,1200,No,Yes,No,1,126,15,3,Woluwe-Saint-Lambert
+1450,Installed,Good,1180,No,Yes,Unknown,2,100,13,2,Uccle
+1030,Installed,Renovated,1200,No,Yes,Yes,1,65,18,1,Woluwe-Saint-Lambert
+1250,Hyper equipped,Renovated,1070,No,Yes,Unknown,1,105,10,1,Anderlecht
+2300,Hyper equipped,Renovated,1050,No,Yes,No,2,101,17,2,Ixelles
+1125,Hyper equipped,Good,1000,No,Yes,No,1,90,14,2,Brussels City
+1100,Hyper equipped,Renovated,1050,No,Yes,No,1,56,12,1,Ixelles
+1370,Hyper equipped,Renovated,1000,No,Yes,No,1,100,16,2,Brussels City
+2120,Hyper equipped,Renovated,1050,No,Yes,No,2,130,19,2,Ixelles
+1350,Hyper equipped,Renovated,1050,No,Yes,Yes,1,40,11,1,Ixelles
+1590,Hyper equipped,Renovated,1050,No,Yes,No,2,103,13,2,Ixelles
+1650,Hyper equipped,Renovated,1160,No,Yes,Yes,1,100,14,2,Auderghem
+2601,Hyper equipped,Renovated,1140,No,Yes,No,3,300,25,5,Evere
+1750,Hyper equipped,Renovated,1050,No,Yes,No,2,103,13,2,Ixelles
+2150,Hyper equipped,Renovated,1040,No,Yes,No,1,125,15,3,Etterbeek
+1300,Hyper equipped,Good,1040,No,Yes,No,1,90,15,1,Etterbeek
+660,Not installed,Good,1190,No,Yes,No,1,37,10,1,Forest
+1825,Hyper equipped,Renovated,1180,No,Yes,No,2,140,10,3,Uccle
+1700,Hyper equipped,Good,1180,No,Yes,No,1,140,20,2,Uccle
+1150,Hyper equipped,Good,1050,No,Yes,Yes,2,78,15,1,Ixelles
+3150,Hyper equipped,Renovated,1150,No,Yes,No,2,135,15,3,Woluwe-St-Pierre
+1515,Hyper equipped,Renovated,1140,No,Yes,No,1,96,15,2,Evere
+2000,Hyper equipped,Good,1000,No,Yes,No,2,160,15,2,Brussels City
+1420,Installed,No renovated,1150,No,Yes,No,2,89,12,2,Woluwe-St-Pierre
+1100,Installed,Renovated,1200,No,Yes,No,2,88,13,2,Woluwe-Saint-Lambert
+1350,Installed,Good,1150,No,Yes,No,1,100,15,2,Woluwe-St-Pierre
+1800,Hyper equipped,Renovated,1000,No,Yes,Yes,1,100,10,1,Brussels City
+1560,Installed,Renovated,1200,No,Yes,No,2,100,18,2,Woluwe-Saint-Lambert
+1700,Hyper equipped,Renovated,1140,No,Yes,No,2,140,13,3,Evere
+800,Installed,Good,1080,No,Yes,No,1,105,16,1,Molenbeek-Saint-Jean
+780,Hyper equipped,Good,1200,No,Yes,No,1,50,10,1,Woluwe-Saint-Lambert
+780,Semi equipped,Renovated,1050,No,Yes,No,1,55,10,1,Ixelles
+1650,Hyper equipped,Renovated,1050,No,Yes,No,1,120,10,2,Ixelles
+965,Installed,Good,1040,No,Yes,No,1,38,10,1,Etterbeek
+1050,Installed,Renovated,1020,No,Yes,No,1,70,10,2,Laeken
+1650,Semi equipped,Renovated,1050,No,Yes,Unknown,2,120,10,3,Ixelles
+2020,Hyper equipped,Renovated,1040,No,Yes,Yes,1,110,10,3,Etterbeek
+1625,Installed,Good,1180,No,Yes,No,2,88,15,2,Uccle
+1440,Installed,Renovated,1160,No,Yes,No,1,97,10,2,Auderghem
+3600,Installed,Good,1180,No,No,No,3,270,10,5,Uccle
+3600,Installed,Good,1180,No,Yes,Yes,3,220,10,4,Uccle
+1410,Hyper equipped,Renovated,1040,No,Yes,Unknown,1,128,12,2,Etterbeek
+1035,Installed,Renovated,1050,No,Yes,No,1,80,10,1,Ixelles
+1150,Hyper equipped,Good,1040,No,Yes,Yes,1,65,10,1,Etterbeek
+1895,Not installed,Renovated,1200,No,Yes,Unknown,2,140,16,4,Woluwe-Saint-Lambert
+1020,Not installed,Good,1180,No,Yes,Unknown,1,128,10,1,Uccle
+820,Installed,Good,1060,No,No,No,1,45,10,1,Saint-Gilles
+1135,Hyper equipped,Renovated,1200,No,Yes,No,1,64,10,1,Woluwe-Saint-Lambert
+900,Hyper equipped,Renovated,1050,No,Yes,No,1,51,14,1,Ixelles
+1350,Hyper equipped,Renovated,1000,No,Yes,No,1,71,15,2,Brussels City
+1350,Semi equipped,Renovated,1000,No,Yes,No,2,68,15,2,Brussels City
+1350,Hyper equipped,Good,1000,No,Yes,Unknown,2,71,15,2,Brussels City
+1300,Hyper equipped,Renovated,1140,No,Yes,Unknown,1,85,13,2,Evere
+910,Installed,Good,1150,No,Yes,Unknown,1,128,10,1,Woluwe-St-Pierre
+1170,Hyper equipped,Good,1050,No,Yes,No,1,60,10,1,Ixelles
+2751,Hyper equipped,Renovated,1040,No,Yes,Unknown,3,240,29,5,Etterbeek
+2100,Installed,Good,1170,No,No,No,2,180,10,4,Watermael-Boitsfort
+1675,Installed,Good,1050,No,No,Yes,2,100,10,1,Ixelles
+2250,Installed,Good,1050,No,No,No,2,160,15,2,Ixelles
+1650,Installed,Renovated,1050,No,Yes,Unknown,0,101,10,2,Ixelles
+1390,Hyper equipped,Renovated,1180,No,Yes,No,1,90,10,2,Uccle
+900,Semi equipped,Renovated,1190,No,Yes,No,1,55,12,1,Forest
+1465,Not installed,Good,1030,No,Yes,No,2,79,10,2,Schaerbeek
+795,Installed,Good,1050,No,No,No,1,40,10,1,Ixelles
+2600,Hyper equipped,Good,1050,No,Yes,No,3,150,18,2,Ixelles
+1350,Hyper equipped,Good,1050,No,Yes,No,1,80,12,2,Ixelles
+1075,Not installed,Good,1000,No,Yes,No,1,75,12,2,Brussels City
+2150,Hyper equipped,Good,1150,No,No,Unknown,2,145,35,3,Woluwe-St-Pierre
+1250,Installed,Good,1060,No,Yes,Unknown,1,85,10,2,Saint-Gilles
+1500,Installed,Renovated,1190,No,Yes,No,1,100,12,2,Forest
+1700,Hyper equipped,Good,1150,No,Yes,Unknown,1,100,10,2,Woluwe-St-Pierre
+1425,Not installed,Renovated,1180,No,Yes,No,2,90,15,2,Uccle
+2550,Not installed,Good,1150,No,Yes,No,2,160,10,3,Woluwe-St-Pierre
+1700,Not installed,Good,1030,No,Yes,No,0,135,10,1,Schaerbeek
+2400,Not installed,Renovated,1050,No,Yes,No,1,153,10,2,Ixelles
+2030,Installed,Good,1050,No,Yes,Yes,1,110,25,3,Ixelles
+2700,Hyper equipped,Good,1180,No,No,No,4,235,10,5,Uccle
+1400,Not installed,Good,1030,No,Yes,No,0,142,10,3,Schaerbeek
+1500,Hyper equipped,Good,1030,No,Yes,No,2,128,10,3,Schaerbeek
+1450,Not installed,Good,1060,No,Yes,Unknown,2,128,10,2,Saint-Gilles
+3100,Not installed,Renovated,1150,No,Yes,Yes,2,220,25,4,Woluwe-St-Pierre
+950,Hyper equipped,Renovated,1150,No,Yes,No,1,56,12,1,Woluwe-St-Pierre
+1270,Not installed,Good,1180,No,Yes,No,1,96,10,2,Uccle
+795,Not installed,Good,1050,No,Yes,No,1,45,10,1,Ixelles
+1500,Not installed,Renovated,1190,No,Yes,Unknown,1,94,16,2,Forest
+1090,Semi equipped,Good,1000,No,Yes,Yes,1,56,11,1,Brussels City
+1040,Hyper equipped,Good,1050,No,Yes,No,1,60,10,1,Ixelles
+2570,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,201,30,3,Uccle
+2000,Installed,Renovated,1000,No,Yes,Unknown,2,160,15,2,Brussels City
+750,Not installed,Good,1210,No,No,Unknown,0,50,10,2,Saint-Josse-ten-Noode
+2210,Hyper equipped,Good,1180,No,Yes,No,2,160,10,2,Uccle
+1000,Hyper equipped,Renovated,1160,No,Yes,No,1,40,11,1,Auderghem
+1075,Hyper equipped,Renovated,1050,No,No,No,1,95,10,1,Ixelles
+1125,Not installed,Good,1180,No,No,No,1,65,10,1,Uccle
+1180,Installed,Good,1040,No,No,No,1,75,11,2,Etterbeek
+2250,Not installed,Renovated,1180,No,No,No,2,185,10,3,Uccle
+890,Semi equipped,Renovated,1050,No,No,Unknown,2,85,10,2,Ixelles
+965,Not installed,Good,1180,No,Yes,No,0,70,10,1,Uccle
+960,Installed,Renovated,1180,No,Yes,Yes,1,128,10,1,Uccle
+820,Not installed,Good,1040,No,Yes,Yes,1,43,10,1,Etterbeek
+1750,Hyper equipped,Renovated,1050,No,Yes,No,3,95,10,2,Ixelles
+950,Hyper equipped,Renovated,1000,No,Yes,Yes,1,60,16,1,Brussels City
+2720,Hyper equipped,Renovated,1050,No,Yes,No,2,150,16,3,Ixelles
+1250,Installed,Good,1200,No,Yes,No,1,100,12,2,Woluwe-Saint-Lambert
+3000,Hyper equipped,Renovated,1040,No,Yes,Unknown,4,240,18,4,Etterbeek
+1750,Hyper equipped,Good,1040,No,Yes,No,1,120,14,2,Etterbeek
+1250,Installed,Renovated,1000,No,Yes,No,1,125,20,2,Brussels City
+1650,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,129,14,2,Schaerbeek
+1170,Hyper equipped,Good,1200,No,No,Yes,1,55,10,1,Woluwe-Saint-Lambert
+1350,Installed,Renovated,1000,No,No,Unknown,2,72,10,1,Brussels City
+1150,Installed,Renovated,1020,No,Yes,Unknown,1,93,11,2,Laeken
+1005,Not installed,Good,1060,No,No,Unknown,1,75,16,1,Saint-Gilles
+1340,Not installed,Good,1200,No,No,Yes,0,128,10,2,Woluwe-Saint-Lambert
+1400,Not installed,Renovated,1180,No,No,Unknown,1,100,10,2,Uccle
+1430,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,110,10,2,Woluwe-Saint-Lambert
+975,Hyper equipped,Renovated,1082,No,Yes,Unknown,1,65,14,1,Berchem-Sainte-Agathe
+2600,Hyper equipped,Renovated,1180,No,Yes,Yes,1,95,16,2,Uccle
+1150,Not installed,Good,1150,No,No,Unknown,0,128,10,2,Woluwe-St-Pierre
+1150,Hyper equipped,Good,1050,No,Yes,Yes,1,128,65,1,Ixelles
+700,Not installed,Good,1070,No,No,Yes,0,128,10,1,Anderlecht
+1580,Installed,Renovated,1000,No,Yes,Yes,1,95,20,2,Brussels City
+1700,Installed,Good,1200,No,Yes,Unknown,1,165,16,3,Woluwe-Saint-Lambert
+1550,Hyper equipped,Good,1070,No,Yes,No,1,130,16,2,Anderlecht
+725,Not installed,Renovated,1060,No,Yes,Unknown,1,128,10,2,Saint-Gilles
+2840,Not installed,Renovated,1180,No,Yes,Yes,1,200,20,2,Uccle
+1500,Not installed,Renovated,1060,No,Yes,Unknown,1,128,16,2,Saint-Gilles
+950,Semi equipped,Good,1050,No,Yes,Unknown,1,104,15,1,Ixelles
+1450,Hyper equipped,Renovated,1050,No,Yes,No,1,85,10,2,Ixelles
+1490,Hyper equipped,Renovated,1000,No,Yes,No,2,100,15,2,Brussels City
+945,Not installed,Good,1050,No,No,Unknown,1,128,20,1,Ixelles
+1050,Installed,Good,1200,No,Yes,No,1,59,9,1,Woluwe-Saint-Lambert
+1000,Installed,Renovated,1030,No,Yes,Yes,1,45,5,1,Schaerbeek
+980,Installed,Renovated,1120,No,No,Unknown,1,75,10,1,Neder-over-Heembeek
+880,Semi equipped,Good,1000,No,Yes,Unknown,1,40,10,1,Brussels City
+1420,Hyper equipped,Renovated,1180,No,Yes,No,1,60,19,1,Uccle
+1400,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,80,10,2,Ixelles
+1350,Hyper equipped,Good,1200,No,Yes,Yes,1,128,60,1,Woluwe-Saint-Lambert
+1140,Not installed,Renovated,1000,No,Yes,Unknown,1,75,12,1,Brussels City
+1380,Not installed,Renovated,1190,No,Yes,Unknown,1,130,14,2,Forest
+1580,Hyper equipped,Good,1040,No,Yes,Unknown,1,90,14,2,Etterbeek
+1440,Hyper equipped,Good,1180,No,No,No,1,95,10,2,Uccle
+1600,Hyper equipped,Good,1180,No,No,Yes,1,70,10,1,Uccle
+1450,Hyper equipped,Good,1180,No,No,Yes,2,107,10,2,Uccle
+1650,Hyper equipped,Renovated,1150,No,Yes,Unknown,1,110,13,2,Woluwe-St-Pierre
+1545,Not installed,Good,1050,No,No,No,0,120,10,1,Ixelles
+1650,Installed,Renovated,1030,No,Yes,Yes,1,80,14,2,Schaerbeek
+1450,Installed,Renovated,1030,No,Yes,Yes,2,100,15,2,Schaerbeek
+2240,Hyper equipped,Renovated,1081,No,Yes,Yes,3,170,16,2,Koekelberg
+1300,Installed,Good,1200,No,Yes,Yes,1,100,13,2,Woluwe-Saint-Lambert
+1050,Installed,Good,1090,No,Yes,No,1,101,16,2,Jette
+1540,Hyper equipped,Good,1083,No,Yes,No,2,115,14,3,Ganshoren
+880,Semi equipped,Renovated,1200,No,Yes,No,1,35,7,1,Woluwe-Saint-Lambert
+1780,Hyper equipped,Renovated,1150,No,Yes,No,2,130,16,2,Woluwe-St-Pierre
+2000,Installed,Renovated,1000,No,Yes,No,1,160,10,1,Brussels City
+2085,Hyper equipped,Renovated,1160,No,Yes,No,2,169,21,2,Auderghem
+2200,Hyper equipped,Renovated,1160,No,Yes,No,2,125,10,3,Auderghem
+2950,Hyper equipped,Good,1180,No,Yes,No,4,250,19,5,Uccle
+2900,Hyper equipped,Good,1180,No,Yes,No,3,250,29,5,Uccle
+1650,Hyper equipped,Good,1180,No,Yes,No,2,180,16,2,Uccle
+1650,Hyper equipped,Good,1180,No,Yes,No,2,180,16,2,Uccle
+1200,Hyper equipped,Renovated,1040,No,Yes,Unknown,1,77,14,2,Etterbeek
+1200,Installed,Renovated,1070,No,Yes,Unknown,1,75,14,2,Anderlecht
+1100,Installed,Renovated,1000,No,Yes,Unknown,1,72,10,1,Brussels City
+1290,Installed,Good,1030,No,Yes,No,1,110,10,2,Schaerbeek
+900,Hyper equipped,Renovated,1050,No,Yes,No,1,65,10,1,Ixelles
+950,Hyper equipped,Good,1040,No,Yes,No,1,40,10,1,Etterbeek
+1420,Hyper equipped,Good,1040,No,Yes,Yes,1,100,10,2,Etterbeek
+1135,Hyper equipped,Renovated,1050,No,Yes,No,1,128,10,1,Ixelles
+920,Installed,Good,1090,No,Yes,No,1,80,10,1,Jette
+1375,Not installed,Good,1050,No,Yes,No,1,85,10,2,Ixelles
+3750,Not installed,Good,1050,No,Yes,No,2,275,10,4,Ixelles
+1250,Not installed,Good,1030,No,No,No,0,121,10,2,Schaerbeek
+1180,Hyper equipped,Good,1190,No,Yes,No,1,73,9,2,Forest
+2450,Hyper equipped,Renovated,1000,No,Yes,No,2,108,10,3,Brussels City
+1515,Installed,Renovated,1200,No,Yes,Unknown,1,97,13,2,Woluwe-Saint-Lambert
+2600,Hyper equipped,Renovated,1050,No,Yes,No,3,123,20,2,Ixelles
+2730,Hyper equipped,Renovated,1050,No,Yes,No,3,122,20,2,Ixelles
+2620,Hyper equipped,Renovated,1050,No,Yes,No,3,123,20,2,Ixelles
+875,Semi equipped,Good,1070,No,Yes,No,1,70,10,1,Anderlecht
+886,Installed,Good,1040,No,Yes,No,1,55,10,1,Etterbeek
+1800,Installed,Renovated,1040,No,Yes,No,1,130,15,3,Etterbeek
+1490,Hyper equipped,Good,1050,No,Yes,Yes,2,75,10,2,Ixelles
+1400,Installed,Good,1180,No,No,Unknown,1,126,16,2,Uccle
+1450,Installed,Renovated,1000,No,No,Unknown,2,170,18,3,Brussels City
+1440,Hyper equipped,Renovated,1140,No,Yes,No,1,95,15,2,Evere
+945,Hyper equipped,Renovated,1200,No,Yes,No,1,64,10,1,Woluwe-Saint-Lambert
+1960,Hyper equipped,Good,1040,No,Yes,No,1,166,25,2,Etterbeek
+1960,Hyper equipped,Good,1150,No,Yes,No,1,166,25,2,Woluwe-St-Pierre
+1180,Hyper equipped,Renovated,1050,No,Yes,Yes,1,90,10,1,Ixelles
+1395,Installed,Good,1040,No,Yes,No,1,95,20,2,Etterbeek
+1350,Installed,Good,1180,No,Yes,No,1,71,10,2,Uccle
+3100,Hyper equipped,Renovated,1180,No,Yes,No,3,203,19,4,Uccle
+1200,Installed,Renovated,1050,No,Yes,No,1,85,14,2,Ixelles
+1050,Installed,Renovated,1000,No,Yes,No,1,60,18,1,Brussels City
+1540,Hyper equipped,Renovated,1180,No,Yes,No,2,110,24,2,Uccle
+1260,Not installed,Good,1000,No,Yes,Unknown,0,128,10,2,Brussels City
+1425,Hyper equipped,Good,1200,No,Yes,No,1,110,10,2,Woluwe-Saint-Lambert
+1260,Installed,Good,1000,No,Yes,No,1,87,13,2,Brussels City
+1850,Not installed,Good,1180,No,Yes,No,1,140,10,2,Uccle
+2500,Hyper equipped,Good,1180,No,Yes,No,1,170,10,3,Uccle
+1000,Semi equipped,Renovated,1030,No,Yes,No,1,70,10,2,Schaerbeek
+2159,Not installed,Good,1150,No,No,Unknown,2,135,10,4,Woluwe-St-Pierre
+1250,Installed,Good,1000,No,Yes,Unknown,1,76,10,2,Brussels City
+2700,Hyper equipped,Renovated,1050,No,Yes,No,1,164,21,3,Ixelles
+1660,Not installed,Good,1000,No,Yes,No,1,140,14,2,Brussels City
+795,Not installed,Good,1040,No,Yes,Yes,1,53,10,1,Etterbeek
+1700,Hyper equipped,Good,1180,No,Yes,Unknown,2,90,15,2,Uccle
+900,Not installed,Renovated,1150,No,Yes,Unknown,1,45,10,1,Woluwe-St-Pierre
+1430,Hyper equipped,Renovated,1050,No,Yes,No,2,141,10,3,Ixelles
+830,Not installed,Renovated,1090,No,Yes,Yes,1,128,42,1,Jette
+1050,Semi equipped,Good,1050,No,Yes,No,1,53,10,1,Ixelles
+3300,Hyper equipped,Renovated,1050,No,Yes,No,4,198,16,4,Ixelles
+4650,Hyper equipped,Renovated,1050,No,Yes,No,2,186,18,3,Ixelles
+4400,Hyper equipped,Renovated,1050,No,Yes,No,4,215,23,3,Ixelles
+1700,Hyper equipped,Renovated,1050,No,Yes,Yes,1,110,10,2,Ixelles
+1460,Hyper equipped,Renovated,1190,No,Yes,No,1,112,13,2,Forest
+1600,Hyper equipped,Good,1000,No,Yes,Yes,1,65,12,1,Brussels City
+2800,Hyper equipped,Renovated,1000,No,Yes,No,2,266,18,3,Brussels City
+1700,Not installed,Renovated,1180,No,Yes,No,1,95,17,2,Uccle
+2450,Hyper equipped,Renovated,1160,No,Yes,No,2,138,10,3,Auderghem
+1200,Installed,Renovated,1160,No,Yes,Yes,1,77,15,1,Auderghem
+1330,Hyper equipped,Renovated,1180,No,Yes,No,2,137,20,2,Uccle
+2300,Hyper equipped,Renovated,1180,No,Yes,No,2,135,15,2,Uccle
+1650,Installed,Renovated,1160,No,Yes,No,2,180,16,2,Auderghem
+1400,Installed,Renovated,1200,No,Yes,No,1,113,14,2,Woluwe-Saint-Lambert
+1720,Hyper equipped,Renovated,1200,No,Yes,Yes,1,115,18,2,Woluwe-Saint-Lambert
+1450,Hyper equipped,Renovated,1000,No,Yes,Yes,1,90,15,2,Brussels City
+2660,Hyper equipped,Renovated,1050,No,Yes,No,2,170,15,2,Ixelles
+1485,Installed,Good,1200,No,Yes,Unknown,1,128,10,3,Woluwe-Saint-Lambert
+905,Hyper equipped,Renovated,1020,No,Yes,Unknown,1,56,10,1,Laeken
+900,Not installed,Renovated,1000,No,Yes,Unknown,1,55,10,1,Brussels City
+1040,Hyper equipped,Good,1150,No,Yes,Unknown,1,73,10,2,Woluwe-St-Pierre
+1500,Installed,Renovated,1050,No,Yes,Yes,1,88,18,1,Ixelles
+2100,Installed,Renovated,1200,No,Yes,Unknown,1,128,10,3,Woluwe-Saint-Lambert
+930,Semi equipped,Good,1000,No,Yes,No,1,64,10,1,Brussels City
+785,Semi equipped,Good,1000,No,No,Unknown,1,128,65,2,Brussels City
+1975,Hyper equipped,Renovated,1000,No,Yes,No,2,120,15,2,Brussels City
+1400,Hyper equipped,Renovated,1000,No,Yes,No,1,127,10,1,Brussels City
+1170,Not installed,Good,1040,No,Yes,No,1,71,10,2,Etterbeek
+1700,Hyper equipped,Good,1000,No,Yes,No,1,131,16,3,Brussels City
+1250,Not installed,Renovated,1000,No,No,Yes,0,65,20,1,Brussels City
+2950,Hyper equipped,Renovated,1000,No,No,Unknown,2,211,10,3,Brussels City
+1250,Hyper equipped,Good,1000,No,Yes,No,1,85,15,2,Brussels City
+1300,Installed,Renovated,1030,No,Yes,No,2,120,15,2,Schaerbeek
+1750,Hyper equipped,Renovated,1070,No,Yes,Unknown,2,180,10,3,Anderlecht
+858,Semi equipped,Renovated,1090,No,Yes,Unknown,2,82,13,2,Jette
+875,Hyper equipped,Good,1040,No,Yes,Yes,1,50,10,1,Etterbeek
+1575,Installed,Good,1040,No,Yes,Yes,1,65,10,1,Etterbeek
+1325,Not installed,Good,1040,No,Yes,Yes,1,50,10,1,Etterbeek
+950,Installed,Good,1020,No,No,No,1,90,10,2,Laeken
+1400,Installed,Good,1050,No,Yes,Unknown,1,105,29,1,Ixelles
+1072,Installed,Renovated,1030,No,Yes,No,1,62,14,1,Schaerbeek
+1650,Hyper equipped,Good,1040,No,Yes,Yes,1,105,10,2,Etterbeek
+1100,Installed,Good,1050,No,No,Yes,1,50,10,1,Ixelles
+2280,Hyper equipped,Renovated,1050,No,Yes,No,2,130,15,3,Ixelles
+1450,Hyper equipped,Good,1040,No,Yes,Yes,1,107,10,2,Etterbeek
+1335,Not installed,Renovated,1160,No,Yes,No,1,96,14,2,Auderghem
+2800,Installed,Good,1000,No,Yes,No,2,266,17,3,Brussels City
+1575,Hyper equipped,Good,1050,No,Yes,Yes,1,65,12,1,Ixelles
+1390,Installed,Good,1000,No,Yes,No,1,120,13,2,Brussels City
+1440,Installed,Renovated,1140,No,Yes,No,1,95,15,2,Evere
+1600,Not installed,Good,1040,No,Yes,Yes,1,70,10,1,Etterbeek
+950,Not installed,Renovated,1000,No,Yes,Unknown,1,128,10,2,Brussels City
+1050,Hyper equipped,Good,1180,No,No,Yes,1,50,10,1,Uccle
+875,Hyper equipped,Good,1160,No,Yes,Yes,1,45,8,1,Auderghem
+1320,Installed,Good,1140,No,Yes,No,1,102,16,2,Evere
+1455,Hyper equipped,Renovated,1070,No,Yes,No,2,128,10,3,Anderlecht
+1300,Installed,Good,1180,No,Yes,No,1,115,22,2,Uccle
+916,Installed,Renovated,1020,No,Yes,No,1,55,10,1,Laeken
+1410,Hyper equipped,Renovated,1050,No,Yes,No,1,95,10,2,Ixelles
+900,Not installed,Good,1040,No,Yes,No,1,70,10,1,Etterbeek
+1650,Hyper equipped,Renovated,1040,No,Yes,Yes,1,68,12,1,Etterbeek
+2745,Installed,Good,1180,No,No,No,2,280,10,3,Uccle
+1450,Hyper equipped,Renovated,1030,No,Yes,Yes,1,107,15,2,Schaerbeek
+1970,Hyper equipped,Renovated,1050,No,Yes,Yes,2,100,15,2,Ixelles
+1050,Installed,Good,1030,No,Yes,Yes,1,56,7,1,Schaerbeek
+1220,Installed,Good,1000,No,No,No,1,86,18,1,Brussels City
+4300,Not installed,Renovated,1050,No,Yes,No,3,285,30,3,Ixelles
+4300,Not installed,Renovated,1050,No,Yes,No,3,285,30,3,Ixelles
+1490,Hyper equipped,Good,1140,No,Yes,No,1,106,10,3,Evere
+1270,Hyper equipped,Good,1050,No,Yes,No,1,78,10,2,Ixelles
+1020,Installed,Good,1070,No,Yes,No,1,116,14,1,Anderlecht
+2190,Not installed,Good,1000,No,Yes,No,2,190,10,3,Brussels City
+2040,Hyper equipped,Good,1080,No,Yes,No,1,168,12,3,Molenbeek-Saint-Jean
+850,Installed,Good,1050,No,No,No,1,50,11,1,Ixelles
+895,Installed,Renovated,1083,No,Yes,Unknown,2,128,90,1,Ganshoren
+1375,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,110,16,2,Schaerbeek
+1045,Installed,Renovated,1140,No,Yes,Unknown,2,90,20,2,Evere
+1045,Semi equipped,Good,1160,No,Yes,No,1,100,16,2,Auderghem
+1450,Not installed,Good,1200,No,Yes,No,2,100,10,3,Woluwe-Saint-Lambert
+4500,Hyper equipped,Renovated,1050,No,Yes,No,5,290,20,5,Ixelles
+2200,Hyper equipped,Renovated,1000,No,Yes,Yes,2,100,10,2,Brussels City
+1550,Not installed,Renovated,1050,No,No,Yes,2,85,10,1,Ixelles
+945,Hyper equipped,Renovated,1200,No,Yes,No,1,63,20,1,Woluwe-Saint-Lambert
+1175,Not installed,Good,1000,No,Yes,No,1,68,14,1,Brussels City
+1150,Not installed,Renovated,1000,No,Yes,No,1,50,17,1,Brussels City
+1150,Hyper equipped,Good,1000,No,Yes,No,1,78,15,1,Brussels City
+2250,Hyper equipped,Renovated,1020,No,Yes,No,2,165,35,3,Laeken
+1205,Hyper equipped,Renovated,1040,No,Yes,No,2,75,13,1,Etterbeek
+1075,Not installed,Renovated,1150,No,Yes,No,1,82,13,1,Woluwe-St-Pierre
+1600,Hyper equipped,Renovated,1030,No,Yes,No,1,91,14,2,Schaerbeek
+1180,Hyper equipped,Good,1080,No,Yes,No,1,70,10,1,Molenbeek-Saint-Jean
+1780,Hyper equipped,Renovated,1150,No,Yes,No,2,130,17,2,Woluwe-St-Pierre
+1300,Installed,Renovated,1000,No,Yes,No,1,95,17,2,Brussels City
+3300,Not installed,Renovated,1050,No,Yes,No,4,250,35,4,Ixelles
+1400,Hyper equipped,Good,1000,No,Yes,No,2,100,15,2,Brussels City
+2140,Hyper equipped,Renovated,1160,No,Yes,No,2,110,10,3,Auderghem
+1525,Hyper equipped,Renovated,1050,No,Yes,No,2,100,12,2,Ixelles
+765,Hyper equipped,Good,1140,No,Yes,Unknown,0,65,12,1,Evere
+1550,Not installed,Renovated,1050,No,Yes,No,2,120,16,2,Ixelles
+2525,Hyper equipped,Renovated,1050,No,Yes,No,2,151,18,2,Ixelles
+2200,Hyper equipped,Renovated,1050,No,Yes,Yes,1,100,16,2,Ixelles
+1270,Hyper equipped,Renovated,1081,No,Yes,No,2,80,16,1,Koekelberg
+1790,Hyper equipped,Renovated,1081,No,Yes,No,2,115,16,3,Koekelberg
+1790,Hyper equipped,Renovated,1081,No,Yes,No,2,125,16,3,Koekelberg
+1180,Hyper equipped,Good,1180,No,Yes,No,2,90,20,1,Uccle
+1250,Hyper equipped,Renovated,1180,No,Yes,No,1,94,14,2,Uccle
+1483,Hyper equipped,Renovated,1081,No,Yes,Unknown,2,125,10,2,Koekelberg
+1160,Not installed,Good,1090,No,No,No,0,128,10,2,Jette
+1600,Hyper equipped,Renovated,1030,No,Yes,No,1,91,14,2,Schaerbeek
+855,Hyper equipped,Renovated,1020,No,Yes,No,1,65,10,1,Laeken
+1420,Not installed,Good,1180,No,No,No,1,92,18,2,Uccle
+1370,Installed,Renovated,1070,No,Yes,Unknown,2,120,17,2,Anderlecht
+1370,Installed,Good,1000,No,Yes,No,1,97,10,2,Brussels City
+899,Installed,Good,1000,No,Yes,No,1,85,15,1,Brussels City
+1800,Hyper equipped,Good,1040,No,Yes,No,2,94,10,3,Etterbeek
+1040,Not installed,Good,1040,No,Yes,No,0,77,10,2,Etterbeek
+825,Installed,Good,1050,No,Yes,Unknown,1,128,10,1,Ixelles
+820,Installed,Renovated,1050,No,Yes,Unknown,1,42,10,1,Ixelles
+2150,Hyper equipped,Renovated,1180,No,Yes,Yes,2,150,10,4,Uccle
+1250,Installed,Good,1050,No,No,No,1,110,10,2,Ixelles
+1850,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,150,10,4,Uccle
+1400,Installed,Renovated,1050,No,Yes,No,1,110,10,1,Ixelles
+1400,Installed,Renovated,1050,No,Yes,No,1,110,10,1,Ixelles
+1750,Hyper equipped,Renovated,1060,No,Yes,No,1,110,12,2,Saint-Gilles
+1450,Hyper equipped,Good,1030,No,Yes,Yes,1,107,15,2,Schaerbeek
+1590,Hyper equipped,Renovated,1040,No,Yes,Yes,1,70,15,1,Etterbeek
+1450,Hyper equipped,Good,1040,No,Yes,Yes,2,107,15,2,Etterbeek
+1340,Installed,Renovated,1200,No,Yes,Unknown,1,128,10,3,Woluwe-Saint-Lambert
+2050,Installed,Good,1000,No,Yes,Unknown,2,130,26,3,Brussels City
+2350,Hyper equipped,Good,1000,No,Yes,Unknown,4,160,17,4,Brussels City
+1850,Not installed,Good,1200,No,Yes,No,2,128,22,3,Woluwe-Saint-Lambert
+800,Not installed,Good,1030,No,No,Yes,1,128,10,1,Schaerbeek
+1325,Hyper equipped,Renovated,1040,No,Yes,Yes,1,48,14,1,Etterbeek
+1590,Hyper equipped,Renovated,1000,No,Yes,Yes,1,70,15,1,Brussels City
+920,Installed,Renovated,1160,No,Yes,Unknown,1,45,10,1,Auderghem
+850,Hyper equipped,Good,1060,No,Yes,No,1,57,10,1,Saint-Gilles
+1400,Hyper equipped,Good,1000,No,Yes,Unknown,2,77,14,2,Brussels City
+1000,Installed,Renovated,1070,No,Yes,Unknown,1,70,13,1,Anderlecht
+1625,Hyper equipped,Good,1180,No,Yes,Unknown,2,102,15,2,Uccle
+1350,Not installed,Renovated,1030,No,Yes,No,1,100,20,2,Schaerbeek
+2111,Hyper equipped,Renovated,1160,No,Yes,No,2,128,10,2,Auderghem
+1440,Installed,Renovated,1040,No,Yes,Yes,1,128,10,1,Etterbeek
+1350,Hyper equipped,Renovated,1000,No,No,Yes,1,128,10,2,Brussels City
+925,Semi equipped,Good,1200,No,Yes,No,1,65,15,1,Woluwe-Saint-Lambert
+1200,Not installed,Renovated,1050,No,Yes,Unknown,1,123,14,2,Ixelles
+1680,Hyper equipped,Renovated,1050,No,Yes,No,1,110,12,1,Ixelles
+1680,Hyper equipped,Renovated,1050,No,Yes,No,2,86,12,1,Ixelles
+1820,Hyper equipped,Renovated,1050,No,Yes,No,1,91,9,1,Ixelles
+2300,Hyper equipped,Good,1030,No,Yes,No,3,200,10,5,Schaerbeek
+835,Hyper equipped,Renovated,1040,No,Yes,No,1,55,10,1,Etterbeek
+1300,Not installed,Good,1190,No,No,No,2,135,10,2,Forest
+950,Hyper equipped,Renovated,1070,No,Yes,Yes,1,54,15,1,Anderlecht
+1450,Hyper equipped,Good,1050,No,Yes,Yes,2,107,15,2,Ixelles
+1325,Hyper equipped,Renovated,1040,No,Yes,Yes,1,48,14,1,Etterbeek
+1440,Hyper equipped,Renovated,1140,No,Yes,Yes,1,95,15,2,Evere
+1110,Semi equipped,Renovated,1050,No,Yes,No,1,76,16,2,Ixelles
+1140,Hyper equipped,Renovated,1070,No,Yes,No,1,90,14,2,Anderlecht
+1140,Hyper equipped,Renovated,1040,No,Yes,No,1,96,14,2,Etterbeek
+1670,Installed,Good,1180,No,Yes,No,2,110,18,3,Uccle
+1110,Hyper equipped,Good,1140,No,Yes,No,1,98,14,2,Evere
+850,Semi equipped,Good,1180,No,Yes,No,1,74,16,1,Uccle
+1000,Hyper equipped,Renovated,1050,No,Yes,No,1,35,12,1,Ixelles
+900,Hyper equipped,Renovated,1150,No,Yes,No,1,57,12,1,Woluwe-St-Pierre
+1300,Hyper equipped,Renovated,1150,No,Yes,No,1,96,15,2,Woluwe-St-Pierre
+1240,Hyper equipped,Renovated,1180,No,Yes,Yes,1,80,12,1,Uccle
+1400,Not installed,Renovated,1180,No,Yes,No,2,100,15,1,Uccle
+1600,Not installed,Renovated,1180,No,Yes,No,2,130,15,2,Uccle
+1150,Hyper equipped,Good,1060,No,Yes,No,2,100,17,2,Saint-Gilles
+1900,Hyper equipped,Renovated,1000,No,Yes,No,2,155,29,2,Brussels City
+1630,Hyper equipped,Renovated,1200,No,Yes,No,2,120,14,2,Woluwe-Saint-Lambert
+1850,Hyper equipped,Renovated,1000,No,Yes,No,2,126,20,2,Brussels City
+1410,Not installed,Good,1070,No,Yes,No,3,127,16,3,Anderlecht
+1059,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,65,10,1,Brussels City
+1870,Semi equipped,Good,1081,No,Yes,No,2,120,20,2,Koekelberg
+1000,Installed,Renovated,1180,No,Yes,No,1,58,12,1,Uccle
+1070,Installed,Good,1180,No,Yes,No,1,63,14,1,Uccle
+2000,Hyper equipped,Good,1180,No,Yes,No,2,112,14,3,Uccle
+770,Not installed,Good,1200,No,No,Unknown,1,35,10,1,Woluwe-Saint-Lambert
+1380,Not installed,Renovated,1190,No,Yes,Yes,2,110,20,1,Forest
+1450,Hyper equipped,Renovated,1050,No,Yes,No,1,100,13,2,Ixelles
+750,Installed,Good,1210,No,Yes,Unknown,1,62,10,1,Saint-Josse-ten-Noode
+920,Not installed,Renovated,1070,No,No,Unknown,1,128,10,1,Anderlecht
+1175,Hyper equipped,Renovated,1060,No,Yes,No,1,112,12,2,Saint-Gilles
+755,Installed,Renovated,1070,No,Yes,No,1,50,10,1,Anderlecht
+1170,Hyper equipped,Renovated,1050,No,Yes,No,1,50,10,1,Ixelles
+1175,Installed,Good,1030,No,Yes,No,1,55,10,1,Schaerbeek
+1590,Hyper equipped,Renovated,1000,No,Yes,Yes,1,70,15,1,Brussels City
+860,Installed,Renovated,1190,No,Yes,No,0,128,10,1,Forest
+1280,Hyper equipped,Renovated,1030,No,Yes,No,1,131,10,2,Schaerbeek
+1030,Hyper equipped,Good,1030,No,Yes,Unknown,1,85,10,1,Schaerbeek
+3230,Installed,Good,1200,No,Yes,No,3,250,20,3,Woluwe-Saint-Lambert
+1700,Hyper equipped,Good,1040,No,Yes,Yes,2,70,10,1,Etterbeek
+1990,Hyper equipped,Good,1050,No,Yes,No,3,180,14,3,Ixelles
+695,Installed,Renovated,1060,No,Yes,No,1,35,12,1,Saint-Gilles
+2270,Installed,Good,1180,No,No,No,2,140,10,4,Uccle
+1475,Semi equipped,Renovated,1030,No,Yes,Unknown,2,150,15,5,Schaerbeek
+1005,Semi equipped,Good,1160,No,Yes,No,1,88,15,2,Auderghem
+1500,Hyper equipped,Good,1040,No,No,No,1,139,16,2,Etterbeek
+1615,Not installed,Good,1050,No,Yes,No,1,100,10,2,Ixelles
+1060,Not installed,Good,1050,No,Yes,No,1,86,10,1,Ixelles
+1315,Not installed,Good,1050,No,Yes,No,1,75,10,2,Ixelles
+1360,Hyper equipped,Renovated,1150,No,Yes,No,2,100,13,3,Woluwe-St-Pierre
+765,Installed,Good,1080,No,Yes,No,1,55,10,1,Molenbeek-Saint-Jean
+2700,Hyper equipped,Renovated,1000,No,Yes,Yes,3,160,25,3,Brussels City
+910,Installed,Good,1180,No,No,No,1,60,15,1,Uccle
+2650,Hyper equipped,Renovated,1040,No,Yes,Yes,3,160,25,3,Etterbeek
+2250,Installed,Good,1180,No,Yes,No,2,145,16,3,Uccle
+850,Hyper equipped,Renovated,1210,No,Yes,No,1,50,10,1,Saint-Josse-ten-Noode
+4100,Hyper equipped,Renovated,1180,No,Yes,Unknown,0,300,10,4,Uccle
+1350,Semi equipped,Good,1000,No,Yes,No,1,77,20,1,Brussels City
+950,Installed,No renovated,1070,No,Yes,No,1,98,13,2,Anderlecht
+2250,Hyper equipped,Renovated,1050,No,Yes,No,2,160,10,3,Ixelles
+1350,Hyper equipped,Good,1000,No,Yes,Yes,1,106,12,1,Brussels City
+1400,Hyper equipped,Good,1180,No,Yes,No,1,115,20,1,Uccle
+2650,Installed,Renovated,1000,No,Yes,Unknown,3,200,30,5,Brussels City
+2250,Hyper equipped,Renovated,1180,No,Yes,No,3,185,19,3,Uccle
+1700,Installed,Good,1000,No,Yes,Unknown,1,75,20,1,Brussels City
+4300,Hyper equipped,Renovated,1050,No,Yes,No,4,250,23,3,Ixelles
+2660,Hyper equipped,Renovated,1050,No,Yes,No,2,170,19,2,Ixelles
+1300,Not installed,Good,1200,No,Yes,Yes,1,60,13,1,Woluwe-Saint-Lambert
+4000,Hyper equipped,Renovated,1050,No,Yes,No,3,210,20,3,Ixelles
+4850,Hyper equipped,Renovated,1050,No,Yes,No,2,240,17,3,Ixelles
+1810,Hyper equipped,Renovated,1180,No,Yes,No,2,113,14,3,Uccle
+2005,Hyper equipped,Renovated,1180,No,Yes,No,2,120,18,3,Uccle
+1550,Hyper equipped,Renovated,1050,No,Yes,No,2,92,17,2,Ixelles
+2660,Hyper equipped,Renovated,1050,No,Yes,No,2,170,20,2,Ixelles
+2660,Hyper equipped,Renovated,1050,No,Yes,No,2,170,15,2,Ixelles
+1150,Hyper equipped,Renovated,1000,No,Yes,No,1,100,20,1,Brussels City
+1300,Hyper equipped,Renovated,1200,No,Yes,No,1,105,16,2,Woluwe-Saint-Lambert
+1400,Hyper equipped,Renovated,1200,No,Yes,No,1,102,14,2,Woluwe-Saint-Lambert
+1880,Semi equipped,Renovated,1190,No,Yes,No,1,213,14,2,Forest
+1450,Hyper equipped,Renovated,1200,No,Yes,No,1,110,16,3,Woluwe-Saint-Lambert
+1050,Not installed,Good,1160,No,Yes,No,1,85,16,1,Auderghem
+2660,Hyper equipped,Renovated,1180,No,Yes,No,2,170,20,2,Uccle
+1840,Hyper equipped,Renovated,1180,No,Yes,No,2,140,12,3,Uccle
+2270,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,157,15,4,Uccle
+1000,Semi equipped,Good,1090,No,Yes,No,1,68,11,1,Jette
+1900,Hyper equipped,Renovated,1050,No,Yes,Yes,1,125,25,1,Ixelles
+1375,Not installed,Good,1050,No,Yes,No,1,100,16,3,Ixelles
+1230,Hyper equipped,Good,1150,No,Yes,No,1,110,12,2,Woluwe-St-Pierre
+1264,Hyper equipped,Good,1000,No,Yes,No,1,70,10,2,Brussels City
+1100,Not installed,No renovated,1040,No,Yes,No,1,80,10,3,Etterbeek
+955,Not installed,Good,1040,No,Yes,Yes,1,60,10,1,Etterbeek
+1264,Hyper equipped,Good,1000,No,Yes,No,1,70,10,2,Brussels City
+1100,Not installed,No renovated,1040,No,Yes,No,1,80,10,3,Etterbeek
+1600,Not installed,Good,1040,No,Yes,No,1,120,10,3,Etterbeek
+1050,Not installed,Good,1000,No,Yes,No,1,53,10,1,Brussels City
+840,Not installed,Good,1040,No,Yes,Yes,1,65,10,1,Etterbeek
+875,Not installed,Good,1040,No,Yes,No,1,45,9,1,Etterbeek
+1160,Not installed,Good,1000,No,Yes,No,1,80,10,1,Brussels City
+1160,Not installed,Good,1000,No,Yes,No,1,80,10,1,Brussels City
+1540,Not installed,Renovated,1190,No,Yes,No,1,108,10,3,Forest
+1300,Semi equipped,Good,1090,No,Yes,Unknown,2,140,10,3,Jette
+1050,Installed,Renovated,1120,No,Yes,Unknown,1,82,14,2,Neder-over-Heembeek
+950,Installed,Renovated,1120,No,Yes,Unknown,1,82,14,2,Neder-over-Heembeek
+1610,Hyper equipped,Renovated,1180,No,Yes,No,1,100,12,3,Uccle
+1100,Installed,Renovated,1140,No,Yes,No,1,45,14,1,Evere
+825,Not installed,Good,1070,No,Yes,No,1,73,10,2,Anderlecht
+2660,Not installed,Renovated,1050,No,Yes,No,2,170,20,2,Ixelles
+1020,Not installed,Renovated,1040,No,Yes,No,1,82,10,2,Etterbeek
+1050,Installed,Good,1030,No,No,No,0,65,10,1,Schaerbeek
+1000,Not installed,Good,1040,No,No,No,1,128,10,1,Etterbeek
+1150,Not installed,Good,1180,No,Yes,No,1,70,10,1,Uccle
+1190,Semi equipped,Renovated,1080,No,Yes,Unknown,1,102,14,2,Molenbeek-Saint-Jean
+550,Installed,Good,1050,No,Yes,Yes,3,128,16,1,Ixelles
+1205,Hyper equipped,Good,1050,No,Yes,No,1,75,10,2,Ixelles
+1050,Installed,Good,1050,No,Yes,Yes,1,60,14,1,Ixelles
+2660,Not installed,Renovated,1050,No,Yes,Unknown,2,170,10,2,Ixelles
+1800,Installed,Good,1050,No,No,No,0,170,10,1,Ixelles
+1850,Hyper equipped,Good,1150,No,Yes,Yes,1,125,15,2,Woluwe-St-Pierre
+1550,Installed,Good,1040,No,Yes,Unknown,1,128,15,2,Etterbeek
+1660,Hyper equipped,Renovated,1160,No,Yes,No,2,122,13,3,Auderghem
+1984,Hyper equipped,Renovated,1081,No,Yes,Yes,0,141,10,3,Koekelberg
+1650,Hyper equipped,Renovated,1050,No,Yes,Yes,1,105,10,1,Ixelles
+700,Semi equipped,Good,1210,No,No,Yes,1,128,10,1,Saint-Josse-ten-Noode
+3950,Hyper equipped,Renovated,1000,No,Yes,No,4,260,10,4,Brussels City
+1300,Installed,Renovated,1040,No,Yes,No,1,100,10,2,Etterbeek
+2500,Hyper equipped,Renovated,1200,No,Yes,No,3,211,18,4,Woluwe-Saint-Lambert
+1380,Installed,Renovated,1030,No,Yes,No,1,120,10,2,Schaerbeek
+1745,Hyper equipped,Renovated,1030,No,Yes,No,1,130,22,2,Schaerbeek
+1700,Hyper equipped,Good,1160,No,Yes,No,2,95,14,2,Auderghem
+885,Hyper equipped,Good,1050,No,Yes,Yes,4,250,10,1,Ixelles
+895,Not installed,Good,1150,No,No,Unknown,1,60,10,1,Woluwe-St-Pierre
+995,Hyper equipped,Renovated,1180,No,No,Unknown,1,70,10,2,Uccle
+1300,Installed,Good,1180,No,Yes,No,1,85,10,2,Uccle
+1280,Not installed,Renovated,1050,No,No,No,1,71,14,1,Ixelles
+1390,Installed,Good,1030,No,No,No,1,98,14,2,Schaerbeek
+990,Not installed,Good,1050,No,Yes,No,1,84,10,1,Ixelles
+795,Not installed,Good,1000,No,Yes,No,1,69,10,1,Brussels City
+1600,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,128,10,3,Uccle
+1250,Hyper equipped,Renovated,1150,No,Yes,No,1,81,15,1,Woluwe-St-Pierre
+850,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,36,10,1,Brussels City
+1820,Hyper equipped,Renovated,1180,No,No,Unknown,1,150,16,3,Uccle
+910,Installed,Good,1000,No,Yes,No,1,55,9,1,Brussels City
+890,Installed,Renovated,1000,No,Yes,No,1,40,10,1,Brussels City
+1625,Installed,Good,1050,No,Yes,Yes,1,80,12,1,Ixelles
+2250,Not installed,Good,1150,No,Yes,No,2,114,11,3,Woluwe-St-Pierre
+1600,Hyper equipped,Renovated,1060,No,Yes,Yes,2,140,23,2,Saint-Gilles
+3650,Hyper equipped,Renovated,1050,No,Yes,No,3,200,22,3,Ixelles
+1450,Installed,Renovated,1200,No,No,Unknown,2,129,15,3,Woluwe-Saint-Lambert
+1675,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,113,10,2,Ixelles
+1700,Installed,Renovated,1080,No,Yes,Unknown,2,155,12,4,Molenbeek-Saint-Jean
+1300,Installed,Renovated,1180,No,No,No,1,90,16,2,Uccle
+950,Semi equipped,Good,1050,No,Yes,Unknown,1,50,9,1,Ixelles
+140,Not installed,Good,1150,No,No,Unknown,0,128,10,1,Woluwe-St-Pierre
+1975,Not installed,Renovated,1200,No,Yes,Unknown,2,147,15,2,Woluwe-Saint-Lambert
+1800,Installed,Renovated,1030,No,Yes,No,2,100,15,3,Schaerbeek
+1085,Installed,Renovated,1040,No,Yes,Unknown,1,80,10,1,Etterbeek
+2200,Installed,Good,1160,No,Yes,Unknown,3,128,20,4,Auderghem
+850,Installed,Good,1090,No,No,Unknown,2,70,12,2,Jette
+1150,Installed,Renovated,1000,No,Yes,Yes,1,128,41,1,Brussels City
+1700,Hyper equipped,Good,1180,No,Yes,No,1,125,9,3,Uccle
+1700,Not installed,Good,1050,No,No,Yes,2,120,10,2,Ixelles
+1870,Hyper equipped,Renovated,1050,No,Yes,No,2,151,25,2,Ixelles
+1870,Hyper equipped,Renovated,1060,No,Yes,No,2,151,25,2,Saint-Gilles
+2680,Hyper equipped,Renovated,1050,No,Yes,Yes,1,167,20,3,Ixelles
+1170,Installed,Good,1040,No,Yes,Yes,1,90,10,2,Etterbeek
+790,Installed,No renovated,1050,No,Yes,Unknown,1,58,15,1,Ixelles
+700,Semi equipped,Renovated,1030,No,Yes,Unknown,1,55,15,1,Schaerbeek
+2750,Hyper equipped,Renovated,1050,No,Yes,No,3,149,16,3,Ixelles
+1230,Installed,Good,1050,No,Yes,Unknown,1,80,10,1,Ixelles
+2750,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,150,16,3,Uccle
+1620,Installed,Renovated,1040,No,Yes,Yes,1,123,17,3,Etterbeek
+880,Semi equipped,Good,1190,No,No,Unknown,1,80,13,1,Forest
+1350,Hyper equipped,Renovated,1140,No,Yes,Unknown,1,92,14,2,Evere
+870,Hyper equipped,Good,1180,No,No,Unknown,1,90,15,1,Uccle
+940,Installed,Renovated,1030,No,Yes,Unknown,2,102,21,1,Schaerbeek
+900,Semi equipped,Good,1000,No,Yes,No,1,60,10,1,Brussels City
+2850,Hyper equipped,Good,1180,No,Yes,No,1,149,16,3,Uccle
+1250,Not installed,Good,1040,No,No,No,1,128,10,1,Etterbeek
+1250,Semi equipped,Good,1200,No,Yes,No,1,75,16,2,Woluwe-Saint-Lambert
+1450,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,110,15,2,Brussels City
+2700,Hyper equipped,Renovated,1190,No,Yes,No,3,170,16,3,Forest
+1650,Hyper equipped,Renovated,1050,No,Yes,No,1,163,18,3,Ixelles
+2600,Not installed,Renovated,1180,No,Yes,No,3,260,20,5,Uccle
+1250,Hyper equipped,Renovated,1050,No,Yes,Yes,1,128,17,1,Ixelles
+1705,Hyper equipped,Renovated,1200,No,Yes,No,2,116,14,3,Woluwe-Saint-Lambert
+1775,Hyper equipped,Renovated,1160,No,Yes,No,2,100,14,2,Auderghem
+2680,Hyper equipped,Renovated,1160,No,Yes,Yes,3,167,20,3,Auderghem
+2680,Hyper equipped,Renovated,1180,No,Yes,Yes,2,167,16,3,Uccle
+1950,Hyper equipped,Good,1180,No,Yes,No,2,120,17,4,Uccle
+3350,Hyper equipped,Renovated,1180,No,Yes,No,3,230,20,4,Uccle
+1380,Hyper equipped,Good,1200,No,Yes,No,1,110,15,2,Woluwe-Saint-Lambert
+1750,Installed,Renovated,1040,No,Yes,No,1,95,16,2,Etterbeek
+3175,Hyper equipped,Renovated,1050,No,Yes,No,3,165,10,2,Ixelles
+2700,Hyper equipped,Renovated,1180,No,Yes,No,3,150,10,3,Uccle
+975,Hyper equipped,Good,1150,No,No,Yes,1,128,11,1,Woluwe-St-Pierre
+1800,Installed,Renovated,1030,No,Yes,No,2,100,12,3,Schaerbeek
+2600,Not installed,Renovated,1050,No,Yes,No,1,140,18,3,Ixelles
+4000,Not installed,Renovated,1050,No,Yes,No,3,285,16,5,Ixelles
+4000,Not installed,Renovated,1050,No,Yes,No,4,285,16,5,Ixelles
+3775,Not installed,Renovated,1050,No,Yes,No,1,198,23,3,Ixelles
+4100,Installed,Renovated,1050,No,Yes,No,2,200,28,5,Ixelles
+4100,Installed,Renovated,1050,No,Yes,No,3,200,28,5,Ixelles
+2650,Not installed,Renovated,1050,No,Yes,Yes,3,130,17,2,Ixelles
+2650,Not installed,Renovated,1050,No,Yes,Yes,3,130,17,2,Ixelles
+1550,Not installed,Renovated,1030,No,Yes,No,0,131,10,3,Schaerbeek
+1550,Not installed,Renovated,1030,No,Yes,No,0,131,10,3,Schaerbeek
+1420,Hyper equipped,Renovated,1200,No,Yes,No,2,110,10,2,Woluwe-Saint-Lambert
+1450,Hyper equipped,Renovated,1050,No,Yes,Yes,1,50,15,1,Ixelles
+1000,Hyper equipped,Good,1000,No,Yes,Yes,1,65,17,1,Brussels City
+1300,Hyper equipped,Renovated,1180,No,Yes,No,1,70,17,1,Uccle
+2680,Hyper equipped,Renovated,1180,No,Yes,Yes,2,167,15,3,Uccle
+1240,Hyper equipped,Good,1060,No,Yes,Yes,1,90,15,1,Saint-Gilles
+1100,Installed,Good,1090,No,No,Yes,1,59,10,1,Jette
+850,Not installed,Good,1090,No,Yes,No,1,57,10,1,Jette
+980,Semi equipped,Good,1050,No,Yes,No,1,85,10,1,Ixelles
+1330,Hyper equipped,Renovated,1200,No,Yes,Unknown,1,75,13,2,Woluwe-Saint-Lambert
+1400,Hyper equipped,Renovated,1150,No,Yes,No,1,94,14,2,Woluwe-St-Pierre
+2425,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,160,10,2,Ixelles
+1330,Hyper equipped,Renovated,1050,No,Yes,No,1,85,16,2,Ixelles
+800,Hyper equipped,Renovated,1040,No,Yes,No,1,45,12,1,Etterbeek
+1100,Installed,Good,1140,No,No,No,1,69,14,2,Evere
+1300,Hyper equipped,Good,1040,No,Yes,No,1,90,14,2,Etterbeek
+1580,Hyper equipped,Renovated,1190,No,Yes,No,1,115,18,2,Forest
+2680,Hyper equipped,Renovated,1180,No,Yes,Yes,2,169,20,3,Uccle
+1301,Hyper equipped,Renovated,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+1708,Not installed,Good,1000,No,Yes,Yes,1,70,10,1,Brussels City
+1450,Not installed,Good,1000,No,Yes,Yes,1,105,10,2,Brussels City
+1708,Not installed,Good,1000,No,Yes,Yes,1,70,10,1,Brussels City
+3000,Installed,Good,1000,No,Yes,No,3,220,10,4,Brussels City
+2500,Installed,Good,1000,No,Yes,Yes,2,160,10,3,Brussels City
+2000,Hyper equipped,Good,1060,No,Yes,No,2,130,16,3,Saint-Gilles
+2680,Hyper equipped,Good,1040,No,Yes,Yes,1,168,10,3,Etterbeek
+1340,Installed,Renovated,1090,No,Yes,No,2,120,16,2,Jette
+1650,Installed,Good,1180,No,Yes,No,2,120,10,3,Uccle
+1650,Hyper equipped,Renovated,1040,No,Yes,No,1,93,15,2,Etterbeek
+2680,Hyper equipped,Renovated,1050,No,Yes,Yes,2,167,10,3,Ixelles
+700,Not installed,Renovated,1050,No,Yes,Unknown,1,128,10,1,Ixelles
+4940,Hyper equipped,Renovated,1000,No,Yes,No,4,230,19,4,Brussels City
+1400,Not installed,Good,1200,No,Yes,No,1,96,16,2,Woluwe-Saint-Lambert
+3000,Hyper equipped,Renovated,1000,No,Yes,Yes,2,153,17,2,Brussels City
+3000,Hyper equipped,Renovated,1000,No,Yes,Yes,2,153,17,2,Brussels City
+1201,Hyper equipped,Renovated,1160,No,Yes,No,1,67,12,1,Auderghem
+950,Installed,Good,1190,No,Yes,Unknown,1,80,14,1,Forest
+2260,Hyper equipped,Renovated,1180,No,Yes,Yes,1,120,18,2,Uccle
+1500,Hyper equipped,Renovated,1180,No,Yes,No,1,90,15,2,Uccle
+1680,Hyper equipped,Renovated,1180,No,Yes,No,3,115,11,3,Uccle
+1175,Hyper equipped,Renovated,1180,No,Yes,Yes,1,40,10,1,Uccle
+1750,Hyper equipped,Good,1000,No,Yes,No,1,110,20,2,Brussels City
+1225,Installed,Renovated,1030,No,Yes,Unknown,1,80,15,2,Schaerbeek
+2150,Hyper equipped,Renovated,1040,No,Yes,Yes,2,100,16,2,Etterbeek
+990,Not installed,Renovated,1150,No,Yes,No,1,55,10,1,Woluwe-St-Pierre
+1200,Hyper equipped,Good,1000,No,No,Yes,1,45,10,1,Brussels City
+1400,Not installed,Good,1180,No,No,Unknown,1,129,24,2,Uccle
+855,Hyper equipped,Renovated,1140,No,Yes,No,1,40,10,1,Evere
+1250,Not installed,Renovated,1040,No,Yes,No,1,128,14,3,Etterbeek
+2525,Not installed,Renovated,1050,No,Yes,Unknown,3,160,10,3,Ixelles
+1540,Installed,Good,1200,No,Yes,Unknown,3,95,16,2,Woluwe-Saint-Lambert
+2850,Hyper equipped,Renovated,1040,No,Yes,Unknown,2,245,30,4,Etterbeek
+5100,Not installed,Good,1180,No,Yes,No,4,128,10,4,Uccle
+1610,Hyper equipped,Renovated,1050,No,Yes,No,1,90,10,2,Ixelles
+3351,Hyper equipped,Renovated,1190,No,Yes,No,4,275,25,4,Forest
+620,Semi equipped,Renovated,1000,No,Yes,No,1,62,14,1,Brussels City
+1800,Hyper equipped,Good,1000,No,Yes,No,1,125,17,3,Brussels City
+1025,Hyper equipped,Good,1080,No,No,No,0,60,10,1,Molenbeek-Saint-Jean
+1500,Hyper equipped,Good,1150,No,Yes,No,1,110,10,3,Woluwe-St-Pierre
+825,Not installed,Good,1140,No,Yes,No,1,47,10,1,Evere
+1950,Hyper equipped,Good,1083,No,Yes,No,2,275,62,4,Ganshoren
+2100,Hyper equipped,Renovated,1000,No,Yes,Yes,1,150,10,2,Brussels City
+1275,Installed,Renovated,1200,No,Yes,Unknown,1,128,70,1,Woluwe-Saint-Lambert
+840,Hyper equipped,Renovated,1000,No,Yes,Yes,1,128,10,1,Brussels City
+860,Installed,Good,1040,No,Yes,Unknown,1,128,16,1,Etterbeek
+1750,Hyper equipped,Renovated,1180,No,No,Unknown,3,138,18,3,Uccle
+780,Hyper equipped,Renovated,1000,No,Yes,Yes,1,128,10,1,Brussels City
+1600,Hyper equipped,Renovated,1050,No,Yes,No,1,75,14,2,Ixelles
+1500,Hyper equipped,Renovated,1000,No,Yes,Yes,1,70,15,1,Brussels City
+1700,Hyper equipped,Renovated,1050,No,Yes,No,1,110,15,2,Ixelles
+1650,Installed,Renovated,1081,No,Yes,No,2,128,18,3,Koekelberg
+1950,Hyper equipped,Renovated,1050,No,Yes,No,1,167,15,3,Ixelles
+2150,Hyper equipped,Renovated,1050,No,Yes,No,2,156,30,2,Ixelles
+2150,Hyper equipped,Renovated,1050,No,Yes,No,2,156,30,2,Ixelles
+1500,Hyper equipped,Renovated,1000,No,Yes,No,1,95,16,2,Brussels City
+1250,Installed,Renovated,1070,No,Yes,No,2,92,15,2,Anderlecht
+1950,Hyper equipped,Renovated,1050,No,Yes,No,1,172,19,3,Ixelles
+2200,Hyper equipped,Renovated,1180,No,Yes,No,3,162,16,3,Uccle
+960,Installed,Good,1000,No,Yes,No,1,73,10,1,Brussels City
+1500,Hyper equipped,Good,1150,No,Yes,No,2,130,14,3,Woluwe-St-Pierre
+2700,Installed,Good,1200,No,Yes,No,2,274,32,5,Woluwe-Saint-Lambert
+1365,Installed,Good,1150,No,Yes,No,1,130,14,3,Woluwe-St-Pierre
+1400,Hyper equipped,Renovated,1200,No,Yes,No,1,78,22,2,Woluwe-Saint-Lambert
+995,Semi equipped,Good,1000,No,Yes,Unknown,1,128,10,2,Brussels City
+1450,Installed,Renovated,1050,No,Yes,No,3,95,10,2,Ixelles
+890,Semi equipped,Good,1040,No,Yes,No,1,65,10,1,Etterbeek
+840,Hyper equipped,Renovated,1050,No,Yes,No,1,43,10,1,Ixelles
+1500,Semi equipped,Renovated,1050,No,Yes,No,1,91,15,2,Ixelles
+2000,Installed,Good,1030,No,Yes,No,1,185,21,3,Schaerbeek
+800,Not installed,Renovated,1030,No,Yes,Unknown,1,51,10,1,Schaerbeek
+1425,Hyper equipped,Renovated,1180,No,No,Unknown,1,100,15,2,Uccle
+2700,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,200,10,3,Ixelles
+1420,Hyper equipped,Renovated,1040,No,Yes,No,1,110,20,2,Etterbeek
+1400,Installed,Good,1180,No,Yes,No,1,70,10,2,Uccle
+865,Installed,Good,1040,No,Yes,Unknown,1,40,10,1,Etterbeek
+1300,Not installed,Good,1060,No,No,Yes,1,125,10,2,Saint-Gilles
+1750,Not installed,Good,1000,No,Yes,No,2,100,10,2,Brussels City
+2150,Semi equipped,Renovated,1160,No,Yes,No,3,124,12,2,Auderghem
+1950,Installed,Renovated,1050,No,No,No,2,150,15,3,Ixelles
+1120,Hyper equipped,Renovated,1083,No,Yes,No,1,63,15,2,Ganshoren
+1020,Hyper equipped,Good,1083,No,Yes,No,1,58,15,1,Ganshoren
+1890,Hyper equipped,Renovated,1200,No,Yes,No,2,160,16,3,Woluwe-Saint-Lambert
+1500,Installed,Good,1050,No,Yes,No,1,95,16,3,Ixelles
+940,Installed,Good,1040,No,Yes,No,1,64,14,1,Etterbeek
+1350,Hyper equipped,Renovated,1000,No,Yes,Yes,1,128,10,1,Brussels City
+1300,Hyper equipped,Renovated,1000,No,Yes,Yes,1,128,10,1,Brussels City
+1935,Hyper equipped,Renovated,1200,No,Yes,No,1,100,14,2,Woluwe-Saint-Lambert
+1935,Hyper equipped,Renovated,1150,No,Yes,No,1,100,14,2,Woluwe-St-Pierre
+2380,Hyper equipped,Renovated,1050,No,Yes,No,2,176,18,3,Ixelles
+2380,Hyper equipped,Renovated,1060,No,Yes,No,2,176,18,3,Saint-Gilles
+1550,Installed,Good,1050,No,No,No,1,100,10,2,Ixelles
+1301,Hyper equipped,Renovated,1150,No,Yes,No,1,100,12,2,Woluwe-St-Pierre
+900,Not installed,Renovated,1000,No,Yes,Unknown,1,57,10,1,Brussels City
+1100,Installed,Good,1180,No,No,Unknown,1,80,15,2,Uccle
+4600,Hyper equipped,Renovated,1000,No,Yes,No,5,290,30,4,Brussels City
+1270,Hyper equipped,Good,1030,No,Yes,No,1,120,15,2,Schaerbeek
+1030,Hyper equipped,Good,1090,No,Yes,Unknown,1,99,11,2,Jette
+2050,Installed,Renovated,1180,No,Yes,No,2,105,15,1,Uccle
+2000,Installed,Renovated,1180,No,Yes,No,1,95,14,2,Uccle
+1250,Hyper equipped,Renovated,1030,No,Yes,No,1,74,13,2,Schaerbeek
+1110,Hyper equipped,Good,1200,No,Yes,No,1,50,10,1,Woluwe-Saint-Lambert
+1550,Semi equipped,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1400,Hyper equipped,Renovated,1160,No,Yes,No,2,120,10,3,Auderghem
+790,Installed,Renovated,1180,No,Yes,Yes,1,40,15,1,Uccle
+1850,Not installed,Good,1180,No,Yes,No,2,150,10,3,Uccle
+940,Installed,Renovated,1080,No,Yes,Unknown,1,128,10,2,Molenbeek-Saint-Jean
+1330,Semi equipped,Good,1190,No,Yes,Unknown,1,117,12,3,Forest
+890,Hyper equipped,Good,1180,No,No,Unknown,1,35,10,1,Uccle
+900,Installed,No renovated,1140,No,No,Yes,1,70,10,1,Evere
+2380,Installed,Renovated,1000,No,Yes,No,2,175,18,3,Brussels City
+1050,Installed,Renovated,1082,No,Yes,Unknown,1,80,14,2,Berchem-Sainte-Agathe
+1320,Installed,Good,1180,No,Yes,No,1,90,2,2,Uccle
+1385,Not installed,Renovated,1082,No,Yes,Unknown,1,121,24,2,Berchem-Sainte-Agathe
+1350,Hyper equipped,Good,1000,No,Yes,No,1,75,10,1,Brussels City
+1350,Hyper equipped,Good,1000,No,Yes,No,1,75,10,1,Brussels City
+1350,Hyper equipped,Good,1000,No,Yes,No,1,75,10,1,Brussels City
+1555,Hyper equipped,Good,1000,No,Yes,Yes,2,93,10,1,Brussels City
+1150,Installed,Good,1180,No,Yes,No,1,70,15,1,Uccle
+1090,Installed,Good,1180,No,No,No,1,90,10,2,Uccle
+725,Installed,Good,1050,No,Yes,No,1,40,10,1,Ixelles
+1575,Not installed,Good,1030,No,Yes,No,1,135,10,4,Schaerbeek
+1650,Installed,Renovated,1040,No,Yes,Unknown,2,105,14,2,Etterbeek
+1385,Hyper equipped,Renovated,1070,No,Yes,Unknown,2,120,16,3,Anderlecht
+1000,Installed,Good,1030,No,Yes,No,1,94,10,2,Schaerbeek
+1250,Hyper equipped,Good,1050,No,Yes,No,1,93,10,2,Ixelles
+1340,Hyper equipped,Renovated,1200,No,Yes,Yes,1,60,10,1,Woluwe-Saint-Lambert
+1540,Not installed,Renovated,1180,No,No,Unknown,2,115,10,2,Uccle
+870,Hyper equipped,Renovated,1030,No,Yes,No,1,61,10,1,Schaerbeek
+1560,Hyper equipped,Renovated,1040,No,Yes,No,2,90,14,2,Etterbeek
+1150,Installed,Renovated,1020,No,Yes,No,2,100,10,3,Laeken
+1400,Installed,Good,1050,No,Yes,No,2,116,15,2,Ixelles
+2200,Hyper equipped,Renovated,1180,No,Yes,Yes,2,100,16,2,Uccle
+4100,Hyper equipped,Renovated,1000,No,Yes,Yes,3,160,15,3,Brussels City
+3870,Hyper equipped,Renovated,1050,No,Yes,No,3,161,15,3,Ixelles
+3870,Hyper equipped,Renovated,1060,No,Yes,No,3,161,15,3,Saint-Gilles
+2300,Hyper equipped,Renovated,1170,No,Yes,No,2,135,14,2,Watermael-Boitsfort
+2300,Hyper equipped,Renovated,1050,No,Yes,No,2,135,14,2,Ixelles
+2375,Hyper equipped,Renovated,1170,No,Yes,No,3,150,16,3,Watermael-Boitsfort
+2400,Installed,Renovated,1000,No,Yes,No,2,160,15,3,Brussels City
+1425,Hyper equipped,Renovated,1000,No,Yes,No,1,85,14,2,Brussels City
+1470,Not installed,Good,1000,No,Yes,No,0,69,10,1,Brussels City
+1325,Installed,Renovated,1180,No,Yes,No,2,77,16,1,Uccle
+1350,Installed,Renovated,1180,No,Yes,No,2,114,19,2,Uccle
+2100,Installed,Renovated,1180,No,Yes,No,2,120,12,4,Uccle
+2300,Installed,Renovated,1190,No,Yes,Unknown,2,180,18,4,Forest
+2150,Not installed,Renovated,1050,No,Yes,No,2,159,18,2,Ixelles
+1525,Not installed,Good,1040,No,Yes,Yes,1,128,10,1,Etterbeek
+1825,Hyper equipped,Good,1150,No,Yes,No,2,141,14,3,Woluwe-St-Pierre
+1625,Hyper equipped,Good,1150,No,Yes,No,2,111,14,3,Woluwe-St-Pierre
+1500,Hyper equipped,Good,1180,No,Yes,No,2,80,13,2,Uccle
+2625,Installed,Good,1180,No,Yes,No,2,110,10,2,Uccle
+1680,Installed,Renovated,1200,No,Yes,Unknown,2,135,14,3,Woluwe-Saint-Lambert
+1100,Semi equipped,Renovated,1140,No,Yes,Unknown,1,80,12,2,Evere
+1650,Not installed,Good,1210,No,Yes,Yes,2,95,10,2,Saint-Josse-ten-Noode
+710,Installed,Good,1070,No,Yes,No,1,55,10,1,Anderlecht
+2500,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,139,10,3,Uccle
+2700,Hyper equipped,Renovated,1150,No,Yes,No,3,263,16,4,Woluwe-St-Pierre
+670,Installed,Good,1160,No,Yes,Unknown,1,111,9,1,Auderghem
+1180,Hyper equipped,Renovated,1070,No,Yes,No,1,88,14,2,Anderlecht
+845,Installed,Renovated,1150,No,Yes,Unknown,1,54,15,1,Woluwe-St-Pierre
+3200,Hyper equipped,Good,1050,No,Yes,Yes,3,180,10,2,Ixelles
+1095,Semi equipped,Good,1180,No,Yes,No,1,64,14,1,Uccle
+2500,Hyper equipped,Renovated,1050,No,Yes,No,2,125,10,2,Ixelles
+1750,Hyper equipped,Good,1050,No,Yes,No,2,110,15,2,Ixelles
+1900,Hyper equipped,Renovated,1050,No,Yes,No,1,125,10,2,Ixelles
+870,Installed,Good,1180,No,Yes,Unknown,1,45,10,1,Uccle
+765,Installed,Good,1050,No,Yes,No,1,54,18,1,Ixelles
+3500,Hyper equipped,Good,1000,No,Yes,No,4,240,21,3,Brussels City
+6500,Hyper equipped,Good,1180,No,Yes,No,3,250,10,4,Uccle
+1650,Hyper equipped,Good,1190,No,Yes,Yes,2,163,21,3,Forest
+3300,Hyper equipped,Renovated,1000,No,Yes,No,2,128,16,2,Brussels City
+2600,Hyper equipped,Renovated,1000,No,Yes,No,3,128,12,3,Brussels City
+1800,Installed,Good,1200,No,Yes,Unknown,2,155,21,3,Woluwe-Saint-Lambert
+1700,Hyper equipped,Renovated,1000,No,Yes,Yes,1,68,10,1,Brussels City
+2400,Hyper equipped,Renovated,1000,No,Yes,Yes,3,129,10,2,Brussels City
+1700,Not installed,Renovated,1000,No,Yes,Yes,1,68,10,1,Brussels City
+2150,Hyper equipped,Renovated,1000,No,Yes,Yes,1,115,10,1,Brussels City
+2650,Hyper equipped,Renovated,1200,No,Yes,No,2,200,17,4,Woluwe-Saint-Lambert
+3000,Hyper equipped,Good,1050,No,Yes,Yes,1,115,12,2,Ixelles
+886,Hyper equipped,Renovated,1190,No,Yes,No,1,55,13,1,Forest
+1530,Installed,Good,1050,No,No,Unknown,1,101,15,2,Ixelles
+1725,Semi equipped,Renovated,1180,No,Yes,No,2,112,14,3,Uccle
+1550,Hyper equipped,Good,1050,No,No,Unknown,1,105,16,2,Ixelles
+2550,Hyper equipped,Renovated,1050,No,Yes,No,2,170,18,2,Ixelles
+1020,Installed,Renovated,1080,No,Yes,No,1,90,18,1,Molenbeek-Saint-Jean
+1895,Installed,Good,1160,No,Yes,Unknown,2,150,17,4,Auderghem
+850,Semi equipped,Renovated,1190,No,Yes,Unknown,1,90,10,1,Forest
+2650,Not installed,Good,1200,No,Yes,Unknown,3,210,14,4,Woluwe-Saint-Lambert
+1260,Installed,Good,1080,No,Yes,No,2,130,10,2,Molenbeek-Saint-Jean
+1425,Hyper equipped,Renovated,1040,No,Yes,Yes,1,73,12,1,Etterbeek
+1540,Hyper equipped,Renovated,1040,No,Yes,No,1,116,10,1,Etterbeek
+1850,Hyper equipped,Renovated,1050,No,Yes,No,2,135,16,3,Ixelles
+1130,Hyper equipped,Renovated,1180,No,Yes,No,1,71,14,1,Uccle
+1800,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,150,16,4,Uccle
+1400,Hyper equipped,Renovated,1050,No,Yes,No,1,69,14,1,Ixelles
+1950,Not installed,Renovated,1150,No,Yes,No,2,151,14,3,Woluwe-St-Pierre
+1450,Not installed,Good,1000,No,Yes,Unknown,1,122,10,2,Brussels City
+2380,Hyper equipped,Renovated,1180,No,Yes,No,2,160,10,3,Uccle
+1350,Hyper equipped,Good,1190,No,Yes,No,1,92,14,2,Forest
+930,Not installed,Good,1170,No,No,Unknown,0,128,10,1,Watermael-Boitsfort
+1285,Hyper equipped,Renovated,1040,No,Yes,Unknown,1,80,11,1,Etterbeek
+750,Installed,Good,1050,No,Yes,No,1,35,10,1,Ixelles
+880,Installed,Good,1070,No,Yes,No,1,67,15,1,Anderlecht
+1775,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,130,21,3,Ixelles
+1200,Installed,Good,1040,No,Yes,Yes,1,60,12,1,Etterbeek
+570,Installed,Renovated,1180,No,Yes,Unknown,1,50,13,1,Uccle
+4400,Hyper equipped,Good,1050,No,Yes,No,4,220,10,3,Ixelles
+910,Installed,Renovated,1180,No,Yes,Unknown,1,75,15,1,Uccle
+3350,Hyper equipped,Renovated,1150,No,Yes,No,3,139,16,2,Woluwe-St-Pierre
+1345,Hyper equipped,Renovated,1200,No,Yes,No,2,106,12,2,Woluwe-Saint-Lambert
+2500,Hyper equipped,Renovated,1200,No,Yes,No,2,91,14,2,Woluwe-Saint-Lambert
+1550,Installed,Good,1030,No,No,No,0,102,10,2,Schaerbeek
+1500,Installed,Good,1180,No,Yes,Unknown,2,100,18,2,Uccle
+1700,Not installed,Renovated,1200,No,Yes,No,1,128,10,3,Woluwe-Saint-Lambert
+2200,Hyper equipped,Good,1030,No,Yes,No,2,160,10,5,Schaerbeek
+1325,Hyper equipped,Good,1000,No,Yes,No,1,100,16,2,Brussels City
+1800,Hyper equipped,Renovated,1180,No,Yes,No,2,128,22,2,Uccle
+1450,Installed,Renovated,1200,No,Yes,No,2,101,11,3,Woluwe-Saint-Lambert
+1450,Hyper equipped,Renovated,1180,No,No,Unknown,1,102,10,2,Uccle
+1020,Installed,Renovated,1030,No,Yes,No,1,65,10,1,Schaerbeek
+730,Not installed,Renovated,1030,No,Yes,Unknown,2,180,9,5,Schaerbeek
+1050,Not installed,Good,1080,No,No,Unknown,1,97,31,1,Molenbeek-Saint-Jean
+940,Not installed,Good,1150,No,No,Unknown,1,48,10,1,Woluwe-St-Pierre
+1195,Hyper equipped,Good,1180,No,Yes,Unknown,1,128,10,1,Uccle
+1220,Installed,Good,1170,No,Yes,Unknown,1,117,10,2,Watermael-Boitsfort
+960,Hyper equipped,Good,1030,No,Yes,No,1,77,10,1,Schaerbeek
+950,Not installed,Good,1180,No,Yes,No,1,47,10,1,Uccle
+2800,Hyper equipped,Renovated,1180,No,Yes,No,2,210,19,3,Uccle
+1575,Hyper equipped,Renovated,1050,No,Yes,Yes,2,97,15,2,Ixelles
+755,Installed,Good,1030,No,No,No,1,47,11,1,Schaerbeek
+1000,Installed,Good,1030,No,No,No,0,65,10,1,Schaerbeek
+1000,Installed,Good,1030,No,No,No,0,65,10,1,Schaerbeek
+1550,Hyper equipped,Renovated,1050,No,Yes,No,2,155,17,2,Ixelles
+800,Not installed,Renovated,1180,No,Yes,No,1,56,13,1,Uccle
+2600,Hyper equipped,Renovated,1180,No,Yes,Yes,3,132,20,2,Uccle
+2030,Hyper equipped,Renovated,1150,No,Yes,No,3,134,16,3,Woluwe-St-Pierre
+1360,Hyper equipped,Good,1150,No,Yes,No,1,100,15,2,Woluwe-St-Pierre
+1250,Hyper equipped,Renovated,1080,No,Yes,No,1,90,11,2,Molenbeek-Saint-Jean
+1080,Semi equipped,Good,1170,No,Yes,No,1,75,14,2,Watermael-Boitsfort
+2850,Not installed,Renovated,1050,No,Yes,No,2,160,10,3,Ixelles
+775,Semi equipped,Good,1000,No,No,Yes,1,36,10,1,Brussels City
+1910,Hyper equipped,Renovated,1000,No,Yes,Unknown,2,102,17,2,Brussels City
+1280,Semi equipped,Good,1050,No,No,Unknown,1,128,20,1,Ixelles
+2150,Installed,Good,1050,No,No,No,1,172,19,3,Ixelles
+700,Not installed,Renovated,1190,No,No,Yes,1,60,12,1,Forest
+2158,Hyper equipped,Renovated,1150,No,Yes,No,3,177,17,3,Woluwe-St-Pierre
+2950,Hyper equipped,Renovated,1050,No,Yes,No,2,118,12,3,Ixelles
+830,Installed,Good,1050,No,Yes,No,1,54,10,1,Ixelles
+2250,Hyper equipped,Renovated,1180,No,Yes,No,2,180,12,4,Uccle
+1750,Hyper equipped,Good,1150,No,Yes,No,2,110,16,2,Woluwe-St-Pierre
+1325,Hyper equipped,Renovated,1040,No,Yes,No,1,90,10,2,Etterbeek
+1180,Not installed,Good,1050,No,Yes,Unknown,1,85,10,1,Ixelles
+1220,Not installed,Renovated,1050,No,No,Unknown,1,80,10,1,Ixelles
+1900,Hyper equipped,Good,1000,No,No,Yes,1,90,10,2,Brussels City
+1315,Hyper equipped,Renovated,1000,No,Yes,No,1,90,10,2,Brussels City
+1790,Hyper equipped,Renovated,1150,No,Yes,Unknown,2,124,15,3,Woluwe-St-Pierre
+1600,Hyper equipped,Good,1180,No,Yes,No,1,110,14,2,Uccle
+1050,Installed,Good,1160,No,No,Unknown,1,95,10,2,Auderghem
+985,Installed,Good,1050,No,No,Unknown,1,86,10,1,Ixelles
+930,Not installed,Good,1030,No,Yes,Unknown,1,75,18,1,Schaerbeek
+800,Installed,Renovated,1090,No,Yes,Unknown,1,60,15,1,Jette
+1040,Not installed,Good,1040,No,Yes,No,1,70,10,2,Etterbeek
+1700,Hyper equipped,Good,1050,No,Yes,No,1,100,12,3,Ixelles
+1300,Installed,Good,1030,No,Yes,No,1,84,12,2,Schaerbeek
+850,Not installed,Good,1070,No,Yes,No,1,60,18,1,Anderlecht
+1150,Not installed,Renovated,1150,No,Yes,Yes,1,60,12,1,Woluwe-St-Pierre
+750,Not installed,Good,1030,No,No,Unknown,0,128,10,1,Schaerbeek
+1400,Hyper equipped,Renovated,1080,No,Yes,No,1,95,10,2,Molenbeek-Saint-Jean
+2400,Installed,Good,1180,No,Yes,No,2,110,10,2,Uccle
+1205,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,124,10,1,Brussels City
+1740,Hyper equipped,Good,1000,No,Yes,Unknown,2,135,10,3,Brussels City
+1600,Installed,Good,1050,No,Yes,No,2,123,10,2,Ixelles
+1600,Hyper equipped,Renovated,1080,No,Yes,Unknown,1,126,14,3,Molenbeek-Saint-Jean
+1350,Not installed,Renovated,1200,No,Yes,Unknown,2,100,10,2,Woluwe-Saint-Lambert
+1440,Hyper equipped,Renovated,1050,No,Yes,No,1,90,20,2,Ixelles
+3050,Hyper equipped,Renovated,1050,No,Yes,No,2,166,30,3,Ixelles
+2150,Hyper equipped,Good,1180,No,Yes,No,2,170,10,3,Uccle
+1825,Not installed,Renovated,1000,No,Yes,No,2,165,10,2,Brussels City
+1300,Hyper equipped,Good,1050,No,Yes,No,1,80,10,1,Ixelles
+3550,Installed,Good,1050,No,No,Yes,3,180,10,2,Ixelles
+3100,Not installed,Renovated,1180,No,Yes,No,3,180,18,3,Uccle
+3500,Hyper equipped,Good,1150,No,Yes,No,3,250,17,5,Woluwe-St-Pierre
+995,Hyper equipped,Renovated,1200,No,Yes,Yes,1,40,10,1,Woluwe-Saint-Lambert
+1600,Hyper equipped,Good,1000,No,Yes,No,1,90,24,2,Brussels City
+710,Installed,Good,1080,No,Yes,Unknown,1,55,20,1,Molenbeek-Saint-Jean
+1450,Hyper equipped,Renovated,1090,No,Yes,Unknown,1,162,16,3,Jette
+1295,Hyper equipped,Renovated,1200,No,Yes,No,1,88,15,2,Woluwe-Saint-Lambert
+1195,Hyper equipped,Good,1140,No,Yes,No,1,74,10,2,Evere
+1350,Semi equipped,Renovated,1190,No,Yes,Unknown,1,128,10,3,Forest
+2550,Hyper equipped,Renovated,1180,No,Yes,No,2,116,13,3,Uccle
+1350,Hyper equipped,Good,1000,No,Yes,No,2,145,13,2,Brussels City
+1340,Installed,Good,1050,No,Yes,No,2,121,14,2,Ixelles
+2300,Not installed,Good,1050,No,Yes,Unknown,2,180,10,3,Ixelles
+1050,Hyper equipped,Renovated,1200,No,Yes,Yes,1,40,10,1,Woluwe-Saint-Lambert
+2250,Hyper equipped,Good,1040,No,Yes,Yes,2,110,15,3,Etterbeek
+900,Semi equipped,Renovated,1090,No,Yes,Unknown,1,128,10,1,Jette
+700,Installed,Good,1180,No,No,Unknown,1,128,18,1,Uccle
+1800,Not installed,Good,1200,No,Yes,Unknown,0,128,10,3,Woluwe-Saint-Lambert
+1365,Hyper equipped,Renovated,1050,No,Yes,No,1,68,15,1,Ixelles
+1915,Hyper equipped,Renovated,1050,No,Yes,No,2,99,15,3,Ixelles
+1565,Hyper equipped,Renovated,1050,No,Yes,No,1,86,15,2,Ixelles
+1415,Hyper equipped,Renovated,1050,No,Yes,No,1,76,16,2,Ixelles
+2250,Hyper equipped,Renovated,1160,No,Yes,No,2,150,13,3,Auderghem
+2601,Hyper equipped,Renovated,1140,No,Yes,No,3,300,25,5,Evere
+6500,Not installed,Renovated,1180,No,Yes,No,4,230,10,4,Uccle
+2000,Hyper equipped,Renovated,1200,No,Yes,No,3,132,17,3,Woluwe-Saint-Lambert
+900,Semi equipped,Good,1180,No,Yes,Unknown,1,80,12,2,Uccle
+1650,Installed,Good,1050,No,Yes,No,2,120,18,2,Ixelles
+2750,Installed,Renovated,1050,No,Yes,Unknown,1,180,10,3,Ixelles
+975,Installed,Renovated,1140,No,No,Unknown,2,128,15,1,Evere
+1250,Hyper equipped,Renovated,1040,No,Yes,Unknown,1,90,16,2,Etterbeek
+1325,Hyper equipped,Renovated,1180,No,Yes,No,2,75,16,2,Uccle
+2200,Hyper equipped,Good,1180,No,No,Yes,2,160,20,1,Uccle
+1400,Hyper equipped,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1370,Hyper equipped,Good,1180,No,No,Yes,1,128,10,2,Uccle
+2100,Hyper equipped,Renovated,1180,No,Yes,No,2,132,13,3,Uccle
+2650,Hyper equipped,Renovated,1050,No,Yes,No,3,130,10,3,Ixelles
+2500,Hyper equipped,Renovated,1180,No,Yes,Yes,2,160,50,2,Uccle
+2425,Hyper equipped,Renovated,1050,No,Yes,No,3,125,25,3,Ixelles
+1400,Hyper equipped,Renovated,1020,No,Yes,No,2,110,14,3,Laeken
+1900,Hyper equipped,Renovated,1050,No,Yes,No,1,140,16,2,Ixelles
+1650,Hyper equipped,Renovated,1000,No,Yes,No,1,168,14,2,Brussels City
+1520,Hyper equipped,Renovated,1040,No,Yes,No,1,90,14,2,Etterbeek
+900,Hyper equipped,Good,1180,No,Yes,Unknown,1,65,10,1,Uccle
+1900,Hyper equipped,Good,1200,No,Yes,No,2,120,15,3,Woluwe-Saint-Lambert
+1950,Installed,Renovated,1180,No,Yes,No,1,100,10,2,Uccle
+2200,Hyper equipped,Renovated,1180,No,Yes,No,2,135,23,2,Uccle
+1300,Hyper equipped,Renovated,1200,No,Yes,Yes,1,60,14,1,Woluwe-Saint-Lambert
+1185,Installed,Renovated,1140,No,No,Unknown,2,128,15,2,Evere
+1050,Semi equipped,Good,1000,No,Yes,Unknown,1,69,13,1,Brussels City
+3000,Hyper equipped,Good,1180,No,Yes,Yes,2,140,23,2,Uccle
+1515,Hyper equipped,Renovated,1160,No,Yes,No,2,113,14,2,Auderghem
+1555,Hyper equipped,Renovated,1060,No,Yes,Yes,2,100,10,1,Saint-Gilles
+1800,Hyper equipped,Renovated,1200,No,Yes,Yes,2,104,10,3,Woluwe-Saint-Lambert
+2800,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,210,18,3,Uccle
+1010,Installed,Good,1050,No,Yes,No,1,55,9,1,Ixelles
+1250,Semi equipped,Renovated,1000,No,Yes,Unknown,1,100,10,2,Brussels City
+1320,Not installed,Good,1180,No,No,Unknown,0,128,10,2,Uccle
+3175,Installed,Good,1180,No,Yes,No,3,162,14,2,Uccle
+3175,Installed,Good,1180,No,Yes,No,3,162,14,2,Uccle
+2020,Hyper equipped,Renovated,1000,No,Yes,Yes,1,80,19,1,Brussels City
+1550,Installed,Good,1050,No,No,No,1,100,10,2,Ixelles
+1920,Hyper equipped,Good,1000,No,No,Unknown,2,145,15,2,Brussels City
+930,Not installed,Renovated,1000,No,Yes,No,1,70,10,1,Brussels City
+1180,Installed,Renovated,1140,No,Yes,Yes,0,128,10,1,Evere
+1270,Not installed,Good,1170,No,Yes,Yes,1,85,13,2,Watermael-Boitsfort
+1640,Installed,Good,1050,No,No,No,1,95,10,2,Ixelles
+1975,Installed,Good,1050,No,No,No,2,135,10,2,Ixelles
+1800,Installed,Good,1050,No,No,No,2,110,10,2,Ixelles
+850,Installed,Good,1070,No,Yes,Unknown,1,100,14,2,Anderlecht
+1100,Hyper equipped,Renovated,1050,No,Yes,Yes,1,40,10,1,Ixelles
+3000,Hyper equipped,Renovated,1050,No,Yes,No,3,197,10,3,Ixelles
+1725,Hyper equipped,Renovated,1000,No,Yes,Yes,2,70,20,1,Brussels City
+1250,Hyper equipped,Renovated,1180,No,Yes,Unknown,1,70,14,1,Uccle
+1475,Installed,Renovated,1200,No,Yes,Yes,1,90,16,2,Woluwe-Saint-Lambert
+1150,Not installed,Good,1040,No,Yes,No,1,91,17,2,Etterbeek
+3340,Hyper equipped,Good,1210,No,No,Unknown,2,179,40,2,Saint-Josse-ten-Noode
+1700,Not installed,Renovated,1050,No,Yes,No,2,143,10,3,Ixelles
+2000,Hyper equipped,Good,1180,No,Yes,No,1,132,7,3,Uccle
+2500,Hyper equipped,Good,1180,No,Yes,No,2,176,15,2,Uccle
+1650,Not installed,Renovated,1050,No,Yes,Yes,1,70,10,1,Ixelles
+2750,Hyper equipped,Renovated,1180,No,Yes,Unknown,3,145,24,3,Uccle
+1400,Hyper equipped,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1816,Hyper equipped,Renovated,1050,No,Yes,Yes,1,107,16,2,Ixelles
+2430,Hyper equipped,Good,1050,No,Yes,No,2,173,22,3,Ixelles
+950,Installed,Good,1050,No,Yes,No,1,55,6,1,Ixelles
+2125,Hyper equipped,Renovated,1060,No,Yes,No,3,135,16,2,Saint-Gilles
+1800,Hyper equipped,Renovated,1060,No,Yes,No,2,92,20,2,Saint-Gilles
+1450,Hyper equipped,Renovated,1050,No,Yes,No,1,107,12,2,Ixelles
+1090,Installed,Renovated,1170,No,Yes,Yes,1,50,10,1,Watermael-Boitsfort
+1750,Hyper equipped,Renovated,1200,No,Yes,No,2,156,15,3,Woluwe-Saint-Lambert
+1280,Installed,Good,1000,No,Yes,No,1,67,10,1,Brussels City
+900,Not installed,Good,1040,No,Yes,No,1,70,10,2,Etterbeek
+1600,Hyper equipped,Renovated,1050,No,Yes,Unknown,1,180,10,2,Ixelles
+1900,Not installed,Good,1190,No,Yes,Unknown,2,128,10,3,Forest
+1720,Hyper equipped,Renovated,1030,No,Yes,Yes,2,85,15,2,Schaerbeek
+2940,Hyper equipped,Good,1040,No,Yes,No,3,275,16,5,Etterbeek
+1340,Not installed,Good,1000,No,No,No,1,115,10,1,Brussels City
+1900,Hyper equipped,Renovated,1050,No,Yes,No,1,140,16,2,Ixelles
+1350,Hyper equipped,Renovated,1200,No,Yes,No,2,94,15,3,Woluwe-Saint-Lambert
+1020,Hyper equipped,Renovated,1070,No,Yes,Unknown,1,62,12,1,Anderlecht
+1350,Semi equipped,Good,1170,No,Yes,No,2,125,17,3,Watermael-Boitsfort
+1600,Hyper equipped,Good,1050,No,No,Unknown,1,128,10,2,Ixelles
+1450,Not installed,Renovated,1040,No,No,Yes,2,110,20,2,Etterbeek
+1000,Semi equipped,Renovated,1030,No,Yes,Unknown,1,95,14,2,Schaerbeek
+1150,Installed,Renovated,1020,No,Yes,Unknown,1,85,10,2,Laeken
+905,Not installed,Renovated,1020,No,Yes,Unknown,1,40,10,1,Laeken
+950,Not installed,Good,1170,No,No,Yes,1,50,10,1,Watermael-Boitsfort
+1495,Not installed,Renovated,1150,No,Yes,No,0,140,10,3,Woluwe-St-Pierre
+1330,Not installed,Good,1200,No,Yes,Yes,1,91,15,2,Woluwe-Saint-Lambert
+1725,Not installed,Good,1050,No,Yes,No,2,105,17,3,Ixelles
+1780,Not installed,Renovated,1180,No,Yes,No,2,142,10,2,Uccle
+2540,Installed,Renovated,1000,No,Yes,No,3,234,18,4,Brussels City
+1410,Hyper equipped,Renovated,1070,No,Yes,No,1,104,14,2,Anderlecht
+1910,Hyper equipped,Renovated,1200,No,Yes,Unknown,2,164,28,3,Woluwe-Saint-Lambert
+2420,Hyper equipped,Renovated,1050,No,Yes,Yes,2,119,14,2,Ixelles
+1800,Installed,Good,1200,No,Yes,Yes,2,104,10,3,Woluwe-Saint-Lambert
+925,Installed,Good,1070,No,Yes,No,1,70,13,2,Anderlecht
+1700,Hyper equipped,Renovated,1180,No,Yes,No,3,135,20,3,Uccle
+1400,Hyper equipped,Good,1190,No,Yes,Unknown,1,100,15,2,Forest
+1405,Installed,Renovated,1050,No,Yes,Yes,2,95,10,1,Ixelles
+950,Hyper equipped,Good,1140,No,Yes,No,1,40,10,1,Evere
+1540,Hyper equipped,Renovated,1180,No,Yes,No,2,81,14,2,Uccle
+2000,Hyper equipped,Renovated,1050,No,Yes,Yes,2,113,10,2,Ixelles
+1100,Installed,Renovated,1050,No,Yes,Unknown,1,45,10,1,Ixelles
+795,Hyper equipped,Renovated,1200,No,Yes,No,1,45,10,1,Woluwe-Saint-Lambert
+1350,Not installed,Good,1190,No,No,Unknown,2,100,10,2,Forest
+1400,Installed,Good,1000,No,Yes,No,1,104,22,1,Brussels City
+1700,Installed,Good,1050,No,Yes,No,1,97,18,3,Ixelles
+1415,Hyper equipped,Renovated,1000,No,Yes,No,1,90,10,2,Brussels City
+1415,Hyper equipped,Renovated,1000,No,Yes,No,1,84,10,2,Brussels City
+1100,Hyper equipped,Good,1170,No,Yes,No,1,61,16,1,Watermael-Boitsfort
+1100,Hyper equipped,Good,1000,No,Yes,No,1,61,16,1,Brussels City
+2100,Hyper equipped,Renovated,1200,No,Yes,No,2,101,15,2,Woluwe-Saint-Lambert
+1750,Hyper equipped,Renovated,1180,No,Yes,Yes,1,70,14,2,Uccle
+1600,Hyper equipped,Renovated,1160,No,Yes,No,2,115,14,2,Auderghem
+2075,Hyper equipped,Renovated,1050,No,Yes,No,2,100,17,2,Ixelles
+1600,Hyper equipped,Renovated,1180,No,No,Unknown,1,128,19,2,Uccle
+1650,Not installed,Good,1000,No,Yes,No,1,95,15,3,Brussels City
+845,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,104,15,1,Schaerbeek
+2850,Installed,Good,1050,No,Yes,Yes,1,155,10,3,Ixelles
+1800,Installed,Good,1050,No,Yes,Yes,1,130,10,3,Ixelles
+2550,Hyper equipped,Good,1050,No,Yes,Unknown,2,213,10,2,Ixelles
+3870,Hyper equipped,Renovated,1060,No,Yes,No,3,161,15,3,Saint-Gilles
+1325,Hyper equipped,Renovated,1180,No,Yes,No,2,75,16,1,Uccle
+1195,Installed,Good,1040,No,Yes,No,2,88,10,1,Etterbeek
+1374,Hyper equipped,Renovated,1081,No,Yes,Yes,0,128,10,2,Koekelberg
+6000,Hyper equipped,Renovated,1050,No,Yes,No,3,235,22,3,Ixelles
+1700,Hyper equipped,Renovated,1180,No,Yes,No,2,110,18,2,Uccle
+1250,Hyper equipped,Renovated,1060,No,Yes,Yes,1,70,11,1,Saint-Gilles
+2500,Hyper equipped,Renovated,1200,No,Yes,No,1,100,14,2,Woluwe-Saint-Lambert
+3000,Hyper equipped,Renovated,1050,No,Yes,No,3,197,25,3,Ixelles
+1140,Hyper equipped,Renovated,1160,No,Yes,No,1,69,16,1,Auderghem
+1400,Hyper equipped,Renovated,1180,No,Yes,Yes,1,69,10,1,Uccle
+955,Not installed,Renovated,1000,No,Yes,Unknown,1,60,9,1,Brussels City
+1600,Installed,Good,1050,No,No,Unknown,1,110,10,2,Ixelles
+2220,Installed,Renovated,1050,No,Yes,No,2,113,10,3,Ixelles
+2000,Hyper equipped,Good,1180,No,No,No,1,140,10,3,Uccle
+1245,Hyper equipped,Renovated,1200,No,Yes,No,2,75,14,1,Woluwe-Saint-Lambert
+1100,Hyper equipped,Renovated,1050,No,Yes,No,1,80,16,1,Ixelles
+1500,Semi equipped,Good,1040,No,No,Unknown,1,128,15,2,Etterbeek
+1785,Not installed,Good,1050,No,No,Unknown,2,129,33,2,Ixelles
+2005,Not installed,Renovated,1180,No,Yes,No,1,70,15,1,Uccle
+1550,Semi equipped,Renovated,1050,No,Yes,No,1,124,17,2,Ixelles
+1950,Hyper equipped,Renovated,1050,No,Yes,No,2,103,17,2,Ixelles
+2750,Hyper equipped,Renovated,1050,No,Yes,No,2,226,21,3,Ixelles
+1555,Hyper equipped,Renovated,1060,No,Yes,Yes,2,100,10,1,Saint-Gilles
+2800,Hyper equipped,Renovated,1160,No,Yes,Yes,3,180,18,2,Auderghem
+1695,Hyper equipped,Renovated,1180,No,Yes,No,1,130,16,3,Uccle
+1750,Hyper equipped,Renovated,1180,No,Yes,Yes,1,70,14,2,Uccle
+2000,Hyper equipped,Good,1180,No,Yes,No,2,175,10,4,Uccle
+2100,Hyper equipped,Good,1180,No,Yes,No,2,150,14,3,Uccle
+1650,Hyper equipped,Renovated,1000,No,Yes,No,2,168,13,2,Brussels City
+950,Installed,Good,1180,No,Yes,No,1,52,10,1,Uccle
+2220,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,130,15,2,Uccle
+1600,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,105,10,2,Uccle
+1500,Installed,Renovated,1060,No,Yes,Yes,1,120,23,2,Saint-Gilles
+1450,Hyper equipped,Renovated,1000,No,Yes,No,2,96,14,2,Brussels City
+1430,Installed,Good,1060,No,Yes,Unknown,2,128,14,2,Saint-Gilles
+1250,Semi equipped,Renovated,1000,No,Yes,Unknown,1,100,10,2,Brussels City
+1025,Hyper equipped,Renovated,1082,No,Yes,No,1,84,14,1,Berchem-Sainte-Agathe
+1380,Hyper equipped,Renovated,1150,No,Yes,No,1,100,14,2,Woluwe-St-Pierre
+1020,Installed,Good,1000,No,No,Unknown,1,72,10,1,Brussels City
+1350,Not installed,Good,1180,No,No,Unknown,1,128,15,2,Uccle
+1325,Installed,Renovated,1150,No,Yes,No,2,113,16,2,Woluwe-St-Pierre
+1400,Hyper equipped,Renovated,1050,No,Yes,Yes,1,60,11,1,Ixelles
+2250,Hyper equipped,Renovated,1040,No,Yes,No,2,134,10,2,Etterbeek
+4900,Hyper equipped,Renovated,1050,No,Yes,No,4,200,30,3,Ixelles
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,2,220,14,3,Ixelles
+1700,Not installed,Good,1000,No,No,Yes,2,80,10,1,Brussels City
+1480,Hyper equipped,Renovated,1050,No,Yes,No,1,100,10,2,Ixelles
+2050,Hyper equipped,Renovated,1050,No,Yes,No,1,100,15,1,Ixelles
+1685,Hyper equipped,Renovated,1160,No,Yes,Yes,2,86,12,2,Auderghem
+1900,Hyper equipped,Renovated,1050,No,Yes,No,2,125,15,2,Ixelles
+1550,Hyper equipped,Renovated,1200,No,Yes,No,1,100,14,3,Woluwe-Saint-Lambert
+1295,Installed,Renovated,1200,No,Yes,No,1,88,10,2,Woluwe-Saint-Lambert
+1250,Hyper equipped,Good,1000,No,Yes,No,1,80,15,1,Brussels City
+925,Not installed,Good,1030,No,No,No,1,72,10,1,Schaerbeek
+1350,Installed,Renovated,1170,No,Yes,Unknown,1,77,13,2,Watermael-Boitsfort
+1650,Not installed,Good,1000,No,Yes,Unknown,1,95,17,2,Brussels City
+2150,Hyper equipped,Renovated,1050,No,Yes,No,2,140,10,3,Ixelles
+1050,Hyper equipped,Good,1030,No,Yes,No,1,75,15,1,Schaerbeek
+1200,Installed,Renovated,1200,No,Yes,No,2,100,10,1,Woluwe-Saint-Lambert
+1420,Not installed,Renovated,1000,No,No,Unknown,1,92,10,2,Brussels City
+1200,Not installed,Good,1000,No,Yes,No,1,130,11,3,Brussels City
+1200,Hyper equipped,Good,1020,No,Yes,No,1,104,10,2,Laeken
+1195,Installed,Renovated,1000,No,Yes,No,1,68,13,1,Brussels City
+1300,Not installed,Good,1050,No,No,Unknown,2,205,10,2,Ixelles
+1600,Installed,Good,1180,No,No,Unknown,1,150,23,3,Uccle
+2540,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,150,10,2,Uccle
+2250,Installed,Good,1050,No,No,No,2,135,10,2,Ixelles
+2000,Hyper equipped,Good,1000,No,Yes,Yes,1,61,14,1,Brussels City
+1150,Hyper equipped,Renovated,1200,No,Yes,No,1,88,10,2,Woluwe-Saint-Lambert
+1100,Semi equipped,Good,1140,No,No,No,0,94,15,2,Evere
+1400,Installed,Renovated,1080,No,Yes,Unknown,1,92,10,2,Molenbeek-Saint-Jean
+1370,Hyper equipped,Renovated,1000,No,Yes,Unknown,2,90,10,2,Brussels City
+1300,Installed,Good,1000,No,Yes,Unknown,1,90,10,1,Brussels City
+1950,Installed,Renovated,1050,No,Yes,Unknown,2,120,14,3,Ixelles
+1400,Not installed,Good,1080,No,No,Unknown,1,128,10,2,Molenbeek-Saint-Jean
+715,Installed,Renovated,1150,No,Yes,No,1,40,10,1,Woluwe-St-Pierre
+1900,Hyper equipped,Renovated,1050,No,Yes,Yes,1,128,10,1,Ixelles
+1740,Hyper equipped,Renovated,1040,No,Yes,Unknown,2,100,15,2,Etterbeek
+1650,Hyper equipped,Good,1180,No,No,No,1,104,10,2,Uccle
+2700,Hyper equipped,Renovated,1050,No,Yes,No,2,170,16,4,Ixelles
+775,Installed,Renovated,1070,No,Yes,Unknown,1,45,10,1,Anderlecht
+1737,Installed,Good,1000,No,Yes,No,1,199,10,3,Brussels City
+1075,Hyper equipped,Renovated,1150,No,Yes,No,1,85,7,2,Woluwe-St-Pierre
+2380,Not installed,Renovated,1180,No,Yes,No,3,176,18,3,Uccle
+1451,Hyper equipped,Good,1050,No,Yes,No,1,90,22,2,Ixelles
+1610,Hyper equipped,Renovated,1050,No,Yes,No,1,135,27,2,Ixelles
+1125,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,75,18,2,Schaerbeek
+855,Semi equipped,Good,1140,No,Yes,No,1,56,10,1,Evere
+1850,Hyper equipped,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+2275,Hyper equipped,Renovated,1000,No,Yes,No,1,112,10,2,Brussels City
+1150,Hyper equipped,Good,1200,No,Yes,Yes,1,65,8,1,Woluwe-Saint-Lambert
+1700,Hyper equipped,Renovated,1180,No,Yes,No,2,115,19,2,Uccle
+1225,Hyper equipped,Renovated,1040,No,Yes,No,1,50,10,1,Etterbeek
+2035,Hyper equipped,Renovated,1050,No,Yes,No,2,135,16,3,Ixelles
+730,Not installed,Good,1210,No,Yes,Unknown,2,128,10,1,Saint-Josse-ten-Noode
+3290,Not installed,Renovated,1050,No,Yes,No,4,220,22,4,Ixelles
+1550,Hyper equipped,Renovated,1180,No,Yes,No,2,110,10,2,Uccle
+775,Semi equipped,Renovated,1050,No,Yes,No,1,50,15,1,Ixelles
+1250,Hyper equipped,Renovated,1200,No,Yes,No,1,73,12,2,Woluwe-Saint-Lambert
+1150,Hyper equipped,Renovated,1000,No,Yes,No,2,72,22,1,Brussels City
+1690,Hyper equipped,Renovated,1000,No,Yes,No,1,100,13,2,Brussels City
+1450,Hyper equipped,Good,1050,No,Yes,No,1,108,15,2,Ixelles
+2800,Hyper equipped,Good,1050,No,Yes,No,2,110,13,3,Ixelles
+1450,Hyper equipped,Renovated,1020,No,Yes,Yes,2,119,11,2,Laeken
+990,Semi equipped,Good,1200,No,Yes,Unknown,1,116,15,1,Woluwe-Saint-Lambert
+1650,Hyper equipped,Renovated,1050,No,No,Unknown,1,102,12,2,Ixelles
+1400,Hyper equipped,Renovated,1050,No,Yes,Yes,1,60,11,1,Ixelles
+1500,Hyper equipped,Good,1180,No,Yes,No,2,105,15,2,Uccle
+965,Hyper equipped,Renovated,1070,No,Yes,No,1,75,10,1,Anderlecht
+1720,Hyper equipped,Renovated,1000,No,Yes,No,1,130,17,2,Brussels City
+1195,Hyper equipped,Good,1060,No,No,Unknown,1,90,14,1,Saint-Gilles
+1700,Hyper equipped,Renovated,1200,No,No,Unknown,1,130,25,2,Woluwe-Saint-Lambert
+1300,Not installed,Good,1210,No,Yes,No,1,165,10,2,Saint-Josse-ten-Noode
+1100,Installed,Good,1050,No,No,No,1,70,10,1,Ixelles
+2200,Not installed,Renovated,1180,No,Yes,Unknown,2,140,16,3,Uccle
+2125,Hyper equipped,Good,1180,No,No,Yes,1,89,10,2,Uccle
+3950,Hyper equipped,Renovated,1050,No,Yes,No,3,260,28,5,Ixelles
+1500,Installed,Good,1081,No,Yes,Unknown,1,134,10,4,Koekelberg
+1450,Hyper equipped,Renovated,1000,No,Yes,No,1,85,15,2,Brussels City
+1005,Not installed,Good,1080,No,Yes,No,1,79,12,2,Molenbeek-Saint-Jean
+1300,Not installed,Renovated,1070,No,No,Unknown,1,128,12,3,Anderlecht
+1380,Installed,Renovated,1200,No,No,Unknown,1,85,10,2,Woluwe-Saint-Lambert
+985,Installed,Good,1070,No,No,No,1,103,10,2,Anderlecht
+1800,Hyper equipped,Good,1020,No,Yes,No,2,165,14,3,Laeken
+1380,Hyper equipped,Renovated,1050,No,Yes,Yes,1,36,10,1,Ixelles
+1950,Hyper equipped,Renovated,1050,No,Yes,Yes,1,52,18,1,Ixelles
+1900,Hyper equipped,Renovated,1050,No,Yes,Yes,1,62,15,1,Ixelles
+2750,Hyper equipped,Renovated,1050,No,Yes,Yes,2,102,25,2,Ixelles
+2450,Hyper equipped,Renovated,1050,No,Yes,Yes,2,79,18,1,Ixelles
+2500,Hyper equipped,Renovated,1060,No,No,Yes,1,110,10,3,Saint-Gilles
+1350,Installed,Good,1180,No,No,Yes,1,100,10,2,Uccle
+4850,Not installed,Good,1050,No,Yes,No,2,240,10,3,Ixelles
+1650,Hyper equipped,Renovated,1000,No,Yes,No,1,100,14,2,Brussels City
+1375,Installed,Renovated,1000,No,Yes,No,1,98,17,2,Brussels City
+1360,Hyper equipped,Renovated,1030,No,Yes,No,2,100,14,2,Schaerbeek
+1090,Installed,Renovated,1040,No,Yes,Yes,1,128,65,1,Etterbeek
+1950,Hyper equipped,Renovated,1200,No,Yes,No,1,150,10,3,Woluwe-Saint-Lambert
+1300,Hyper equipped,Good,1140,No,Yes,No,1,85,9,2,Evere
+2450,Hyper equipped,Renovated,1000,No,Yes,Yes,2,102,10,2,Brussels City
+1650,Hyper equipped,Renovated,1050,No,Yes,No,1,84,11,2,Ixelles
+1550,Installed,Good,1150,No,No,No,1,140,10,3,Woluwe-St-Pierre
+2250,Not installed,Good,1050,No,Yes,Unknown,2,133,20,2,Ixelles
+3050,Installed,Renovated,1160,No,Yes,No,2,151,10,3,Auderghem
+1200,Installed,Good,1160,No,Yes,No,1,72,15,1,Auderghem
+2250,Hyper equipped,Renovated,1050,No,Yes,No,2,133,24,2,Ixelles
+1300,Installed,Renovated,1090,No,Yes,No,1,96,14,2,Jette
+975,Hyper equipped,Good,1040,No,Yes,No,1,66,10,1,Etterbeek
+3650,Not installed,Renovated,1050,No,Yes,Unknown,3,200,10,3,Ixelles
+2950,Semi equipped,Renovated,1050,No,Yes,No,2,118,23,3,Ixelles
+2880,Hyper equipped,Renovated,1150,No,Yes,No,3,256,26,4,Woluwe-St-Pierre
+1550,Installed,Good,1000,No,Yes,Yes,2,102,10,3,Brussels City
+970,Semi equipped,Good,1040,No,Yes,No,1,65,10,2,Etterbeek
+1235,Hyper equipped,Good,1030,No,Yes,Unknown,2,141,10,2,Schaerbeek
+1100,Hyper equipped,Good,1060,No,Yes,Yes,1,45,10,1,Saint-Gilles
+1350,Not installed,Renovated,1040,No,Yes,Yes,1,40,10,1,Etterbeek
+1375,Hyper equipped,Good,1040,No,Yes,Yes,1,75,10,1,Etterbeek
+860,Hyper equipped,Good,1020,No,Yes,Yes,1,60,12,1,Laeken
+1950,Hyper equipped,Good,1180,No,Yes,No,2,132,15,2,Uccle
+2570,Hyper equipped,Renovated,1180,No,Yes,No,2,220,40,3,Uccle
+2950,Not installed,Renovated,1160,No,Yes,Unknown,3,240,10,4,Auderghem
+3630,Hyper equipped,Renovated,1050,No,Yes,No,3,180,15,2,Ixelles
+3630,Hyper equipped,Renovated,1050,No,Yes,No,2,200,20,2,Ixelles
+1625,Hyper equipped,Renovated,1160,No,Yes,No,2,110,14,2,Auderghem
+1380,Hyper equipped,Renovated,1000,No,Yes,No,1,70,13,1,Brussels City
+2175,Hyper equipped,Renovated,1180,No,Yes,Yes,1,100,10,2,Uccle
+825,Hyper equipped,Good,1040,No,Yes,No,1,45,10,1,Etterbeek
+1400,Hyper equipped,Good,1040,No,Yes,No,1,85,15,2,Etterbeek
+1000,Not installed,Renovated,1000,No,Yes,No,1,85,16,2,Brussels City
+1350,Hyper equipped,Good,1083,No,Yes,No,2,125,13,3,Ganshoren
+1650,Hyper equipped,Renovated,1170,No,Yes,Unknown,2,120,16,3,Watermael-Boitsfort
+1815,Installed,Renovated,1030,No,Yes,No,2,170,20,3,Schaerbeek
+1130,Hyper equipped,Good,1000,No,Yes,Unknown,1,100,16,1,Brussels City
+1850,Not installed,Good,1040,No,Yes,No,2,175,10,3,Etterbeek
+1400,Hyper equipped,Renovated,1000,No,Yes,No,1,120,10,2,Brussels City
+1499,Hyper equipped,Renovated,1050,No,Yes,Yes,1,128,15,1,Ixelles
+1600,Not installed,Renovated,1000,No,Yes,No,2,100,20,2,Brussels City
+1700,Hyper equipped,Good,1150,No,Yes,Yes,1,96,14,1,Woluwe-St-Pierre
+2350,Not installed,Renovated,1050,No,Yes,No,1,130,22,2,Ixelles
+3630,Not installed,Renovated,1050,No,Yes,No,2,200,25,2,Ixelles
+3630,Not installed,Renovated,1050,No,Yes,No,2,180,19,2,Ixelles
+3500,Hyper equipped,Renovated,1030,No,Yes,Unknown,4,250,16,4,Schaerbeek
+1965,Hyper equipped,Good,1040,No,Yes,Unknown,2,136,30,2,Etterbeek
+1650,Hyper equipped,Good,1000,No,Yes,Yes,1,130,20,2,Brussels City
+2155,Hyper equipped,Renovated,1050,No,Yes,No,1,101,17,2,Ixelles
+2300,Hyper equipped,Renovated,1050,No,Yes,Unknown,2,125,20,2,Ixelles
+3110,Hyper equipped,Renovated,1000,No,Yes,No,2,165,31,3,Brussels City
+1500,Installed,Good,1200,No,Yes,No,2,180,10,3,Woluwe-Saint-Lambert
+4850,Hyper equipped,Renovated,1050,No,Yes,No,2,200,18,3,Ixelles
+1800,Installed,Renovated,1050,No,Yes,Yes,1,60,12,1,Ixelles
+901,Installed,Good,1180,No,Yes,No,1,40,16,1,Uccle
+1400,Hyper equipped,Renovated,1050,No,Yes,No,1,106,10,2,Ixelles
+1510,Installed,Renovated,1150,No,Yes,No,2,114,17,2,Woluwe-St-Pierre
+2600,Hyper equipped,Renovated,1150,No,Yes,No,3,200,13,4,Woluwe-St-Pierre
+1750,Installed,Good,1090,No,Yes,Unknown,1,134,21,2,Jette
+1800,Hyper equipped,Good,1000,No,Yes,No,2,119,10,3,Brussels City
+2510,Hyper equipped,Renovated,1000,No,Yes,No,3,150,10,2,Brussels City
+1850,Hyper equipped,Renovated,1000,No,Yes,Yes,2,133,10,2,Brussels City
+2220,Installed,Renovated,1000,No,Yes,No,2,113,10,3,Brussels City
+1245,Installed,Renovated,1200,No,Yes,No,1,98,10,2,Woluwe-Saint-Lambert
+1750,Hyper equipped,Good,1040,No,Yes,Yes,1,128,10,1,Etterbeek
+1410,Installed,Good,1140,No,Yes,No,1,100,16,2,Evere
+1185,Installed,Renovated,1200,No,Yes,Yes,1,70,15,1,Woluwe-Saint-Lambert
+1850,Installed,Good,1000,No,Yes,No,1,155,17,2,Brussels City
+1250,Not installed,Good,1050,No,Yes,Yes,1,128,10,1,Ixelles
+2450,Installed,Renovated,1180,No,Yes,Unknown,2,210,19,4,Uccle
+3000,Hyper equipped,Renovated,1050,No,Yes,Yes,2,140,28,2,Ixelles
+3000,Hyper equipped,Renovated,1050,No,Yes,No,3,250,20,3,Ixelles
+985,Not installed,Good,1160,No,Yes,No,1,72,12,2,Auderghem
+2000,Hyper equipped,Renovated,1180,No,Yes,No,2,220,15,3,Uccle
+2300,Hyper equipped,Good,1150,No,Yes,No,3,220,18,4,Woluwe-St-Pierre
+850,Hyper equipped,Renovated,1150,No,Yes,No,1,40,10,1,Woluwe-St-Pierre
+2685,Hyper equipped,Good,1150,No,Yes,No,3,198,12,4,Woluwe-St-Pierre
+1700,Hyper equipped,Good,1050,No,Yes,Yes,1,85,14,1,Ixelles
+870,Semi equipped,Good,1040,No,Yes,No,1,50,10,1,Etterbeek
+3250,Installed,Renovated,1050,No,Yes,No,2,240,40,3,Ixelles
+3000,Installed,Renovated,1050,No,Yes,No,2,240,40,3,Ixelles
+1165,Hyper equipped,Good,1070,No,Yes,No,1,114,15,2,Anderlecht
+1105,Hyper equipped,Good,1070,No,Yes,No,1,76,15,2,Anderlecht
+2900,Installed,Good,1050,No,Yes,Yes,2,160,10,3,Ixelles
+860,Installed,Good,1080,No,No,No,1,53,10,1,Molenbeek-Saint-Jean
+1200,Installed,Renovated,1080,No,Yes,Unknown,1,107,17,2,Molenbeek-Saint-Jean
+1060,Semi equipped,Good,1150,No,Yes,No,1,70,10,2,Woluwe-St-Pierre
+1950,Hyper equipped,Good,1180,No,Yes,No,2,180,25,3,Uccle
+1690,Hyper equipped,Good,1180,No,Yes,Unknown,2,145,9,4,Uccle
+1450,Not installed,Renovated,1030,No,Yes,No,1,95,10,2,Schaerbeek
+1280,Hyper equipped,Renovated,1200,No,Yes,No,1,110,10,1,Woluwe-Saint-Lambert
+1280,Hyper equipped,Renovated,1200,No,Yes,No,1,110,10,1,Woluwe-Saint-Lambert
+920,Installed,Good,1000,No,Yes,No,1,56,14,1,Brussels City
+1929,Hyper equipped,Renovated,1180,No,Yes,No,2,130,10,3,Uccle
+1015,Installed,Good,1140,No,Yes,No,1,65,14,1,Evere
+2120,Hyper equipped,Renovated,1180,No,Yes,No,2,128,10,3,Uccle
+1375,Installed,Good,1030,No,Yes,No,2,100,16,2,Schaerbeek
+1650,Hyper equipped,Renovated,1180,No,Yes,No,2,94,14,2,Uccle
+900,Not installed,Good,1050,No,No,Yes,1,43,10,1,Ixelles
+1420,Installed,Renovated,1050,No,Yes,Yes,1,102,25,1,Ixelles
+1450,Installed,Good,1050,No,Yes,No,1,90,10,2,Ixelles
+1600,Not installed,Good,1050,No,Yes,Unknown,1,128,18,1,Ixelles
+1350,Hyper equipped,Good,1180,No,Yes,No,2,85,10,2,Uccle
+1320,Not installed,Good,1040,No,Yes,No,0,124,18,2,Etterbeek
+720,Not installed,Good,1060,No,No,Yes,1,128,10,1,Saint-Gilles
+1400,Hyper equipped,Renovated,1180,No,Yes,No,2,111,19,2,Uccle
+1155,Installed,Renovated,1150,No,Yes,Unknown,1,70,12,2,Woluwe-St-Pierre
+1430,Hyper equipped,Renovated,1200,No,Yes,No,1,98,18,1,Woluwe-Saint-Lambert
+5550,Hyper equipped,Renovated,1050,No,Yes,No,3,270,16,3,Ixelles
+1650,Hyper equipped,Renovated,1050,No,Yes,No,1,84,16,2,Ixelles
+1250,Installed,Renovated,1050,No,Yes,Yes,1,80,20,1,Ixelles
+1275,Installed,Renovated,1040,No,Yes,No,1,62,16,1,Etterbeek
+1225,Hyper equipped,Renovated,1080,No,Yes,Unknown,1,85,18,2,Molenbeek-Saint-Jean
+1750,Not installed,Good,1090,No,Yes,Yes,2,147,20,3,Jette
+1670,Hyper equipped,Good,1000,No,Yes,Yes,1,95,10,2,Brussels City
+1550,Installed,Good,1090,No,Yes,Unknown,2,100,18,3,Jette
+3000,Hyper equipped,Renovated,1040,No,Yes,No,3,250,15,3,Etterbeek
+2500,Hyper equipped,Renovated,1180,No,Yes,No,1,120,17,2,Uccle
+1600,Not installed,Renovated,1060,No,Yes,Yes,2,120,16,2,Saint-Gilles
+2000,Not installed,Renovated,1050,No,Yes,No,2,170,10,3,Ixelles
+2100,Not installed,Good,1050,No,Yes,Yes,0,128,10,2,Ixelles
+2685,Hyper equipped,Good,1000,No,Yes,Yes,1,128,10,2,Brussels City
+1450,Hyper equipped,Renovated,1082,No,Yes,No,2,122,17,3,Berchem-Sainte-Agathe
+1380,Installed,Renovated,1200,No,Yes,No,2,106,14,2,Woluwe-Saint-Lambert
+1800,Hyper equipped,Renovated,1050,No,Yes,No,2,133,19,2,Ixelles
+1300,Installed,Renovated,1050,No,Yes,No,1,38,10,1,Ixelles
+2350,Hyper equipped,Renovated,1180,No,Yes,Yes,2,100,16,1,Uccle
+1590,Hyper equipped,Renovated,1030,No,Yes,Unknown,1,107,9,3,Schaerbeek
+1310,Installed,Renovated,1030,No,Yes,Unknown,1,108,10,2,Schaerbeek
+2250,Hyper equipped,Good,1050,No,Yes,Yes,1,80,10,3,Ixelles
+1750,Installed,Good,1050,No,Yes,Yes,2,85,10,2,Ixelles
+1260,Installed,Good,1180,No,Yes,No,1,70,15,2,Uccle
+1260,Installed,Good,1190,No,Yes,No,1,90,2,2,Forest
+965,Hyper equipped,Renovated,1030,No,Yes,No,1,65,13,1,Schaerbeek
+965,Hyper equipped,Renovated,1040,No,Yes,No,1,65,13,1,Etterbeek
+2400,Not installed,Renovated,1050,No,Yes,No,1,153,17,2,Ixelles
+1750,Hyper equipped,Good,1050,No,Yes,No,2,110,15,2,Ixelles
+2150,Installed,Good,1050,No,No,Yes,2,110,17,3,Ixelles
+1370,Hyper equipped,Renovated,1000,No,Yes,No,1,102,10,2,Brussels City
+4450,Hyper equipped,Renovated,1050,No,Yes,Yes,3,210,26,3,Ixelles
+1000,Installed,Good,1050,No,No,Yes,1,65,10,1,Ixelles
+1225,Hyper equipped,Renovated,1200,No,Yes,Yes,2,75,14,1,Woluwe-Saint-Lambert
+1350,Semi equipped,Good,1083,No,Yes,No,1,95,16,2,Ganshoren
+1650,Hyper equipped,Good,1050,No,Yes,No,2,74,16,2,Ixelles
+4150,Not installed,Renovated,1050,No,Yes,Yes,4,250,10,3,Ixelles
+1385,Semi equipped,Good,1090,No,Yes,No,1,88,10,2,Jette
+2700,Hyper equipped,Renovated,1170,No,Yes,No,2,213,16,4,Watermael-Boitsfort
+960,Installed,Renovated,1060,No,Yes,Yes,1,60,60,1,Saint-Gilles
+1730,Installed,Good,1060,No,Yes,No,1,107,10,2,Saint-Gilles
+1750,Installed,Good,1000,No,Yes,Yes,1,60,12,1,Brussels City
+1220,Hyper equipped,Renovated,1030,No,Yes,No,1,114,21,1,Schaerbeek
+1550,Hyper equipped,Renovated,1030,No,Yes,No,2,123,16,2,Schaerbeek
+1575,Hyper equipped,Renovated,1060,No,Yes,No,2,107,14,2,Saint-Gilles
+1200,Not installed,Renovated,1140,No,No,Unknown,0,70,18,2,Evere
+1379,Hyper equipped,Renovated,1140,No,Yes,No,1,89,15,2,Evere
+1150,Not installed,Good,1030,No,Yes,No,1,87,18,1,Schaerbeek
+1400,Installed,Good,1150,No,Yes,No,2,90,10,2,Woluwe-St-Pierre
+1310,Installed,Good,1083,No,Yes,Unknown,1,85,10,2,Ganshoren
+1250,Installed,Good,1050,No,Yes,No,2,91,17,3,Ixelles
+1300,Installed,Good,1050,No,Yes,No,1,107,12,2,Ixelles
+1750,Hyper equipped,Renovated,1050,No,Yes,No,2,103,22,2,Ixelles
+1400,Semi equipped,Good,1000,No,Yes,No,1,92,15,2,Brussels City
+1500,Installed,Good,1050,No,No,No,2,155,10,2,Ixelles
+1170,Installed,Good,1080,No,Yes,No,1,119,14,2,Molenbeek-Saint-Jean
+3775,Hyper equipped,Renovated,1050,No,Yes,Yes,3,150,17,2,Ixelles
+1975,Hyper equipped,Renovated,1040,No,Yes,Unknown,2,121,10,2,Etterbeek
+1400,Hyper equipped,Renovated,1050,No,Yes,No,1,65,25,1,Ixelles
+1590,Hyper equipped,Good,1030,No,Yes,No,1,142,10,2,Schaerbeek
+1400,Hyper equipped,Renovated,1050,No,Yes,No,1,65,25,1,Ixelles
+1650,Not installed,Good,1050,No,Yes,Unknown,0,101,15,2,Ixelles
+2375,Hyper equipped,Renovated,1050,No,Yes,No,3,155,24,3,Ixelles
+2375,Hyper equipped,Renovated,1050,No,Yes,No,3,155,24,3,Ixelles
+1710,Hyper equipped,Good,1050,No,Yes,Yes,1,88,17,2,Ixelles
+1950,Hyper equipped,Renovated,1050,No,Yes,No,2,93,15,2,Ixelles
+2650,Hyper equipped,Good,1180,No,Yes,No,3,137,14,3,Uccle
+1770,Hyper equipped,Renovated,1180,No,Yes,No,2,118,16,3,Uccle
+2100,Installed,Renovated,1050,No,Yes,Unknown,2,135,10,2,Ixelles
+1030,Installed,Good,1030,No,Yes,No,1,52,15,1,Schaerbeek
+3175,Hyper equipped,Good,1050,No,Yes,No,2,162,10,2,Ixelles
+500,Semi equipped,Good,1190,No,Yes,Unknown,2,160,10,4,Forest
+1115,Hyper equipped,Renovated,1000,No,Yes,No,1,65,10,1,Brussels City
+2150,Hyper equipped,Renovated,1200,No,Yes,No,1,150,10,3,Woluwe-Saint-Lambert
+1552,Hyper equipped,Good,1190,No,Yes,No,1,117,10,3,Forest
+2100,Hyper equipped,Renovated,1000,No,Yes,No,2,146,10,2,Brussels City
+1966,Hyper equipped,Renovated,1050,No,Yes,Yes,1,108,10,1,Ixelles
+1250,Hyper equipped,Renovated,1050,No,Yes,Yes,1,68,13,1,Ixelles
+2025,Hyper equipped,Renovated,1160,No,Yes,No,2,123,14,4,Auderghem
+1400,Hyper equipped,Renovated,1160,No,Yes,No,2,110,14,2,Auderghem
+1850,Hyper equipped,Renovated,1150,No,Yes,No,2,135,21,2,Woluwe-St-Pierre
+1750,Hyper equipped,Renovated,1180,No,Yes,No,1,146,10,3,Uccle
+4650,Hyper equipped,Renovated,1180,No,Yes,No,3,250,10,3,Uccle
+1350,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,95,14,2,Brussels City
+1125,Hyper equipped,Renovated,1000,No,Yes,Unknown,1,65,10,1,Brussels City
+1750,Installed,Good,1200,No,Yes,No,1,123,10,3,Woluwe-Saint-Lambert
+1210,Installed,Good,1050,No,Yes,No,1,72,10,2,Ixelles
+1500,Installed,Good,1050,No,No,No,2,155,10,2,Ixelles
+2250,Hyper equipped,Good,1050,No,Yes,No,3,170,18,3,Ixelles
+3900,Hyper equipped,Good,1050,No,Yes,No,4,285,15,5,Ixelles
+1500,Installed,Good,1050,No,Yes,Yes,2,100,15,1,Ixelles
+1650,Not installed,Renovated,1160,No,Yes,No,2,128,10,2,Auderghem
+1475,Installed,Good,1140,No,Yes,Unknown,2,128,10,2,Evere
+1005,Semi equipped,Renovated,1000,No,Yes,Yes,1,45,10,1,Brussels City
+1350,Installed,Good,1180,No,Yes,No,1,65,10,1,Uccle
+1050,Installed,Good,1030,No,No,Unknown,1,80,14,1,Schaerbeek
+1915,Installed,Good,1180,No,No,No,2,160,10,2,Uccle
+3175,Hyper equipped,Renovated,1050,No,Yes,No,3,162,15,2,Ixelles
+1200,Installed,Good,1030,No,Yes,Unknown,1,114,14,2,Schaerbeek
+1750,Hyper equipped,Good,1000,No,Yes,Unknown,1,110,16,3,Brussels City
+1475,Hyper equipped,Renovated,1120,No,Yes,Unknown,2,140,21,3,Neder-over-Heembeek
+1250,Hyper equipped,Renovated,1030,No,Yes,No,1,73,12,2,Schaerbeek
+2200,Hyper equipped,Good,1050,No,Yes,No,1,130,16,3,Ixelles
+1550,Hyper equipped,Good,1190,No,Yes,No,1,108,15,3,Forest
+2300,Hyper equipped,Good,1180,No,Yes,Yes,1,149,10,3,Uccle
+2400,Installed,Renovated,1180,No,Yes,No,2,125,18,4,Uccle
+1400,Hyper equipped,Renovated,1050,No,Yes,No,2,118,14,2,Ixelles
+1540,Hyper equipped,Good,1083,No,Yes,No,2,115,14,3,Ganshoren
+3400,Installed,Good,1180,No,Yes,No,4,265,21,3,Uccle
+1950,Not installed,Good,1050,No,Yes,No,2,117,10,3,Ixelles
+1775,Hyper equipped,Renovated,1050,No,Yes,No,1,120,17,3,Ixelles
+1775,Installed,Good,1180,No,No,No,1,120,17,3,Uccle
+975,Semi equipped,Renovated,1150,No,Yes,Unknown,1,114,16,1,Woluwe-St-Pierre
+925,Not installed,Good,1050,No,Yes,No,1,89,10,2,Ixelles
+975,Installed,Renovated,1000,No,Yes,Yes,1,55,12,1,Brussels City
+2570,Hyper equipped,Renovated,1000,No,Yes,No,2,135,18,3,Brussels City
+8640,Not installed,Renovated,1050,No,Yes,No,3,256,30,3,Ixelles
+1650,Hyper equipped,Renovated,1180,No,Yes,No,1,95,17,2,Uccle
+4930,Hyper equipped,Renovated,1180,No,Yes,No,2,180,14,3,Uccle
+4930,Hyper equipped,Renovated,1180,No,Yes,Yes,2,180,14,3,Uccle
+1125,Not installed,Renovated,1000,No,Yes,No,1,60,10,1,Brussels City
+1045,Not installed,Renovated,1000,No,Yes,No,1,55,10,1,Brussels City
+1680,Hyper equipped,Renovated,1050,No,Yes,No,2,115,15,2,Ixelles
+1700,Installed,Renovated,1050,No,Yes,No,2,99,10,2,Ixelles
+1500,Installed,Renovated,1000,No,Yes,No,1,116,10,2,Brussels City
+1210,Semi equipped,Renovated,1180,No,Yes,Unknown,1,128,16,2,Uccle
+1280,Installed,Good,1150,No,Yes,No,1,90,10,3,Woluwe-St-Pierre
+1450,Not installed,Renovated,1140,No,Yes,Unknown,2,84,10,2,Evere
+2150,Hyper equipped,Renovated,1050,No,Yes,Yes,1,75,14,1,Ixelles
+3400,Hyper equipped,Renovated,1050,No,Yes,No,5,300,23,4,Ixelles
+1380,Hyper equipped,Renovated,1180,No,Yes,No,2,118,15,2,Uccle
+2600,Hyper equipped,Renovated,1160,No,Yes,Yes,3,210,22,3,Auderghem
+1600,Hyper equipped,Good,1160,No,Yes,No,2,100,15,3,Auderghem
+1820,Hyper equipped,Good,1150,No,Yes,No,1,125,13,3,Woluwe-St-Pierre
+2000,Hyper equipped,Renovated,1150,No,Yes,No,2,125,15,2,Woluwe-St-Pierre
+2200,Not installed,Good,1180,No,Yes,No,1,164,10,3,Uccle
+1750,Installed,Good,1200,No,Yes,No,2,123,10,3,Woluwe-Saint-Lambert
+4200,Installed,Renovated,1050,No,Yes,No,3,280,18,4,Ixelles
+2400,Installed,Renovated,1000,No,Yes,No,3,270,55,2,Brussels City
+3450,Not installed,Renovated,1050,No,Yes,No,3,210,25,2,Ixelles
+3300,Hyper equipped,Renovated,1170,No,Yes,No,3,160,10,3,Watermael-Boitsfort
+1525,Hyper equipped,Renovated,1050,No,Yes,No,2,120,16,2,Ixelles
+1900,Installed,Good,1180,No,Yes,No,1,120,16,3,Uccle
+1500,Hyper equipped,Renovated,1050,No,Yes,No,1,96,18,2,Ixelles
+1500,Hyper equipped,Renovated,1050,No,Yes,No,1,95,18,2,Ixelles
+800,Installed,Good,1070,No,Yes,No,1,62,14,1,Anderlecht
+1850,Hyper equipped,Renovated,1160,No,Yes,Yes,1,95,14,2,Auderghem
+2950,Hyper equipped,Renovated,1050,No,Yes,Yes,2,150,17,2,Ixelles
+1200,Not installed,Good,1000,No,Yes,No,1,65,10,1,Brussels City
+1080,Semi equipped,Good,1180,No,Yes,Unknown,1,80,15,2,Uccle
+2570,Hyper equipped,Renovated,1050,No,Yes,No,2,135,10,3,Ixelles
+2100,Hyper equipped,Renovated,1050,No,Yes,No,3,150,10,3,Ixelles
+1160,Hyper equipped,Good,1030,No,Yes,No,1,80,10,2,Schaerbeek
+1400,Hyper equipped,Renovated,1050,No,Yes,Yes,1,48,10,1,Ixelles
+2135,Not installed,Renovated,1060,No,Yes,No,3,144,24,2,Saint-Gilles
+1500,Not installed,Good,1040,No,Yes,No,1,117,10,2,Etterbeek
+4100,Hyper equipped,Renovated,1000,No,Yes,No,4,222,23,3,Brussels City
+1380,Installed,Good,1000,No,No,Unknown,1,85,10,2,Brussels City
+1400,Not installed,Good,1030,No,Yes,Yes,1,85,14,2,Schaerbeek
+4100,Hyper equipped,Renovated,1050,No,Yes,No,4,230,23,3,Ixelles
+1800,Hyper equipped,Good,1180,No,Yes,No,2,145,16,3,Uccle
+1900,Hyper equipped,Renovated,1050,No,Yes,No,2,96,14,2,Ixelles
+2800,Installed,Renovated,1040,No,Yes,No,3,145,10,3,Etterbeek
+1945,Hyper equipped,Good,1150,No,Yes,No,2,120,16,3,Woluwe-St-Pierre
+2400,Hyper equipped,Renovated,1180,No,Yes,No,2,190,10,4,Uccle
+850,Installed,Good,1030,No,No,Unknown,1,128,10,1,Schaerbeek
+2200,Hyper equipped,Good,1050,No,Yes,No,2,150,12,4,Ixelles
+2700,Hyper equipped,Renovated,1050,No,Yes,No,3,285,25,3,Ixelles
+1750,Hyper equipped,Good,1150,No,Yes,Yes,2,110,16,2,Woluwe-St-Pierre
+1100,Installed,Good,1040,No,Yes,No,1,80,10,1,Etterbeek
+1700,Hyper equipped,Good,1200,No,Yes,No,2,125,10,2,Woluwe-Saint-Lambert
+1260,Hyper equipped,Renovated,1000,No,Yes,No,1,74,19,1,Brussels City
+3050,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,116,16,2,Ixelles
+3000,Installed,Renovated,1180,No,Yes,Yes,2,136,20,2,Uccle
+4650,Hyper equipped,Renovated,1180,No,Yes,No,4,290,10,4,Uccle
+2900,Hyper equipped,Renovated,1180,No,Yes,Unknown,2,200,25,3,Uccle
+1135,Semi equipped,Good,1000,No,Yes,No,1,90,10,1,Brussels City
+740,Hyper equipped,Renovated,1000,No,Yes,No,1,55,10,1,Brussels City
+815,Installed,Good,1000,No,Yes,No,0,74,10,1,Brussels City
+1600,Not installed,Good,1050,No,Yes,No,2,110,10,3,Ixelles
+1500,Not installed,Renovated,1180,No,Yes,No,2,135,10,2,Uccle
+850,Not installed,Good,1050,No,Yes,Yes,1,128,10,1,Ixelles
+1700,Hyper equipped,Good,1180,No,Yes,No,2,90,15,2,Uccle
+1390,Hyper equipped,Good,1050,No,Yes,Yes,1,70,10,2,Ixelles
+1100,Installed,Good,1050,No,Yes,Yes,1,50,10,1,Ixelles
+3380,Installed,Renovated,1000,No,Yes,No,6,270,22,4,Brussels City
+2100,Not installed,Good,1050,No,Yes,Yes,1,85,10,2,Ixelles
+2000,Hyper equipped,Renovated,1050,No,Yes,No,1,85,18,1,Ixelles
+875,Hyper equipped,Renovated,1190,No,Yes,No,1,51,10,1,Forest
+1640,Hyper equipped,Renovated,1060,No,Yes,No,1,121,10,2,Saint-Gilles
+850,Installed,Renovated,1070,No,Yes,Unknown,1,70,10,1,Anderlecht
+1800,Hyper equipped,Renovated,1000,No,Yes,Yes,1,60,12,1,Brussels City
+1470,Semi equipped,Good,1080,No,Yes,No,2,108,10,3,Molenbeek-Saint-Jean
+2300,Hyper equipped,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+2300,Hyper equipped,Renovated,1050,No,Yes,No,2,130,22,2,Ixelles
+810,Semi equipped,Good,1040,No,Yes,No,1,56,10,1,Etterbeek
+2700,Installed,Good,1050,No,No,No,3,284,22,3,Ixelles
+1250,Installed,Good,1040,No,Yes,No,2,80,16,2,Etterbeek
+2550,Hyper equipped,Renovated,1050,No,Yes,No,3,180,22,3,Ixelles
+2550,Hyper equipped,Renovated,1050,No,Yes,No,3,180,22,3,Ixelles
+1150,Installed,Renovated,1140,No,Yes,No,1,90,14,2,Evere
+1150,Installed,Good,1000,No,Yes,No,1,65,15,2,Brussels City
+2600,Hyper equipped,Renovated,1050,No,Yes,No,3,140,18,2,Ixelles
+4900,Hyper equipped,Renovated,1050,No,Yes,No,3,200,10,3,Ixelles
+2600,Hyper equipped,Good,1050,No,Yes,No,2,216,28,4,Ixelles
+2800,Hyper equipped,Renovated,1050,No,Yes,No,3,210,10,3,Ixelles
+2375,Hyper equipped,Good,1180,No,Yes,No,3,125,30,3,Uccle
+1650,Hyper equipped,Good,1200,No,Yes,No,2,135,17,2,Woluwe-Saint-Lambert
+2500,Installed,Renovated,1020,No,Yes,No,4,250,10,5,Laeken
+1300,Not installed,Renovated,1200,No,Yes,Unknown,1,80,12,2,Woluwe-Saint-Lambert
+2000,Hyper equipped,Renovated,1050,No,Yes,No,2,155,20,2,Ixelles
+2050,Hyper equipped,Renovated,1050,No,Yes,No,2,155,20,2,Ixelles
+4650,Hyper equipped,Good,1180,No,Yes,No,5,285,10,4,Uccle
+1950,Not installed,Good,1000,No,Yes,No,2,114,10,2,Brussels City
+2100,Installed,Good,1180,No,No,No,1,220,18,4,Uccle
+2100,Installed,Good,1180,No,No,No,1,220,18,4,Uccle
+2100,Installed,Good,1180,No,No,No,1,220,18,4,Uccle
+1675,Installed,Renovated,1030,No,Yes,Yes,1,90,14,2,Schaerbeek
+3500,Hyper equipped,Renovated,1180,No,Yes,No,3,200,10,3,Uccle
+2600,Hyper equipped,Renovated,1180,No,Yes,No,2,172,20,2,Uccle
+1400,Hyper equipped,Renovated,1070,No,Yes,No,1,68,17,1,Anderlecht
+1900,Hyper equipped,Renovated,1000,No,Yes,Yes,1,54,10,1,Brussels City
+1550,Hyper equipped,Renovated,1030,No,Yes,No,2,95,16,2,Schaerbeek
+1600,Hyper equipped,Good,1000,No,Yes,No,1,117,10,2,Brussels City
+1200,Hyper equipped,Good,1160,No,Yes,Yes,1,57,14,1,Auderghem
+1380,Hyper equipped,Good,1040,No,Yes,Yes,1,57,12,1,Etterbeek
+1775,Hyper equipped,Good,1050,No,Yes,Yes,1,75,14,2,Ixelles
+1475,Hyper equipped,Good,1050,No,Yes,Yes,1,57,12,1,Ixelles
+2450,Hyper equipped,Good,1050,No,Yes,Yes,2,85,14,3,Ixelles
+1670,Semi equipped,Renovated,1000,No,Yes,No,1,102,10,2,Brussels City
+1950,Not installed,Good,1050,No,Yes,No,2,117,10,3,Ixelles
+2700,Hyper equipped,Renovated,1050,No,Yes,No,2,170,8,4,Ixelles
+1915,Hyper equipped,Good,1060,No,No,Unknown,2,160,10,2,Saint-Gilles
+1200,Not installed,Good,1190,No,No,Unknown,1,100,10,2,Forest
+1300,Not installed,Good,1020,No,Yes,Unknown,1,106,10,1,Laeken
+2650,Hyper equipped,Renovated,1200,No,Yes,No,2,200,10,5,Woluwe-Saint-Lambert
+845,Not installed,Renovated,1200,No,No,Unknown,1,45,10,1,Woluwe-Saint-Lambert
+1260,Hyper equipped,Renovated,1000,No,Yes,No,1,74,19,1,Brussels City
+1160,Semi equipped,Renovated,1000,No,Yes,No,1,72,18,1,Brussels City
+1560,Hyper equipped,Renovated,1000,No,Yes,No,1,79,17,1,Brussels City
+2550,Hyper equipped,Renovated,1180,No,Yes,No,3,216,20,3,Uccle
+3250,Hyper equipped,Renovated,1180,No,Yes,No,3,250,20,4,Uccle
+2600,Hyper equipped,Renovated,1180,No,Yes,No,1,145,15,2,Uccle
+1265,Hyper equipped,Renovated,1200,No,Yes,No,1,95,10,2,Woluwe-Saint-Lambert
+2115,Hyper equipped,Renovated,1050,No,Yes,Yes,2,100,15,2,Ixelles
+2350,Installed,Renovated,1000,No,Yes,No,1,126,15,2,Brussels City
+2000,Hyper equipped,Good,1180,No,Yes,No,2,135,14,2,Uccle
+1850,Hyper equipped,Renovated,1000,No,Yes,Yes,1,62,15,1,Brussels City
+1050,Semi equipped,Good,1080,No,Yes,No,1,81,10,1,Molenbeek-Saint-Jean
+2550,Not installed,Good,1000,No,No,No,0,128,10,3,Brussels City
+1600,Not installed,Good,1030,No,Yes,No,2,130,20,2,Schaerbeek
+2200,Hyper equipped,Renovated,1150,No,Yes,No,2,126,15,3,Woluwe-St-Pierre
+955,Not installed,Good,1050,No,No,No,1,60,10,1,Ixelles
+1100,Hyper equipped,Renovated,1050,No,Yes,Yes,1,50,10,1,Ixelles
+1400,Installed,Good,1000,No,Yes,Yes,1,96,10,2,Brussels City
+1500,Hyper equipped,Good,1040,No,Yes,No,1,100,10,2,Etterbeek
+1450,Hyper equipped,Renovated,1050,No,Yes,No,1,98,13,2,Ixelles
+1685,Hyper equipped,Renovated,1040,No,Yes,No,2,100,15,2,Etterbeek
+1440,Hyper equipped,Good,1040,No,Yes,Yes,1,71,15,1,Etterbeek
+1700,Hyper equipped,Renovated,1050,No,Yes,No,1,100,18,2,Ixelles
+955,Not installed,Good,1180,No,Yes,No,1,89,14,1,Uccle
+3500,Hyper equipped,Renovated,1040,No,Yes,No,2,200,27,3,Etterbeek
+1700,Hyper equipped,Renovated,1050,No,Yes,No,1,100,18,2,Ixelles
+4300,Hyper equipped,Renovated,1050,No,Yes,Yes,3,250,18,4,Ixelles
+1095,Installed,Good,1083,No,Yes,No,1,87,8,2,Ganshoren
+3900,Not installed,Good,1050,No,Yes,Yes,3,230,10,4,Ixelles
+1300,Installed,Good,1050,No,Yes,No,2,90,11,1,Ixelles
+2050,Hyper equipped,Renovated,1050,No,Yes,Yes,1,85,23,2,Ixelles
+4300,Installed,Renovated,1180,No,Yes,Yes,4,240,40,4,Uccle
+990,Not installed,Good,1050,No,Yes,No,1,84,10,1,Ixelles
+1015,Not installed,Good,1190,No,No,Unknown,1,70,15,1,Forest
+1299,Not installed,Good,1000,No,No,Yes,1,76,25,1,Brussels City
+2350,Hyper equipped,Renovated,1050,No,Yes,No,2,130,16,2,Ixelles
+3240,Hyper equipped,Renovated,1180,No,Yes,No,2,178,20,2,Uccle
+2100,Hyper equipped,Good,1150,No,Yes,No,3,150,20,3,Woluwe-St-Pierre
+4100,Installed,Good,1050,No,Yes,Yes,2,200,10,2,Ixelles
+1350,Installed,Good,1020,No,Yes,No,2,125,16,2,Laeken
+900,Hyper equipped,Good,1000,No,Yes,Unknown,1,75,10,1,Brussels City
+3280,Hyper equipped,Renovated,1050,No,Yes,No,3,173,30,2,Ixelles
+1690,Hyper equipped,Good,1180,No,Yes,No,1,90,10,2,Uccle
+1750,Hyper equipped,Renovated,1050,No,Yes,Yes,1,120,16,2,Ixelles
+1950,Hyper equipped,Renovated,1070,No,Yes,No,2,160,14,4,Anderlecht
+2200,Hyper equipped,Good,1050,No,Yes,Yes,1,110,10,3,Ixelles
+1750,Installed,Good,1050,No,Yes,No,2,120,16,3,Ixelles
+1830,Hyper equipped,Good,1040,No,Yes,Unknown,1,150,16,3,Etterbeek
+3999,Hyper equipped,Renovated,1050,No,Yes,No,2,200,10,3,Ixelles
+4150,Installed,Renovated,1050,No,Yes,No,2,208,27,3,Ixelles
+4150,Installed,Renovated,1050,No,Yes,No,2,208,27,3,Ixelles
+1325,Hyper equipped,Good,1180,No,No,Yes,1,55,10,1,Uccle
+2700,Hyper equipped,Good,1180,No,No,No,4,235,10,5,Uccle
+3350,Hyper equipped,Renovated,1050,No,Yes,No,2,220,24,3,Ixelles
+1498,Hyper equipped,Renovated,1140,No,Yes,Unknown,1,76,15,1,Evere
+2200,Hyper equipped,Renovated,1180,No,Yes,No,2,150,19,3,Uccle
+1125,Hyper equipped,Good,1000,No,Yes,No,1,105,10,2,Brussels City
+1300,Not installed,Good,1000,No,Yes,No,2,150,10,2,Brussels City
+1950,Not installed,Good,1000,No,Yes,Yes,2,135,10,3,Brussels City
+1200,Installed,Good,1030,No,Yes,No,1,87,10,2,Schaerbeek
+1325,Hyper equipped,Good,1180,No,No,Yes,1,55,10,1,Uccle
+1420,Installed,Good,1083,No,Yes,No,2,135,13,3,Ganshoren
+1810,Hyper equipped,Renovated,1190,No,Yes,No,2,140,14,2,Forest
+1500,Not installed,Good,1000,No,Yes,No,2,95,10,2,Brussels City
+2150,Hyper equipped,Renovated,1200,No,Yes,No,2,125,16,3,Woluwe-Saint-Lambert
+2530,Installed,Renovated,1050,No,Yes,Yes,3,180,10,3,Ixelles
+1535,Hyper equipped,Renovated,1200,No,Yes,No,1,95,14,2,Woluwe-Saint-Lambert
+5650,Hyper equipped,Renovated,1050,No,Yes,No,4,300,30,4,Ixelles
+4440,Hyper equipped,Renovated,1050,No,Yes,Yes,2,181,15,3,Ixelles
+2200,Hyper equipped,Renovated,1090,No,Yes,No,3,143,12,5,Jette
+800,Installed,Good,1070,No,Yes,No,1,56,10,1,Anderlecht
+3300,Installed,Good,1050,No,Yes,No,1,170,17,2,Ixelles
+3550,Hyper equipped,Renovated,1180,No,Yes,No,2,180,18,2,Uccle
+3550,Hyper equipped,Renovated,1180,No,Yes,No,3,180,18,2,Uccle
+2350,Hyper equipped,Renovated,1180,No,Yes,No,2,125,16,2,Uccle
+3050,Hyper equipped,Renovated,1200,No,Yes,No,3,160,18,4,Woluwe-Saint-Lambert
+2100,Hyper equipped,Renovated,1180,No,Yes,No,2,120,12,2,Uccle
+4100,Hyper equipped,Renovated,1050,No,Yes,No,2,128,10,5,Ixelles
+1737,Not installed,Renovated,1000,No,Yes,No,2,199,14,2,Brussels City
+3050,Hyper equipped,Renovated,1180,No,Yes,No,2,170,28,3,Uccle
+1700,Hyper equipped,Good,1150,No,Yes,No,2,160,18,2,Woluwe-St-Pierre
+3170,Hyper equipped,Renovated,1050,No,Yes,Yes,1,180,29,4,Ixelles
+1630,Installed,No renovated,1200,No,Yes,No,2,140,19,3,Woluwe-Saint-Lambert
+2250,Installed,Renovated,1180,No,Yes,Unknown,3,185,19,3,Uccle
+1135,Installed,Renovated,1030,No,Yes,No,1,90,10,2,Schaerbeek
+1850,Hyper equipped,Good,1180,No,Yes,No,2,130,20,2,Uccle
+1215,Hyper equipped,Renovated,1080,No,Yes,No,1,96,14,2,Molenbeek-Saint-Jean
+4100,Not installed,Renovated,1050,No,Yes,Unknown,4,300,10,3,Ixelles
+1300,Hyper equipped,Good,1180,No,No,No,1,85,10,2,Uccle
+1920,Hyper equipped,Renovated,1050,No,Yes,No,3,92,12,3,Ixelles
+2150,Installed,Renovated,1050,No,Yes,Yes,1,76,16,1,Ixelles
+2380,Hyper equipped,Renovated,1050,No,Yes,No,2,175,10,3,Ixelles
+1725,Not installed,Renovated,1020,No,Yes,Unknown,2,143,10,3,Laeken
+1960,Hyper equipped,Good,1180,No,Yes,No,1,166,25,2,Uccle
+1700,Hyper equipped,Renovated,1160,No,No,Yes,1,55,12,1,Auderghem
+1840,Hyper equipped,Renovated,1200,No,Yes,No,1,140,20,3,Woluwe-Saint-Lambert
+1840,Hyper equipped,Renovated,1030,No,Yes,No,1,140,20,3,Schaerbeek
+2380,Hyper equipped,Good,1050,No,Yes,No,2,175,16,2,Ixelles
+2380,Hyper equipped,Good,1050,No,Yes,No,2,175,16,2,Ixelles
+1600,Hyper equipped,Good,1050,No,Yes,Unknown,2,130,10,2,Ixelles
+2501,Installed,Renovated,1030,No,Yes,Unknown,3,232,25,4,Schaerbeek
+1850,Hyper equipped,Renovated,1200,No,Yes,No,2,100,14,2,Woluwe-Saint-Lambert
+1830,Hyper equipped,Renovated,1050,No,Yes,No,1,84,10,2,Ixelles
+2200,Hyper equipped,Good,1150,No,Yes,No,3,125,20,3,Woluwe-St-Pierre
+1500,Hyper equipped,Renovated,1200,No,Yes,No,1,95,22,2,Woluwe-Saint-Lambert
+1260,Hyper equipped,Renovated,1000,No,Yes,No,1,90,11,2,Brussels City
+1975,Hyper equipped,Good,1150,No,Yes,No,2,130,15,3,Woluwe-St-Pierre
+1200,Installed,Good,1030,No,Yes,No,1,90,13,2,Schaerbeek
+810,Hyper equipped,Good,1000,No,Yes,Yes,1,45,10,1,Brussels City
+1776,Hyper equipped,Renovated,1050,No,Yes,No,1,85,16,1,Ixelles
+1075,Installed,Good,1020,No,Yes,No,1,75,13,1,Laeken
+2790,Hyper equipped,Renovated,1050,No,Yes,Unknown,3,200,20,4,Ixelles
+3450,Hyper equipped,Renovated,1000,No,Yes,No,4,293,23,4,Brussels City
+1100,Hyper equipped,Renovated,1200,No,Yes,Yes,1,56,10,1,Woluwe-Saint-Lambert
+1922,Installed,Renovated,1160,No,Yes,No,1,90,10,2,Auderghem
+2115,Installed,Renovated,1160,No,Yes,No,2,101,10,2,Auderghem
+2825,Hyper equipped,Renovated,1050,No,Yes,Yes,1,94,11,2,Ixelles
+4100,Hyper equipped,Renovated,1060,No,Yes,No,3,300,10,5,Saint-Gilles
+2800,Hyper equipped,Renovated,1180,No,Yes,No,2,300,10,4,Uccle
+4930,Hyper equipped,Good,1180,No,No,Yes,3,180,10,3,Uccle
+1130,Hyper equipped,Renovated,1040,No,Yes,Yes,1,65,12,1,Etterbeek
+5600,Not installed,Renovated,1050,No,Yes,Unknown,6,300,10,4,Ixelles
+1800,Hyper equipped,Good,1000,No,Yes,Unknown,2,170,20,3,Brussels City
+4870,Hyper equipped,Renovated,1050,No,Yes,Yes,2,180,9,3,Ixelles
+950,Hyper equipped,Good,1000,No,Yes,No,2,100,10,2,Brussels City
+920,Not installed,Good,1200,No,Yes,No,1,45,15,1,Woluwe-Saint-Lambert
+1310,Not installed,Good,1180,No,Yes,No,1,38,10,1,Uccle
+4930,Hyper equipped,Renovated,1000,No,Yes,Yes,3,180,15,3,Brussels City
+4930,Hyper equipped,Renovated,1050,No,Yes,Yes,3,180,10,3,Ixelles
+1470,Semi equipped,Renovated,1050,No,Yes,No,2,90,15,1,Ixelles
+4930,Hyper equipped,Renovated,1050,No,Yes,Yes,3,180,20,3,Ixelles
+1000,Hyper equipped,Good,1040,No,Yes,Unknown,1,70,17,2,Etterbeek
+4300,Hyper equipped,Renovated,1050,No,Yes,No,3,274,40,3,Ixelles
+3175,Hyper equipped,Renovated,1000,No,Yes,No,3,205,10,3,Brussels City
+650,Not installed,Good,1050,No,Yes,Yes,0,128,10,1,Ixelles
+1600,Installed,Renovated,1170,No,Yes,Unknown,2,126,14,2,Watermael-Boitsfort
+1600,Installed,Renovated,1170,No,Yes,Unknown,2,126,14,2,Watermael-Boitsfort
+1650,Not installed,Good,1160,No,No,Yes,1,100,16,2,Auderghem
+1100,Installed,Renovated,1081,No,Yes,Yes,1,90,20,1,Koekelberg
+1550,Hyper equipped,Good,1040,No,Yes,Yes,2,70,14,2,Etterbeek
+1750,Hyper equipped,Good,1040,No,Yes,Yes,1,70,14,2,Etterbeek
+1225,Hyper equipped,Good,1040,No,Yes,Yes,1,55,12,1,Etterbeek
+1000,Installed,Good,1000,No,Yes,Yes,1,45,10,1,Brussels City
+9100,Not installed,Good,1030,No,Yes,No,5,128,10,4,Schaerbeek
+1350,Not installed,Good,1040,No,No,Yes,1,96,10,1,Etterbeek
+4000,Installed,Renovated,1050,No,Yes,No,5,240,18,5,Ixelles
+3830,Installed,Good,1150,No,Yes,No,3,146,24,5,Woluwe-St-Pierre
+2025,Hyper equipped,Good,1180,No,No,Yes,1,78,10,2,Uccle
+855,Installed,Good,1030,No,Yes,Unknown,1,128,10,1,Schaerbeek
+4000,Hyper equipped,Renovated,1180,No,Yes,No,4,250,10,5,Uccle
+3000,Hyper equipped,Renovated,1050,No,Yes,Yes,2,136,10,2,Ixelles
+1000,Hyper equipped,Renovated,1050,No,Yes,Yes,1,55,10,1,Ixelles
+2300,Installed,Good,1150,No,Yes,No,3,160,10,4,Woluwe-St-Pierre
+1500,Hyper equipped,Renovated,1200,No,Yes,Yes,1,75,14,1,Woluwe-Saint-Lambert
+930,Not installed,Good,1040,No,No,Unknown,1,128,14,1,Etterbeek
+1790,Not installed,Renovated,1000,No,Yes,No,2,130,10,2,Brussels City
+4230,Hyper equipped,Renovated,1180,No,Yes,No,2,185,17,3,Uccle
+1430,Hyper equipped,Renovated,1200,No,Yes,No,1,100,17,2,Woluwe-Saint-Lambert
+1550,Not installed,Renovated,1050,No,Yes,No,2,120,10,2,Ixelles
+4200,Hyper equipped,Renovated,1180,No,Yes,Yes,4,220,10,3,Uccle
+1000,Installed,Good,1000,No,No,Yes,2,130,10,1,Brussels City
+875,Not installed,Renovated,1000,No,Yes,Unknown,1,45,12,1,Brussels City
+875,Hyper equipped,Renovated,1080,No,No,Unknown,2,250,16,1,Molenbeek-Saint-Jean
+3100,Hyper equipped,Good,1050,No,No,No,2,175,16,3,Ixelles
+660,Installed,Good,1030,No,Yes,Yes,2,128,10,4,Schaerbeek
+1250,Hyper equipped,Renovated,1020,No,Yes,No,1,90,9,2,Laeken
+470,Hyper equipped,Renovated,1190,No,Yes,Yes,1,40,15,1,Forest
+3500,Hyper equipped,Renovated,1050,No,Yes,Yes,3,245,37,2,Ixelles
+1285,Installed,Renovated,1200,No,Yes,No,2,85,14,2,Woluwe-Saint-Lambert
+990,Installed,Renovated,1000,No,Yes,Unknown,1,128,25,1,Brussels City
+1950,Not installed,Good,1180,No,Yes,No,3,180,14,4,Uccle
+1200,Not installed,Good,1020,No,No,Yes,0,61,10,1,Laeken
+2600,Hyper equipped,Renovated,1050,No,Yes,No,3,145,14,2,Ixelles
+830,Installed,Renovated,1000,No,Yes,Unknown,1,50,10,1,Brussels City
+2775,Hyper equipped,Renovated,1150,No,Yes,Yes,1,78,15,2,Woluwe-St-Pierre
+1475,Hyper equipped,Good,1050,No,Yes,Yes,1,55,12,1,Ixelles
+1575,Installed,Renovated,1050,No,Yes,Yes,2,70,14,2,Ixelles
+2250,Hyper equipped,Good,1050,No,Yes,Yes,1,80,14,3,Ixelles
+1800,Hyper equipped,Good,1050,No,Yes,Yes,1,70,14,2,Ixelles
+950,Not installed,Good,1180,No,Yes,No,1,66,12,1,Uccle
+2000,Not installed,Good,1180,No,Yes,No,2,145,10,3,Uccle
+1820,Hyper equipped,Good,1050,No,Yes,Yes,1,75,13,2,Ixelles
+1625,Hyper equipped,Good,1050,No,Yes,Yes,1,70,12,2,Ixelles
+2400,Hyper equipped,Good,1050,No,Yes,Yes,2,85,14,3,Ixelles
+1325,Installed,Renovated,1140,No,Yes,Yes,1,55,12,1,Evere
+1300,Hyper equipped,Good,1050,No,Yes,Yes,2,70,14,2,Ixelles
+4200,Installed,Renovated,1000,No,Yes,Yes,2,200,16,3,Brussels City
+2675,Installed,Renovated,1000,No,Yes,Yes,2,100,17,2,Brussels City
+1950,Installed,Good,1050,No,Yes,No,2,100,10,3,Ixelles
+1201,Not installed,Renovated,1160,No,Yes,Unknown,1,67,12,1,Auderghem
+1425,Not installed,Good,1050,No,Yes,No,2,115,16,2,Ixelles
+3700,Hyper equipped,Renovated,1050,No,Yes,No,4,232,20,4,Ixelles
+3200,Semi equipped,Renovated,1180,No,Yes,No,2,185,12,3,Uccle
+750,Semi equipped,Good,1000,No,Yes,Yes,1,128,10,1,Brussels City
+1050,Hyper equipped,Renovated,1083,No,Yes,No,1,90,10,2,Ganshoren
+1670,Installed,Renovated,1140,No,Yes,Yes,1,70,12,2,Evere
+3175,Hyper equipped,Renovated,1180,No,Yes,No,2,165,10,2,Uccle
+2650,Hyper equipped,Renovated,1040,No,Yes,No,2,230,23,3,Etterbeek
+1650,Hyper equipped,Renovated,1160,No,Yes,No,2,109,14,2,Auderghem
+4100,Hyper equipped,Renovated,1050,No,Yes,No,2,128,10,5,Ixelles
+2700,Not installed,Good,1050,No,Yes,Yes,2,200,10,3,Ixelles
+1150,Not installed,Good,1000,No,Yes,Unknown,1,128,10,2,Brussels City
+2000,Hyper equipped,Good,1180,No,Yes,No,3,168,18,3,Uccle
+1750,Not installed,Good,1050,No,Yes,Yes,1,92,10,2,Ixelles
+3000,Hyper equipped,Renovated,1190,No,Yes,Yes,3,150,40,3,Forest
+1450,Not installed,Renovated,1000,No,Yes,Yes,2,137,10,2,Brussels City
+1500,Hyper equipped,Renovated,1050,No,Yes,Yes,1,64,10,1,Ixelles
+1500,Hyper equipped,Renovated,1050,No,Yes,Yes,1,65,10,1,Ixelles
+725,Not installed,Good,1030,No,Yes,Unknown,0,128,10,1,Schaerbeek
+2050,Hyper equipped,Good,1040,No,Yes,Yes,2,80,14,3,Etterbeek
+725,Not installed,Good,1060,No,Yes,Unknown,0,128,10,1,Saint-Gilles
+4100,Hyper equipped,Renovated,1050,No,Yes,No,2,300,10,5,Ixelles
+2150,Not installed,Good,1050,No,Yes,No,0,165,10,3,Ixelles
+630,Not installed,Good,1210,No,No,Yes,0,128,10,1,Saint-Josse-ten-Noode
+1290,Hyper equipped,Good,1180,No,Yes,Yes,1,70,13,2,Uccle
+1400,Semi equipped,Renovated,1082,No,Yes,No,1,97,14,3,Berchem-Sainte-Agathe
+1550,Hyper equipped,Good,1040,No,Yes,Yes,1,128,12,2,Etterbeek
+2250,Hyper equipped,Good,1200,No,Yes,No,2,130,15,3,Woluwe-Saint-Lambert
+960,Semi equipped,Good,1080,No,Yes,No,1,86,13,2,Molenbeek-Saint-Jean
+1350,Installed,Renovated,1050,No,Yes,Yes,1,55,12,1,Ixelles
+3520,Hyper equipped,Good,1150,No,Yes,No,3,175,23,3,Woluwe-St-Pierre
+900,Not installed,Good,1140,No,Yes,No,1,55,10,2,Evere
+1500,Not installed,Renovated,1082,No,Yes,No,1,80,25,2,Berchem-Sainte-Agathe
+1250,Not installed,Renovated,1082,No,Yes,No,1,65,15,1,Berchem-Sainte-Agathe
+1000,Not installed,Renovated,1082,No,Yes,No,1,42,15,1,Berchem-Sainte-Agathe
+1240,Installed,Renovated,1060,No,Yes,Unknown,1,75,10,1,Saint-Gilles
+1750,Installed,Renovated,1180,No,Yes,Unknown,2,146,10,3,Uccle
+1235,Installed,Good,1200,No,Yes,No,2,85,14,2,Woluwe-Saint-Lambert
+1190,Installed,Good,1050,No,Yes,Yes,1,70,10,1,Ixelles
+725,Not installed,Renovated,1210,No,Yes,Unknown,4,128,10,3,Saint-Josse-ten-Noode
+914,Not installed,Renovated,1140,No,Yes,No,1,56,10,1,Evere
+4100,Hyper equipped,Renovated,1050,No,Yes,Yes,2,151,10,2,Ixelles
+2100,Not installed,Good,1000,No,Yes,Unknown,0,128,10,2,Brussels City
+1650,Hyper equipped,Renovated,1020,No,Yes,No,3,165,20,3,Laeken
+5400,Hyper equipped,Renovated,1050,No,Yes,No,4,240,36,3,Ixelles
+1800,Installed,Renovated,1140,No,Yes,No,2,90,10,2,Evere
+5000,Hyper equipped,Renovated,1050,No,Yes,No,4,250,10,3,Ixelles
+900,Installed,Good,1050,No,Yes,Yes,1,128,10,1,Ixelles
+2600,Hyper equipped,Good,1180,No,Yes,No,1,145,15,2,Uccle
+5400,Hyper equipped,Renovated,1050,No,Yes,No,4,244,23,3,Ixelles
+5400,Hyper equipped,Renovated,1050,No,Yes,No,4,244,23,3,Ixelles
+1500,Installed,Good,1140,No,Yes,No,2,90,10,2,Evere
+785,Semi equipped,Good,1140,No,No,No,1,65,10,1,Evere
+3500,Hyper equipped,Renovated,1150,No,Yes,No,3,275,20,4,Woluwe-St-Pierre
+4300,Not installed,Renovated,1050,No,Yes,Yes,2,200,10,3,Ixelles
+4300,Not installed,Renovated,1050,No,Yes,Yes,2,200,10,3,Ixelles
+4300,Not installed,Renovated,1050,No,Yes,Yes,2,200,10,3,Ixelles
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,3,150,10,3,Ixelles
+2525,Not installed,Good,1000,No,Yes,Unknown,4,185,30,3,Brussels City
+4200,Hyper equipped,Renovated,1050,No,Yes,Yes,2,151,10,2,Ixelles
+4100,Not installed,Renovated,1050,No,Yes,Yes,0,170,10,1,Ixelles
+1400,Not installed,Good,1083,No,Yes,No,1,120,10,2,Ganshoren
+1300,Semi equipped,Renovated,1140,No,Yes,No,2,85,10,3,Evere
+670,Installed,Renovated,1050,No,No,No,1,80,12,1,Ixelles
+770,Semi equipped,Renovated,1140,No,Yes,No,1,40,10,1,Evere
+790,Semi equipped,Renovated,1140,No,Yes,No,1,45,10,1,Evere
+2900,Installed,Good,1000,No,Yes,Yes,3,160,16,3,Brussels City
+1400,Not installed,Good,1000,No,Yes,No,1,90,19,2,Brussels City
+2800,Hyper equipped,Renovated,1050,No,Yes,Yes,3,142,17,3,Ixelles
+4700,Hyper equipped,Renovated,1050,No,Yes,Yes,3,151,12,2,Ixelles
+2650,Hyper equipped,Good,1180,No,No,No,1,145,10,2,Uccle
+1665,Hyper equipped,Renovated,1000,No,Yes,No,1,95,10,2,Brussels City
+1175,Hyper equipped,Renovated,1081,No,Yes,Yes,1,85,16,1,Koekelberg
+1000,Semi equipped,Good,1020,No,Yes,No,1,90,16,1,Laeken
+1290,Installed,Renovated,1140,No,Yes,No,2,103,10,3,Evere
+1760,Installed,Good,1200,No,Yes,No,2,150,17,3,Woluwe-Saint-Lambert
+2850,Not installed,Good,1050,No,Yes,No,2,170,10,2,Ixelles
+1150,Hyper equipped,Renovated,1020,No,Yes,No,1,85,14,2,Laeken
+2700,Installed,Renovated,1000,No,Yes,No,3,200,18,3,Brussels City
+944,Semi equipped,Good,1120,No,Yes,No,1,128,10,1,Neder-over-Heembeek
+3200,Installed,Renovated,1000,No,Yes,No,2,220,10,4,Brussels City
+3200,Installed,Renovated,1000,No,Yes,Yes,2,220,10,3,Brussels City
+6700,Hyper equipped,Good,1180,No,Yes,No,3,265,25,3,Uccle
+2600,Installed,Renovated,1050,No,Yes,No,3,200,18,3,Ixelles
+2600,Installed,Renovated,1050,No,Yes,Unknown,3,145,10,2,Ixelles
+2250,Hyper equipped,Renovated,1050,No,No,No,1,110,19,2,Ixelles
+2500,Not installed,Good,1050,No,Yes,No,3,130,15,2,Ixelles
+1625,Installed,Good,1170,No,Yes,Yes,1,67,10,1,Watermael-Boitsfort
+1810,Hyper equipped,Good,1200,No,Yes,No,2,140,19,2,Woluwe-Saint-Lambert
+1700,Hyper equipped,Renovated,1050,No,Yes,Yes,1,128,10,2,Ixelles
+2375,Installed,Renovated,1050,No,Yes,No,2,122,17,3,Ixelles
+4600,Hyper equipped,Renovated,1050,No,Yes,Yes,2,151,10,2,Ixelles
+1200,Hyper equipped,Renovated,1160,No,Yes,Yes,1,44,10,1,Auderghem
+3500,Hyper equipped,Renovated,1050,No,Yes,Yes,1,210,10,2,Ixelles
+3500,Installed,Good,1050,No,Yes,Yes,2,210,25,3,Ixelles
+3700,Hyper equipped,Renovated,1050,No,Yes,Yes,2,210,19,3,Ixelles
+3700,Hyper equipped,Renovated,1050,No,Yes,Yes,2,210,19,3,Ixelles
+3600,Hyper equipped,Renovated,1050,No,Yes,Yes,2,110,10,1,Ixelles
+3600,Hyper equipped,Renovated,1050,No,Yes,Yes,2,110,10,1,Ixelles
+1750,Hyper equipped,Renovated,1200,No,Yes,Yes,1,103,10,2,Woluwe-Saint-Lambert
+1575,Hyper equipped,Good,1000,No,Yes,Yes,1,60,10,1,Brussels City
+6800,Hyper equipped,Renovated,1050,No,Yes,No,4,290,38,3,Ixelles
+3600,Hyper equipped,Renovated,1000,No,Yes,Yes,1,200,10,3,Brussels City
+1350,Not installed,Renovated,1000,No,Yes,No,1,108,10,2,Brussels City
+4200,Hyper equipped,Good,1050,No,Yes,Yes,2,130,18,2,Ixelles
+5500,Installed,Renovated,1170,No,Yes,Unknown,2,110,10,2,Watermael-Boitsfort
+810,Not installed,Good,1040,No,Yes,Unknown,1,128,10,1,Etterbeek
+1980,Hyper equipped,Good,1050,No,Yes,No,2,164,10,3,Ixelles
+1368,Hyper equipped,Good,1050,No,Yes,No,1,82,10,1,Ixelles
+1850,Installed,Renovated,1000,No,Yes,Yes,1,38,10,1,Brussels City
+2245,Installed,Renovated,1040,No,Yes,Yes,1,100,10,2,Etterbeek
+2400,Installed,Renovated,1000,No,Yes,Yes,2,120,10,2,Brussels City
+4400,Hyper equipped,Renovated,1050,No,Yes,Yes,2,150,17,2,Ixelles
+749,Not installed,Good,1050,No,Yes,Yes,1,45,10,1,Ixelles
+2445,Installed,Renovated,1040,No,Yes,Yes,1,120,10,2,Etterbeek
+1625,Hyper equipped,Renovated,1160,No,Yes,Yes,1,80,12,2,Auderghem
+1200,Hyper equipped,Renovated,1160,No,Yes,Yes,1,50,10,1,Auderghem
+6900,Hyper equipped,Renovated,1050,No,Yes,No,4,230,20,3,Ixelles
+2500,Installed,Renovated,1050,No,Yes,Yes,1,100,10,2,Ixelles
+2000,Installed,Renovated,1050,No,Yes,Yes,1,80,10,2,Ixelles
+2750,Installed,Renovated,1050,No,Yes,Yes,2,120,10,3,Ixelles
+2450,Installed,Renovated,1050,No,Yes,Yes,1,100,10,2,Ixelles
+2475,Installed,Renovated,1000,No,Yes,Yes,2,100,10,2,Brussels City
+1950,Installed,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1850,Installed,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+1950,Installed,Renovated,1050,No,Yes,Yes,1,65,10,1,Ixelles
+1399,Installed,Renovated,1000,No,Yes,Yes,1,55,10,1,Brussels City
+1799,Installed,Renovated,1000,No,Yes,Yes,1,80,10,2,Brussels City
+1450,Installed,Renovated,1000,No,Yes,Yes,1,75,10,2,Brussels City
+1919,Installed,Renovated,1000,No,Yes,Yes,1,60,10,1,Brussels City
+2149,Installed,Renovated,1040,No,Yes,Yes,1,75,10,1,Etterbeek
+2500,Installed,Renovated,1000,No,Yes,Yes,1,55,10,1,Brussels City
+1575,Installed,Renovated,1040,No,Yes,Yes,1,40,10,1,Etterbeek
+1850,Installed,Renovated,1000,No,Yes,Yes,1,78,10,1,Brussels City
+2950,Installed,Renovated,1000,No,Yes,Yes,2,85,10,3,Brussels City
+2000,Installed,Renovated,1000,No,Yes,Yes,1,65,10,1,Brussels City
+2500,Installed,Renovated,1050,No,Yes,Yes,1,80,10,3,Ixelles
+1650,Installed,Renovated,1050,No,Yes,Yes,1,45,10,1,Ixelles
+1750,Installed,Renovated,1040,No,Yes,Yes,1,55,10,1,Etterbeek
+2500,Installed,Renovated,1000,No,Yes,Yes,2,140,10,2,Brussels City
+2149,Installed,Renovated,1040,No,Yes,Yes,1,55,10,1,Etterbeek
+2445,Installed,Renovated,1040,No,Yes,Yes,1,80,10,2,Etterbeek
+2489,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,57,10,1,Auderghem
+2633,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,66,14,1,Auderghem
+2646,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,67,14,1,Auderghem
+4053,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,104,14,2,Auderghem
+3648,Hyper equipped,Renovated,1160,No,Yes,Unknown,1,104,23,2,Auderghem
+2155,Hyper equipped,Renovated,1050,No,Yes,No,1,110,17,2,Ixelles
+6200,Hyper equipped,Renovated,1180,No,Yes,No,2,180,20,2,Uccle
+900,Installed,Renovated,1050,No,Yes,Yes,1,50,12,1,Ixelles
